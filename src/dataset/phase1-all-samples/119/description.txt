@@ -1,0 +1,1 @@
+Design a product page for a beauty subscription service called "GlowBoxMonthly," with subscription tiers and product previews.

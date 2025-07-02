@@ -1,0 +1,1 @@
+Design a decentralized subscription service platform for "SubChain," where users pay for content subscriptions using tokens.  

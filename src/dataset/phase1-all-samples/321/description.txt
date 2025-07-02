@@ -1,0 +1,1 @@
+Design a document upload form for "LegalX" where users can submit legal documents for verification, complete with status tracking.

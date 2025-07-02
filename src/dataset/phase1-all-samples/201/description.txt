@@ -1,0 +1,1 @@
+Create a blog post tags section for "DataVision" that displays popular tags or categories related to the posts, allowing users to filter content easily.

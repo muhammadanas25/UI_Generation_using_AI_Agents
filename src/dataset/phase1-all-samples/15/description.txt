@@ -1,0 +1,1 @@
+Create a blog for a music review site called "TuneTales," focusing on album reviews and interviews with artists.

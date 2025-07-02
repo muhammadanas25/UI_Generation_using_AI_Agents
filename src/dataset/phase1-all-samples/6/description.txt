@@ -1,0 +1,1 @@
+Design a book review blog for "BookNook," featuring categorized reviews and a best reads of the month section.

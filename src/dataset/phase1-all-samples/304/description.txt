@@ -1,0 +1,1 @@
+Design a user-friendly login form that integrates Web3 wallet authentication (e.g., MetaMask).  

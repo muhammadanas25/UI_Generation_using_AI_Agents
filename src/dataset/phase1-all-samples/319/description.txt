@@ -1,0 +1,1 @@
+Create a modal component for minting NFTs, showing token details, minting fee, and supply count.

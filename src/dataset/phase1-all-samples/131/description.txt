@@ -1,0 +1,1 @@
+Create a subscription option dropdown for "MonthlyMunch," allowing users to choose different plans for their subscription box directly from the product page.

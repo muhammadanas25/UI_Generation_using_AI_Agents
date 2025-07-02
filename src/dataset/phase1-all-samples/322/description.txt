@@ -1,0 +1,1 @@
+Design a carousel showcasing the most popular NFT collections on a decentralized art marketplace.

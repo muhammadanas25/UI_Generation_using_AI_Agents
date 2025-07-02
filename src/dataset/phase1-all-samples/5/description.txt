@@ -1,0 +1,1 @@
+Create a photography blog for "ShutterStories" that displays full-width photo posts and a portfolio section.

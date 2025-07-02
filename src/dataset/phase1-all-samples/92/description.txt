@@ -1,0 +1,1 @@
+Create a product page for a subscription box service called "MonthlyMunch," with subscription options, product details, and pricing.

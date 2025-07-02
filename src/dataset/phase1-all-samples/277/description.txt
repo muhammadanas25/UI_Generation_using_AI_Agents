@@ -1,0 +1,1 @@
+Design a decentralized micro-lending platform page for "LendX," with smart contract-powered lending pools.  

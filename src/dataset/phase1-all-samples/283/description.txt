@@ -1,0 +1,1 @@
+Design a decentralized NFT trading platform for "TradeX," with support for cross-chain NFT swaps.  

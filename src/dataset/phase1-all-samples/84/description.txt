@@ -1,0 +1,1 @@
+Create a checkout page for an online fashion store called "ChicThreads," focusing on simplicity and a smooth purchase flow.

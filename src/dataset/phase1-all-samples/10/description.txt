@@ -1,0 +1,1 @@
+Design a blog for a movie review site called "FilmFanatic," featuring top reviews and movie rating sections.

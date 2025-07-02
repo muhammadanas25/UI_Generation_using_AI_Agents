@@ -1,0 +1,1 @@
+Create a landing page for a DAO management tool called "GovHub" that simplifies governance token management, competitors being Aragon.  

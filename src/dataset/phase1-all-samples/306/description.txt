@@ -1,0 +1,1 @@
+Design a token card component that displays a user’s holdings, price, and transaction history.

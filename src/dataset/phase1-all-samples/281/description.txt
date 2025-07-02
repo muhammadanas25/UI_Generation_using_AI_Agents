@@ -1,0 +1,1 @@
+Design a decentralized food supply chain tracking app for "FoodChain," ensuring the authenticity of organic products.  

@@ -1,0 +1,1 @@
+Create an event calendar for "RhythmMoves" that displays upcoming performances and allows users to RSVP or purchase tickets.

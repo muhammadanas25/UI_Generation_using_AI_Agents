@@ -1,0 +1,1 @@
+Design a tech news blog for "GadgetHub" that features product reviews, tech news, and how-to guides.

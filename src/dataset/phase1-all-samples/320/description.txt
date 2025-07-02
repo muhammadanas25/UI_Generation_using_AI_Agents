@@ -1,0 +1,1 @@
+Design a notification dropdown for a Web3 platform, showing alerts like completed transactions and staking rewards.

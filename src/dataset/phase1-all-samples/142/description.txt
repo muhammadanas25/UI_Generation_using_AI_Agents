@@ -1,0 +1,1 @@
+Design a portfolio homepage for a software engineer called "Devon Code," featuring coding projects, GitHub integration, and tech stack.

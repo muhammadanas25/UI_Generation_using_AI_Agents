@@ -1,0 +1,1 @@
+Develop a blog post preview section for "Storyteller Ink" that displays titles, excerpts, and featured images of published articles.

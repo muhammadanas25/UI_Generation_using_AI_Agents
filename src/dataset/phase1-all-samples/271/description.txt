@@ -1,0 +1,1 @@
+Design a Web3-based real estate trading platform for "EstateChain" that enables fractional ownership via tokens.  

@@ -1,0 +1,49 @@
+services:
+  redis:
+      image: redis:alpine  # Use the official Redis image
+      container_name: redis_container
+      ports:
+        - "6379:6379"  # Expose Redis port
+
+  akira-backend:
+    image: 334237131392.dkr.ecr.us-west-2.amazonaws.com/akira-ui-generator-backend:latest
+    container_name: akira_ui_generator_backend
+    ports:
+      - "8000:8000"  # Expose the port for FastAPI, adjust if needed
+    volumes:
+      - ./logs:/app/logs  # Mount the logs folder from host to container
+      - ~/.aws:/root/.aws:ro 
+    depends_on:
+      - redis 
+    env_file:
+      - .env  # Load environment variables from the .env file
+    command: uvicorn api.app:app --host 0.0.0.0 --port 8000
+  
+  qdrant:
+    image: qdrant/qdrant
+    ports:
+      - "6333:6333"
+      - "6334:6334"
+    volumes:
+      - qdrant_data:/qdrant/storage
+    restart: always
+
+  image-cache:
+    build:
+      context: .
+      dockerfile: Dockerfile.image-cache
+    volumes:
+      - ./qdrant_data:/app/qdrant_data
+    environment:
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+      - AWS_ACCESS_KEY_ID=${AWS_ACCESS_KEY_ID}
+      - AWS_SECRET_ACCESS_KEY=${AWS_SECRET_ACCESS_KEY}
+      - AWS_REGION=${AWS_REGION}
+      - QDRANT_HOST=qdrant
+      - QDRANT_PORT=6333
+    ports:
+      - "8000:8000"
+    restart: always
+
+volumes:
+  qdrant_data:

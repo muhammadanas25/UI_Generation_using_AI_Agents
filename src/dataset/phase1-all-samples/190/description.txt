@@ -1,0 +1,1 @@
+Design a client testimonial slider for "Emily Lens" that rotates through client feedback with accompanying photos.

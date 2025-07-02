@@ -1,0 +1,1 @@
+Create a decentralized NFT auction platform for "AuctionX," where users can bid on rare digital assets.  

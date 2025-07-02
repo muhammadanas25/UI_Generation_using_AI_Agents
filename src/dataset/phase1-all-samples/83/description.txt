@@ -1,0 +1,1 @@
+Design a homepage for a bookstore called "BookNest," featuring a search bar, book categories, and bestsellers.

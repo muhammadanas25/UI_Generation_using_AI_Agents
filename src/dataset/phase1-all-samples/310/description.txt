@@ -1,0 +1,1 @@
+Design a responsive table for displaying live DeFi lending and borrowing rates.  

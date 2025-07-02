@@ -1,0 +1,5 @@
+boto3
+openai
+qdrant-client
+python-dotenv
+Pillow

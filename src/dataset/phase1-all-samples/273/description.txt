@@ -1,0 +1,1 @@
+Design a decentralized fundraising platform landing page for "CrowdChain" with smart contracts for trustless fund distribution.  

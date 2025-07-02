@@ -1,0 +1,1 @@
+Design a recipe rating component for "TastyBites" that allows users to rate recipes and display average ratings.

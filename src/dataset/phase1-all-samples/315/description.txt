@@ -1,0 +1,1 @@
+Create a floating chat support widget for a decentralized marketplace, allowing users to submit queries.

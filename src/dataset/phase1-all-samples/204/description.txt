@@ -1,0 +1,1 @@
+Create a decentralized identity verification platform page called "IDLink" with integration for Web3 wallets and competitors like Civic.  

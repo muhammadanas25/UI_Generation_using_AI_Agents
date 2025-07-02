@@ -1,0 +1,1 @@
+Create a product quick view modal for "TechHaven" that displays essential details, including price, star ratings, and an "Add to Cart" button without leaving the current page.

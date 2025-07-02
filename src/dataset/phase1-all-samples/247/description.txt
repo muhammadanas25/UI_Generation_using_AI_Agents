@@ -1,0 +1,1 @@
+Design a decentralized finance lending and borrowing platform for "LendChain" inspired by Compound Finance.  

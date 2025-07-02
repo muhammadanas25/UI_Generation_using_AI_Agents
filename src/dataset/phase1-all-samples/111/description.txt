@@ -1,0 +1,1 @@
+Design a homepage for a subscription-based clothing rental service called "RentMyStyle," with membership tiers and featured collections.

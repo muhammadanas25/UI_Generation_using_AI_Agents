@@ -1,0 +1,1 @@
+Design a decentralized media streaming platform for "StreamChain," with token-based monetization for creators.  

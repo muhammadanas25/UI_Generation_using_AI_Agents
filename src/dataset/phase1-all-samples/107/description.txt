@@ -1,0 +1,1 @@
+Design a product page for a fashion ecommerce store called "TrendVibes," with color options, size guides, and customer reviews.

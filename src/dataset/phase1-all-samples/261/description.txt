@@ -1,0 +1,1 @@
+Design a decentralized social networking platform for "SocialNode" where posts are stored on-chain.  

@@ -1,0 +1,35 @@
+service: akira-generate-variant
+
+provider:
+  name: aws
+  runtime: python3.10
+  region: us-west-2
+  iamRoleStatements:
+    - Effect: Allow
+      Action:
+        - ecr:GetAuthorizationToken
+        - ecr:BatchCheckLayerAvailability
+        - ecr:GetDownloadUrlForLayer
+        - ecr:GetRepositoryPolicy
+        - ecr:DescribeRepositories
+        - ecr:GetRepositoryPolicy
+        - ecr:ListImages
+        - ecr:DescribeImages
+        - ecr:BatchGetImage
+        - s3:GetObject
+        - s3:PutObject
+        - s3:PutObjectAcl
+        - dynamodb:UpdateItem
+        - dynamodb:GetItem               # Added permission to get items
+        - dynamodb:PutItem               # Added permission to put items (if you are adding/updating items)
+        - dynamodb:Scan                  # Added permission for scanning items (if needed)
+        - dynamodb:Query                 # Added permission for querying items (if needed)
+      Resource: 
+        - '*'
+        
+functions:
+  akira-generate-variant:
+    image: 334237131392.dkr.ecr.us-west-2.amazonaws.com/akira-ui-generator-generate-variant:latest
+    name: akira-generate-variant
+    memorySize: 4096
+    timeout: 480

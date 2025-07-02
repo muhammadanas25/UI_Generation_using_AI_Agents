@@ -1,0 +1,28 @@
+FROM python:3.11-slim
+
+# Install system dependencies
+RUN apt-get update && apt-get install -y \
+    build-essential \
+    git \
+    wget \
+    unzip \
+    && rm -rf /var/lib/apt/lists/*
+
+# Install Python dependencies
+RUN pip install --no-cache-dir \
+    qdrant-client \
+    numpy \
+    openai \
+    boto3 \
+    python-dotenv
+
+# Set working directory
+WORKDIR /app
+
+# Copy application code
+COPY . .
+
+# Set environment variables
+ENV PYTHONPATH=/app
+
+CMD ["python", "src/ai/qdrant/qdrant_server.py"]

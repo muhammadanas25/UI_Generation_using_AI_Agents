@@ -1,0 +1,1 @@
+Design a portfolio homepage for a digital artist called "PixelArt," featuring a full-screen artwork gallery and commission inquiries.

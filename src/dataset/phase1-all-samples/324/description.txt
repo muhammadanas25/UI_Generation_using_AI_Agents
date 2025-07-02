@@ -1,0 +1,1 @@
+Design a staking rewards counter for a DeFi dashboard, showing real-time rewards earned.

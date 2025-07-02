@@ -1,0 +1,1 @@
+Develop a wishlist feature for "BookNest," enabling users to save books for future purchase and manage their favorites.

@@ -1,0 +1,1 @@
+Develop a customer review section for "GlowNaturals," where users can submit reviews with star ratings and comments for each product.

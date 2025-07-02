@@ -1,0 +1,5 @@
+[21/May/2024 20:19:32 PKT] INFO [test:test.py:<module>] This is an info message
+[21/May/2024 20:19:32 PKT] ERROR [test:test.py:<module>] This is an error message
+[21/May/2024 20:19:32 PKT] DEBUG [test:test.py:<module>] This is a debug message
+[21/May/2024 20:19:32 PKT] WARNING [test:test.py:<module>] This is a warning message
+[21/May/2024 20:19:32 PKT] CRITICAL [test:test.py:<module>] This is a critical message

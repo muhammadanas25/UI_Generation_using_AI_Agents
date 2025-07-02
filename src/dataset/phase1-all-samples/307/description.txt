@@ -1,0 +1,1 @@
+Create a bidding timer for "AuctionX" that displays the countdown for auction end times and the current highest bid for each NFT.  

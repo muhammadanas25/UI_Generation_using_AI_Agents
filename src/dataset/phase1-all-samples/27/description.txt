@@ -1,0 +1,1 @@
+Create a personal blog for an author called "StoryTales" with book excerpts, writing tips, and literary analysis.

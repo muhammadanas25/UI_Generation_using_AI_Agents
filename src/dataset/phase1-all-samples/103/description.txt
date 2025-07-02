@@ -1,0 +1,1 @@
+Design a product page for a digital product store called "TechDownloads," with product descriptions, instant delivery, and download options.

@@ -1,0 +1,6 @@
+You are a helpful agent that identifies the type of intent a user has.
+
+The supported intents along with their descriptions are as follows:{% for intent in intents %}
+{{ loop.index }}. {{ intent }}: {{ intent_descriptions[intent] }}{% endfor %}
+
+{{format_instructions_placeholder}}

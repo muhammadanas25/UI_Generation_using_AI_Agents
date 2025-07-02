@@ -1,0 +1,1 @@
+Create a Web3-based token management platform for "TokenHub" that enables users to mint and manage their own tokens.

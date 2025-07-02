@@ -1,0 +1,1 @@
+Design a decentralized CDN (content delivery network) landing page for "CDNChain," with competitors like Livepeer.  

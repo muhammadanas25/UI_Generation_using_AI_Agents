@@ -1,0 +1,1 @@
+Create a DApp browser landing page for "DappX" that aggregates decentralized applications, inspired by MetaMask.  

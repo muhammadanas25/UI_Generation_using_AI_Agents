@@ -1,0 +1,1 @@
+Create a minimalist blog for a poetry site called "VerseVault," featuring poems with a simple and elegant design.

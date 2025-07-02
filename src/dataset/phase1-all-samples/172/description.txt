@@ -1,0 +1,1 @@
+Design a personal portfolio homepage for an architect called "DesignByDrew," with featured architectural designs, CAD drawings, and blueprints.

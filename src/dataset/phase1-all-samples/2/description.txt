@@ -1,0 +1,1 @@
+Design a food blog page for "TastyBites" with a recipe search bar and featured dishes section.

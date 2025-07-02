@@ -1,0 +1,1 @@
+Create a Web3 landing page for an NFT marketplace called "Artify" with Ethereum as the primary chain and OpenSea as the competitor.  

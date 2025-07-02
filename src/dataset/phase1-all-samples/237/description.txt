@@ -1,0 +1,1 @@
+Design a decentralized auction platform page for "AuctionX" that facilitates NFT and tokenized assets auctions.  

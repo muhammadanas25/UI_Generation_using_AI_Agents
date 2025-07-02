@@ -1,0 +1,1 @@
+Create a decentralized marketplace platform for AI models called "AIMarket" where developers can sell AI model NFTs.  

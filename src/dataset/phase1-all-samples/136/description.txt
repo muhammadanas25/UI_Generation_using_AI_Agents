@@ -1,0 +1,1 @@
+Design a search results filtering option for "GadgetAddict," allowing users to narrow results based on product type, price range, and rating.

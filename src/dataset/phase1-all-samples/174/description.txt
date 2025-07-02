@@ -1,0 +1,1 @@
+Design a portfolio homepage for a painter called "ColorCanvas," featuring a gallery of paintings, art exhibitions, and studio sessions.

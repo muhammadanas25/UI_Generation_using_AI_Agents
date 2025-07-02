@@ -1,0 +1,1 @@
+Design a product listing page for a men's grooming store called "SharpLook," with filters for beard care, hair styling, and skincare.

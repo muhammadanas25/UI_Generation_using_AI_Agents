@@ -1,0 +1,36 @@
+service: akira-update-variant
+
+provider:
+  name: aws
+  runtime: python3.10
+  region: us-west-2
+  iamRoleStatements:
+   - Effect: Allow
+     Action:
+        - ecr:GetAuthorizationToken
+        - ecr:BatchCheckLayerAvailability
+        - ecr:GetDownloadUrlForLayer
+        - ecr:GetRepositoryPolicy
+        - ecr:DescribeRepositories
+        - ecr:GetRepositoryPolicy
+        - ecr:ListImages
+        - ecr:DescribeImages
+        - ecr:BatchGetImage
+        - s3:GetObject
+        - s3:PutObject
+        - s3:PutObjectAcl
+        - dynamodb:UpdateItem
+        - dynamodb:GetItem
+        - dynamodb:PutItem
+        - dynamodb:Scan
+        - dynamodb:Query
+     Resource:
+        - '*'
+    
+functions:
+  akira-generate-variant:
+    image: 334237131392.dkr.ecr.us-west-2.amazonaws.com/akira-ui-generator-update-variant:latest
+    name: akira-update-variant
+    memorySize: 4096
+    timeout: 480
+    

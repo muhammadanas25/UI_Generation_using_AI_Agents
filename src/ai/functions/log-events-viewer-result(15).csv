@@ -1,0 +1,1144 @@
+timestamp,message
+1748516390859,"INIT_REPORT Init Duration: 9998.11 ms	Phase: init	Status: timeout
+"
+1748516400148,"START RequestId: c0d7a98c-6d1f-4861-b383-18801c03e4da Version: $LATEST
+"
+1748516400148,"[INFO]	2025-05-29T11:00:00.148Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Event: {'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0'}
+"
+1748516400148,"[INFO]	2025-05-29T11:00:00.148Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Fetching variant by ID: e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0, include_deleted: True, include_failed: False
+"
+1748516400192,"[INFO]	2025-05-29T11:00:00.191Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Returning variant: {'updated_at': '2025-05-29T10:59:39.188313+00:00', 'variant_type': 'three', 'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'created_at': '2025-05-29T10:59:39.188306+00:00', 'status': 'in_progress', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_data': {}, 'variant_creation_status': 'GENERATING_VARIANT_DATA', 'previous_variant_id': None, 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0'}
+"
+1748516400192,"[INFO]	2025-05-29T11:00:00.192Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Updating variant creation status for variant ID: e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0 to GENERATING_VARIANT_DATA
+"
+1748516400200,"[INFO]	2025-05-29T11:00:00.200Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Variant creation status for variant ID: e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0 updated successfully.
+"
+1748516400200,"[INFO]	2025-05-29T11:00:00.200Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_data': {}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_type': 'three', 'status': 'in_progress', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516400390,"[INFO]	2025-05-29T11:00:00.390Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'agent_status': 'GENERATING_UI'}
+"
+1748516400417,"[WARNING]	2025-05-29T11:00:00.416Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Langfuse client is disabled since no public_key was provided as a parameter or environment variable 'LANGFUSE_PUBLIC_KEY'. See our docs: https://langfuse.com/docs/sdk/python/low-level-sdk#initialize-client
+"
+1748516400426,"[INFO]	2025-05-29T11:00:00.426Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Running UIGeneratorFineTunedAgent with query: create a stationary shop page it should show relevant product like pen books etc
+"
+1748516400582,"Generating UI with Fine Tuned Model - []...
+"
+1748516403973,"<text>Here's a stationary shop page showcasing various products like pens, notebooks, and other supplies
+"
+1748516403973,"NOIFYING THE STREAM
+"
+1748516403973,"[INFO]	2025-05-29T11:00:03.973Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ""<text>Here's a stationary shop page showcasing various products like pens, notebooks, and other supplies"", 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516404391,". The design is clean and responsive, with hover effects and a modern aesthetic.</text>
+"
+1748516404391,"<code>
+"
+1748516404391,"import
+"
+1748516404391,"NOIFYING THE STREAM
+"
+1748516404392,"[INFO]	2025-05-29T11:00:04.392Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '. The design is clean and responsive, with hover effects and a modern aesthetic.</text>
+
+<code>
+import', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516404843,"{ useState } from 'react'
+"
+1748516404843,"import { Button } from ""@/components/ui/button""
+"
+1748516404843,"import { Card, CardContent
+"
+1748516404843,"NOIFYING THE STREAM
+"
+1748516404843,"[INFO]	2025-05-29T11:00:04.843Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' { useState } from \'react\'
+import { Button } from ""@/components/ui/button""
+import { Card, CardContent', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516405250,", CardFooter, CardHeader, CardTitle } from ""@/components/ui/card""
+"
+1748516405250,"import { Input } from ""@/components
+"
+1748516405250,"NOIFYING THE STREAM
+"
+1748516405250,"[INFO]	2025-05-29T11:00:05.250Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ', CardFooter, CardHeader, CardTitle } from ""@/components/ui/card""
+import { Input } from ""@/components', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516405783,"/ui/input""
+"
+1748516405783,"import { ShoppingCart, Search, Menu, X } from ""lucide-react""
+"
+1748516405783,"import Link from 'next/link'
+"
+1748516405783,"NOIFYING THE STREAM
+"
+1748516405783,"[INFO]	2025-05-29T11:00:05.783Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '/ui/input""
+import { ShoppingCart, Search, Menu, X } from ""lucide-react""
+import Link from \'next/link\'
+
+', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516406288,"export default function StationaryShop() {
+"
+1748516406288,"const [cartCount, setCartCount] = useState(0)
+"
+1748516406288,"const [
+"
+1748516406288,"NOIFYING THE STREAM
+"
+1748516406288,"[INFO]	2025-05-29T11:00:06.288Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'export default function StationaryShop() {
+  const [cartCount, setCartCount] = useState(0)
+  const [', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516406848,"menuOpen, setMenuOpen] = useState(false)
+"
+1748516406848,"const addToCart = () => {
+"
+1748516406848,"setCartCount(cartCount + 1
+"
+1748516406848,"NOIFYING THE STREAM
+"
+1748516406848,"[INFO]	2025-05-29T11:00:06.847Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'menuOpen, setMenuOpen] = useState(false)
+
+  const addToCart = () => {
+    setCartCount(cartCount + 1', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516407368,")
+"
+1748516407368,"}
+"
+1748516407368,"return (
+"
+1748516407368,"<div className=""min-h-screen bg-gray-100 flex flex-col"">
+"
+1748516407368,"<header className
+"
+1748516407368,"NOIFYING THE STREAM
+"
+1748516407368,"[INFO]	2025-05-29T11:00:07.368Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ')
+  }
+
+  return (
+    <div className=""min-h-screen bg-gray-100 flex flex-col"">
+      <header className', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516407935,'"=""bg-white shadow sticky top-0 z-50"">
+"
+1748516407935,"<div className=""container mx-auto px-4 py-4 flex items
+"
+1748516407935,"NOIFYING THE STREAM
+"
+1748516407936,"[INFO]	2025-05-29T11:00:07.935Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '=""bg-white shadow sticky top-0 z-50"">
+        <div className=""container mx-auto px-4 py-4 flex items', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516408324,'"-center justify-between"">
+"
+1748516408324,"<Link href=""#"" className=""text-2xl font-bold text-primary hover:text
+"
+1748516408324,"NOIFYING THE STREAM
+"
+1748516408324,"[INFO]	2025-05-29T11:00:08.324Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-center justify-between"">
+          <Link href=""#"" className=""text-2xl font-bold text-primary hover:text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516408682,'"-primary-foreground transition-colors duration-300"">
+"
+1748516408682,"Stationary Shop
+"
+1748516408682,"</Link>
+"
+1748516408682,"NOIFYING THE STREAM
+"
+1748516408682,"[INFO]	2025-05-29T11:00:08.682Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-primary-foreground transition-colors duration-300"">
+            Stationary Shop
+          </Link>
+         ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516409127,"<nav className=""hidden md:flex space-x-6"">
+"
+1748516409127,"<Link href=""#"" className=""text-gray-600 hover
+"
+1748516409127,"NOIFYING THE STREAM
+"
+1748516409128,"[INFO]	2025-05-29T11:00:09.128Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <nav className=""hidden md:flex space-x-6"">
+            <Link href=""#"" className=""text-gray-600 hover', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516409494,":text-primary transition-colors duration-300"">Home</Link>
+"
+1748516409494,"<Link href=""#"" className=""text
+"
+1748516409494,"NOIFYING THE STREAM
+"
+1748516409495,"[INFO]	2025-05-29T11:00:09.495Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ':text-primary transition-colors duration-300"">Home</Link>
+            <Link href=""#"" className=""text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516409862,'"-gray-600 hover:text-primary transition-colors duration-300"">Products</Link>
+"
+1748516409862,"<Link href=""#""
+"
+1748516409862,"NOIFYING THE STREAM
+"
+1748516409862,"[INFO]	2025-05-29T11:00:09.862Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-gray-600 hover:text-primary transition-colors duration-300"">Products</Link>
+            <Link href=""#""', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516410226,"className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</Link>
+"
+1748516410226,"NOIFYING THE STREAM
+"
+1748516410226,"[INFO]	2025-05-29T11:00:10.226Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</Link>
+           ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516410623,"<Link href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</
+"
+1748516410623,"NOIFYING THE STREAM
+"
+1748516410623,"[INFO]	2025-05-29T11:00:10.623Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <Link href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516411048,"Link>
+"
+1748516411048,"</nav>
+"
+1748516411048,"<div className=""flex items-center space-x-4"">
+"
+1748516411048,"<div class
+"
+1748516411048,"NOIFYING THE STREAM
+"
+1748516411048,"[INFO]	2025-05-29T11:00:11.048Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Link>
+          </nav>
+          <div className=""flex items-center space-x-4"">
+            <div class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516411357,"Name=""relative"">
+"
+1748516411357,"<Input
+"
+1748516411357,"type=""search""
+"
+1748516411357,"placeholder=""Search
+"
+1748516411357,"NOIFYING THE STREAM
+"
+1748516411357,"[INFO]	2025-05-29T11:00:11.357Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""relative"">
+              <Input
+                type=""search""
+                placeholder=""Search', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516411801,"products...""
+"
+1748516411801,"className=""w-48 pl-10 pr-4 py-2 border border-gray-300 rounded-md focus
+"
+1748516411801,"NOIFYING THE STREAM
+"
+1748516411801,"[INFO]	2025-05-29T11:00:11.801Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' products...""
+                className=""w-48 pl-10 pr-4 py-2 border border-gray-300 rounded-md focus', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516412096,":outline-none focus:ring-2 focus:ring-primary""
+"
+1748516412096,"/>
+"
+1748516412096,"<Search className=""absolute
+"
+1748516412096,"NOIFYING THE STREAM
+"
+1748516412096,"[INFO]	2025-05-29T11:00:12.096Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ':outline-none focus:ring-2 focus:ring-primary""
+              />
+              <Search className=""absolute', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516412667,"left-3 top-1/2 transform -translate-y-1/2 text-gray-400"" />
+"
+1748516412667,"</div>
+"
+1748516412667,"<Link href
+"
+1748516412667,"NOIFYING THE STREAM
+"
+1748516412667,"[INFO]	2025-05-29T11:00:12.667Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' left-3 top-1/2 transform -translate-y-1/2 text-gray-400"" />
+            </div>
+            <Link href', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516413091,'"=""#"" className=""relative"">
+"
+1748516413091,"<ShoppingCart className=""h-6 w-6 text-gray-600 hover:text-primary
+"
+1748516413091,"NOIFYING THE STREAM
+"
+1748516413091,"[INFO]	2025-05-29T11:00:13.091Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '=""#"" className=""relative"">
+              <ShoppingCart className=""h-6 w-6 text-gray-600 hover:text-primary', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516413466,"transition-colors duration-300"" />
+"
+1748516413466,"{cartCount > 0 && (
+"
+1748516413466,"<span className
+"
+1748516413466,"NOIFYING THE STREAM
+"
+1748516413466,"[INFO]	2025-05-29T11:00:13.466Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' transition-colors duration-300"" />
+              {cartCount > 0 && (
+                <span className', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516413915,'"=""absolute -top-2 -right-2 bg-primary-foreground text-white rounded-full px-2 text-xs"">
+"
+1748516413915,"NOIFYING THE STREAM
+"
+1748516413915,"[INFO]	2025-05-29T11:00:13.915Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '=""absolute -top-2 -right-2 bg-primary-foreground text-white rounded-full px-2 text-xs"">
+                 ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516414239,"{cartCount}
+"
+1748516414239,"</span>
+"
+1748516414239,")}
+"
+1748516414239,"</Link>
+"
+1748516414239,"<button onClick
+"
+1748516414239,"NOIFYING THE STREAM
+"
+1748516414239,"[INFO]	2025-05-29T11:00:14.239Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' {cartCount}
+                </span>
+              )}
+            </Link>
+            <button onClick', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516414668,'"={() => setMenuOpen(!menuOpen)} className=""md:hidden text-gray-600 hover:text-primary transition-col
+"
+1748516414668,"NOIFYING THE STREAM
+"
+1748516414668,"[INFO]	2025-05-29T11:00:14.668Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '={() => setMenuOpen(!menuOpen)} className=""md:hidden text-gray-600 hover:text-primary transition-col', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516415326,"ors duration-300"">
+"
+1748516415326,"{menuOpen ? <X className=""h-6 w-6"" /> : <Menu className=""h-6 w-6"" />}
+"
+1748516415326,"NOIFYING THE STREAM
+"
+1748516415326,"[INFO]	2025-05-29T11:00:15.326Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'ors duration-300"">
+              {menuOpen ? <X className=""h-6 w-6"" /> : <Menu className=""h-6 w-6"" />}
+', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516415770,"</button>
+"
+1748516415770,"</div>
+"
+1748516415770,"</div>
+"
+1748516415770,"{menuOpen && (
+"
+1748516415770,"<nav className
+"
+1748516415770,"NOIFYING THE STREAM
+"
+1748516415770,"[INFO]	2025-05-29T11:00:15.770Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '            </button>
+          </div>
+        </div>
+        {menuOpen && (
+          <nav className', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516416264,'"=""md:hidden bg-white shadow"">
+"
+1748516416264,"<div className=""container mx-auto px-4 py-2 space-y-2"">
+"
+1748516416264,"NOIFYING THE STREAM
+"
+1748516416264,"[INFO]	2025-05-29T11:00:16.264Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '=""md:hidden bg-white shadow"">
+            <div className=""container mx-auto px-4 py-2 space-y-2"">
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516416668,"<Link href=""#"" className=""block text-gray-600 hover:text-primary transition-colors duration-300"">Home
+"
+1748516416668,"NOIFYING THE STREAM
+"
+1748516416669,"[INFO]	2025-05-29T11:00:16.668Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <Link href=""#"" className=""block text-gray-600 hover:text-primary transition-colors duration-300"">Home', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516417112,"</Link>
+"
+1748516417112,"<Link href=""#"" className=""block text-gray-600 hover:text-primary transition-col
+"
+1748516417112,"NOIFYING THE STREAM
+"
+1748516417112,"[INFO]	2025-05-29T11:00:17.112Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '</Link>
+              <Link href=""#"" className=""block text-gray-600 hover:text-primary transition-col', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516417589,"ors duration-300"">Products</Link>
+"
+1748516417589,"<Link href=""#"" className=""block text-gray-600 hover:text
+"
+1748516417589,"NOIFYING THE STREAM
+"
+1748516417589,"[INFO]	2025-05-29T11:00:17.589Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'ors duration-300"">Products</Link>
+              <Link href=""#"" className=""block text-gray-600 hover:text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516418030,'"-primary transition-colors duration-300"">About</Link>
+"
+1748516418030,"<Link href=""#"" className=""block text
+"
+1748516418030,"NOIFYING THE STREAM
+"
+1748516418030,"[INFO]	2025-05-29T11:00:18.030Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-primary transition-colors duration-300"">About</Link>
+              <Link href=""#"" className=""block text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516418455,'"-gray-600 hover:text-primary transition-colors duration-300"">Contact</Link>
+"
+1748516418455,"</div>
+"
+1748516418455,"NOIFYING THE STREAM
+"
+1748516418456,"[INFO]	2025-05-29T11:00:18.455Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-gray-600 hover:text-primary transition-colors duration-300"">Contact</Link>
+            </div>
+         ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516419130,"</nav>
+"
+1748516419130,")}
+"
+1748516419130,"</header>
+"
+1748516419130,"<main className=""flex-grow container mx-auto px-4 py-8"">
+"
+1748516419130,"NOIFYING THE STREAM
+"
+1748516419130,"[INFO]	2025-05-29T11:00:19.130Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' </nav>
+        )}
+      </header>
+
+      <main className=""flex-grow container mx-auto px-4 py-8"">
+       ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516419666,"<h1 className=""text-4xl font-bold mb-8 text-center text-primary"">Welcome to Our Stationary Shop</h1
+"
+1748516419666,"NOIFYING THE STREAM
+"
+1748516419666,"[INFO]	2025-05-29T11:00:19.666Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <h1 className=""text-4xl font-bold mb-8 text-center text-primary"">Welcome to Our Stationary Shop</h1', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516420208,">
+"
+1748516420208,"<div className=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"">
+"
+1748516420208,"<Card class
+"
+1748516420208,"NOIFYING THE STREAM
+"
+1748516420208,"[INFO]	2025-05-29T11:00:20.208Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '>
+        <div className=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"">
+          <Card class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516420603,"Name=""hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1"">
+"
+1748516420603,"<Card
+"
+1748516420603,"NOIFYING THE STREAM
+"
+1748516420603,"[INFO]	2025-05-29T11:00:20.603Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1"">
+            <Card', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516420985,"Header>
+"
+1748516420985,"<CardTitle className=""text-primary"">Premium Ballpoint Pen</CardTitle>
+"
+1748516420985,"NOIFYING THE STREAM
+"
+1748516420985,"[INFO]	2025-05-29T11:00:20.985Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Header>
+              <CardTitle className=""text-primary"">Premium Ballpoint Pen</CardTitle>
+           ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516421377,"</CardHeader>
+"
+1748516421377,"<CardContent className=""flex justify-center"">
+"
+1748516421377,"<img src=""/placeholder
+"
+1748516421377,"NOIFYING THE STREAM
+"
+1748516421377,"[INFO]	2025-05-29T11:00:21.377Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' </CardHeader>
+            <CardContent className=""flex justify-center"">
+              <img src=""/placeholder', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516422126,".svg?height=200&width=200"" alt=""Premium Ballpoint Pen"" className=""w-48 h-48 object-cover rounded-md""
+"
+1748516422126,"NOIFYING THE STREAM
+"
+1748516422126,"[INFO]	2025-05-29T11:00:22.126Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '.svg?height=200&width=200"" alt=""Premium Ballpoint Pen"" className=""w-48 h-48 object-cover rounded-md""', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516422464,"/>
+"
+1748516422464,"</CardContent>
+"
+1748516422464,"<CardFooter className=""flex justify-between items-center"">
+"
+1748516422464,"NOIFYING THE STREAM
+"
+1748516422464,"[INFO]	2025-05-29T11:00:22.464Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' />
+            </CardContent>
+            <CardFooter className=""flex justify-between items-center"">
+', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516422906,"<span className=""text-xl font-semibold text-gray-800"">$12.99</span>
+"
+1748516422906,"<Button
+"
+1748516422906,"NOIFYING THE STREAM
+"
+1748516422906,"[INFO]	2025-05-29T11:00:22.906Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '              <span className=""text-xl font-semibold text-gray-800"">$12.99</span>
+              <Button', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516423319,"onClick={addToCart} variant=""primary"" className=""flex items-center"">
+"
+1748516423319,"Add to Cart
+"
+1748516423319,"NOIFYING THE STREAM
+"
+1748516423319,"[INFO]	2025-05-29T11:00:23.319Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' onClick={addToCart} variant=""primary"" className=""flex items-center"">
+                Add to Cart
+               ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516423738,"<ShoppingCart className=""ml-2 h-5 w-5"" />
+"
+1748516423738,"</Button>
+"
+1748516423738,"</CardFooter>
+"
+1748516423738,"NOIFYING THE STREAM
+"
+1748516423738,"[INFO]	2025-05-29T11:00:23.738Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <ShoppingCart className=""ml-2 h-5 w-5"" />
+              </Button>
+            </CardFooter>
+         ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516424075,"</Card>
+"
+1748516424075,"<Card className=""hover:shadow-xl transition-shadow duration-300 transform hover:-
+"
+1748516424075,"NOIFYING THE STREAM
+"
+1748516424075,"[INFO]	2025-05-29T11:00:24.075Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' </Card>
+
+          <Card className=""hover:shadow-xl transition-shadow duration-300 transform hover:-', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516424442,"translate-y-1"">
+"
+1748516424442,"<CardHeader>
+"
+1748516424442,"<CardTitle className=""text-primary"">Classic Notebook
+"
+1748516424442,"NOIFYING THE STREAM
+"
+1748516424442,"[INFO]	2025-05-29T11:00:24.442Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'translate-y-1"">
+            <CardHeader>
+              <CardTitle className=""text-primary"">Classic Notebook', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516424950,"</CardTitle>
+"
+1748516424950,"</CardHeader>
+"
+1748516424950,"<CardContent className=""flex justify-center"">
+"
+1748516424950,"NOIFYING THE STREAM
+"
+1748516424950,"[INFO]	2025-05-29T11:00:24.950Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '</CardTitle>
+            </CardHeader>
+            <CardContent className=""flex justify-center"">
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516425450,"<img src=""/placeholder.svg?height=200&width=200"" alt=""Classic Notebook"" className=""w-48 h-48 object
+"
+1748516425450,"NOIFYING THE STREAM
+"
+1748516425450,"[INFO]	2025-05-29T11:00:25.450Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <img src=""/placeholder.svg?height=200&width=200"" alt=""Classic Notebook"" className=""w-48 h-48 object', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516425799,'"-cover rounded-md"" />
+"
+1748516425799,"</CardContent>
+"
+1748516425799,"<CardFooter className=""flex justify-between
+"
+1748516425799,"NOIFYING THE STREAM
+"
+1748516425799,"[INFO]	2025-05-29T11:00:25.799Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-cover rounded-md"" />
+            </CardContent>
+            <CardFooter className=""flex justify-between', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516426234,"items-center"">
+"
+1748516426234,"<span className=""text-xl font-semibold text-gray-800"">$8.49</span>
+"
+1748516426234,"NOIFYING THE STREAM
+"
+1748516426234,"[INFO]	2025-05-29T11:00:26.234Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' items-center"">
+              <span className=""text-xl font-semibold text-gray-800"">$8.49</span>
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516426679,"<Button onClick={addToCart} variant=""primary"" className=""flex items-center"">
+"
+1748516426679,"Add to
+"
+1748516426679,"NOIFYING THE STREAM
+"
+1748516426679,"[INFO]	2025-05-29T11:00:26.679Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <Button onClick={addToCart} variant=""primary"" className=""flex items-center"">
+                Add to', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516427161,"Cart
+"
+1748516427161,"<ShoppingCart className=""ml-2 h-5 w-5"" />
+"
+1748516427161,"</Button>
+"
+1748516427161,"</
+"
+1748516427161,"NOIFYING THE STREAM
+"
+1748516427161,"[INFO]	2025-05-29T11:00:27.161Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' Cart
+                <ShoppingCart className=""ml-2 h-5 w-5"" />
+              </Button>
+            </', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516427856,"CardFooter>
+"
+1748516427856,"</Card>
+"
+1748516427856,"<Card className=""hover:shadow-xl transition-shadow duration
+"
+1748516427856,"NOIFYING THE STREAM
+"
+1748516427856,"[INFO]	2025-05-29T11:00:27.856Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'CardFooter>
+          </Card>
+
+          <Card className=""hover:shadow-xl transition-shadow duration', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516428266,'"-300 transform hover:-translate-y-1"">
+"
+1748516428266,"<CardHeader>
+"
+1748516428266,"<CardTitle className=""text
+"
+1748516428266,"NOIFYING THE STREAM
+"
+1748516428266,"[INFO]	2025-05-29T11:00:28.266Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-300 transform hover:-translate-y-1"">
+            <CardHeader>
+              <CardTitle className=""text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516428626,'"-primary"">Assorted Sticky Notes</CardTitle>
+"
+1748516428626,"</CardHeader>
+"
+1748516428626,"<CardContent class
+"
+1748516428626,"NOIFYING THE STREAM
+"
+1748516428626,"[INFO]	2025-05-29T11:00:28.626Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-primary"">Assorted Sticky Notes</CardTitle>
+            </CardHeader>
+            <CardContent class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516429066,"Name=""flex justify-center"">
+"
+1748516429066,"<img src=""/placeholder.svg?height=200&width=200"" alt=""Assorted
+"
+1748516429066,"NOIFYING THE STREAM
+"
+1748516429067,"[INFO]	2025-05-29T11:00:29.067Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""flex justify-center"">
+              <img src=""/placeholder.svg?height=200&width=200"" alt=""Assorted', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516429478,"Sticky Notes"" className=""w-48 h-48 object-cover rounded-md"" />
+"
+1748516429478,"</CardContent>
+"
+1748516429478,"NOIFYING THE STREAM
+"
+1748516429478,"[INFO]	2025-05-29T11:00:29.478Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' Sticky Notes"" className=""w-48 h-48 object-cover rounded-md"" />
+            </CardContent>
+           ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516429853,"<CardFooter className=""flex justify-between items-center"">
+"
+1748516429853,"<span className=""text-xl font
+"
+1748516429853,"NOIFYING THE STREAM
+"
+1748516429853,"[INFO]	2025-05-29T11:00:29.853Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <CardFooter className=""flex justify-between items-center"">
+              <span className=""text-xl font', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516430340,'"-semibold text-gray-800"">$5.99</span>
+"
+1748516430340,"<Button onClick={addToCart} variant=""primary"" class
+"
+1748516430340,"NOIFYING THE STREAM
+"
+1748516430340,"[INFO]	2025-05-29T11:00:30.340Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-semibold text-gray-800"">$5.99</span>
+              <Button onClick={addToCart} variant=""primary"" class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516430844,"Name=""flex items-center"">
+"
+1748516430844,"Add to Cart
+"
+1748516430844,"<ShoppingCart className=""ml-2 h
+"
+1748516430844,"NOIFYING THE STREAM
+"
+1748516430845,"[INFO]	2025-05-29T11:00:30.845Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""flex items-center"">
+                Add to Cart
+                <ShoppingCart className=""ml-2 h', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516431302,'"-5 w-5"" />
+"
+1748516431302,"</Button>
+"
+1748516431302,"</CardFooter>
+"
+1748516431302,"</Card>
+"
+1748516431302,"<Card class
+"
+1748516431302,"NOIFYING THE STREAM
+"
+1748516431302,"[INFO]	2025-05-29T11:00:31.302Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-5 w-5"" />
+              </Button>
+            </CardFooter>
+          </Card>
+
+          <Card class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516431705,"Name=""hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1"">
+"
+1748516431705,"<Card
+"
+1748516431705,"NOIFYING THE STREAM
+"
+1748516431706,"[INFO]	2025-05-29T11:00:31.706Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""hover:shadow-xl transition-shadow duration-300 transform hover:-translate-y-1"">
+            <Card', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516432132,"Header>
+"
+1748516432132,"<CardTitle className=""text-primary"">Highlighter Set</CardTitle>
+"
+1748516432132,"</
+"
+1748516432132,"NOIFYING THE STREAM
+"
+1748516432133,"[INFO]	2025-05-29T11:00:32.133Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Header>
+              <CardTitle className=""text-primary"">Highlighter Set</CardTitle>
+            </', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516432581,"CardHeader>
+"
+1748516432581,"<CardContent className=""flex justify-center"">
+"
+1748516432581,"<img src=""/placeholder
+"
+1748516432581,"NOIFYING THE STREAM
+"
+1748516432581,"[INFO]	2025-05-29T11:00:32.581Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'CardHeader>
+            <CardContent className=""flex justify-center"">
+              <img src=""/placeholder', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516433157,".svg?height=200&width=200"" alt=""Highlighter Set"" className=""w-48 h-48 object-cover rounded-md"" />
+"
+1748516433157,"NOIFYING THE STREAM
+"
+1748516433157,"[INFO]	2025-05-29T11:00:33.157Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '.svg?height=200&width=200"" alt=""Highlighter Set"" className=""w-48 h-48 object-cover rounded-md"" />
+           ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516433541,"</CardContent>
+"
+1748516433541,"<CardFooter className=""flex justify-between items-center"">
+"
+1748516433541,"NOIFYING THE STREAM
+"
+1748516433541,"[INFO]	2025-05-29T11:00:33.541Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' </CardContent>
+            <CardFooter className=""flex justify-between items-center"">
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516434039,"<span className=""text-xl font-semibold text-gray-800"">$7.49</span>
+"
+1748516434039,"<Button onClick={add
+"
+1748516434039,"NOIFYING THE STREAM
+"
+1748516434039,"[INFO]	2025-05-29T11:00:34.039Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <span className=""text-xl font-semibold text-gray-800"">$7.49</span>
+              <Button onClick={add', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516434440,"ToCart} variant=""primary"" className=""flex items-center"">
+"
+1748516434440,"Add to Cart
+"
+1748516434440,"NOIFYING THE STREAM
+"
+1748516434440,"[INFO]	2025-05-29T11:00:34.440Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'ToCart} variant=""primary"" className=""flex items-center"">
+                Add to Cart
+               ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516434987,"<ShoppingCart className=""ml-2 h-5 w-5"" />
+"
+1748516434987,"</Button>
+"
+1748516434987,"</CardFooter>
+"
+1748516434987,"NOIFYING THE STREAM
+"
+1748516434988,"[INFO]	2025-05-29T11:00:34.988Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <ShoppingCart className=""ml-2 h-5 w-5"" />
+              </Button>
+            </CardFooter>
+         ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516435413,"</Card>
+"
+1748516435413,"<Card className=""hover:shadow-xl transition-shadow duration-300 transform hover:-
+"
+1748516435413,"NOIFYING THE STREAM
+"
+1748516435413,"[INFO]	2025-05-29T11:00:35.413Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' </Card>
+
+          <Card className=""hover:shadow-xl transition-shadow duration-300 transform hover:-', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516435840,"translate-y-1"">
+"
+1748516435840,"<CardHeader>
+"
+1748516435840,"<CardTitle className=""text-primary"">Desk Organizer
+"
+1748516435840,"NOIFYING THE STREAM
+"
+1748516435840,"[INFO]	2025-05-29T11:00:35.840Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'translate-y-1"">
+            <CardHeader>
+              <CardTitle className=""text-primary"">Desk Organizer', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516436227,"</CardTitle>
+"
+1748516436227,"</CardHeader>
+"
+1748516436227,"<CardContent className=""flex justify-center"">
+"
+1748516436227,"NOIFYING THE STREAM
+"
+1748516436228,"[INFO]	2025-05-29T11:00:36.227Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '</CardTitle>
+            </CardHeader>
+            <CardContent className=""flex justify-center"">
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516437146,"<img src=""/placeholder.svg?height=200&width=200"" alt=""Desk Organizer"" className=""w-48 h-48 object-cover
+"
+1748516437146,"NOIFYING THE STREAM
+"
+1748516437146,"[INFO]	2025-05-29T11:00:37.146Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <img src=""/placeholder.svg?height=200&width=200"" alt=""Desk Organizer"" className=""w-48 h-48 object-cover', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516437244,"rounded-md"" />
+"
+1748516437244,"</CardContent>
+"
+1748516437244,"<CardFooter className=""flex justify-between items
+"
+1748516437244,"NOIFYING THE STREAM
+"
+1748516437244,"[INFO]	2025-05-29T11:00:37.244Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' rounded-md"" />
+            </CardContent>
+            <CardFooter className=""flex justify-between items', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516437669,'"-center"">
+"
+1748516437669,"<span className=""text-xl font-semibold text-gray-800"">$15.99</span>
+"
+1748516437669,"NOIFYING THE STREAM
+"
+1748516437669,"[INFO]	2025-05-29T11:00:37.669Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-center"">
+              <span className=""text-xl font-semibold text-gray-800"">$15.99</span>
+             ', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516438077,"<Button onClick={addToCart} variant=""primary"" className=""flex items-center"">
+"
+1748516438077,"Add to
+"
+1748516438077,"NOIFYING THE STREAM
+"
+1748516438077,"[INFO]	2025-05-29T11:00:38.077Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' <Button onClick={addToCart} variant=""primary"" className=""flex items-center"">
+                Add to', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516438527,"Cart
+"
+1748516438527,"<ShoppingCart className=""ml-2 h-5 w-5"" />
+"
+1748516438527,"</Button>
+"
+1748516438527,"</
+"
+1748516438527,"NOIFYING THE STREAM
+"
+1748516438528,"[INFO]	2025-05-29T11:00:38.527Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' Cart
+                <ShoppingCart className=""ml-2 h-5 w-5"" />
+              </Button>
+            </', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516438868,"CardFooter>
+"
+1748516438868,"</Card>
+"
+1748516438868,"<Card className=""hover:shadow-xl transition-shadow duration
+"
+1748516438868,"NOIFYING THE STREAM
+"
+1748516438868,"[INFO]	2025-05-29T11:00:38.868Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'CardFooter>
+          </Card>
+
+          <Card className=""hover:shadow-xl transition-shadow duration', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516439322,'"-300 transform hover:-translate-y-1"">
+"
+1748516439322,"<CardHeader>
+"
+1748516439322,"<CardTitle className=""text
+"
+1748516439322,"NOIFYING THE STREAM
+"
+1748516439322,"[INFO]	2025-05-29T11:00:39.322Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-300 transform hover:-translate-y-1"">
+            <CardHeader>
+              <CardTitle className=""text', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516439734,'"-primary"">Erasable Gel Pens</CardTitle>
+"
+1748516439734,"</CardHeader>
+"
+1748516439734,"<CardContent className
+"
+1748516439734,"NOIFYING THE STREAM
+"
+1748516439734,"[INFO]	2025-05-29T11:00:39.734Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-primary"">Erasable Gel Pens</CardTitle>
+            </CardHeader>
+            <CardContent className', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516440206,'"=""flex justify-center"">
+"
+1748516440206,"<img src=""/placeholder.svg?height=200&width=200"" alt=""Erasable
+"
+1748516440206,"NOIFYING THE STREAM
+"
+1748516440207,"[INFO]	2025-05-29T11:00:40.206Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '=""flex justify-center"">
+              <img src=""/placeholder.svg?height=200&width=200"" alt=""Erasable', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516440749,"Gel Pens"" className=""w-48 h-48 object-cover rounded-md"" />
+"
+1748516440749,"</CardContent>
+"
+1748516440749,"<
+"
+1748516440749,"NOIFYING THE STREAM
+"
+1748516440749,"[INFO]	2025-05-29T11:00:40.749Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' Gel Pens"" className=""w-48 h-48 object-cover rounded-md"" />
+            </CardContent>
+            <', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516441136,"CardFooter className=""flex justify-between items-center"">
+"
+1748516441136,"<span className=""text-xl font
+"
+1748516441136,"NOIFYING THE STREAM
+"
+1748516441136,"[INFO]	2025-05-29T11:00:41.136Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'CardFooter className=""flex justify-between items-center"">
+              <span className=""text-xl font', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516441634,'"-semibold text-gray-800"">$9.99</span>
+"
+1748516441634,"<Button onClick={addToCart} variant=""primary"" class
+"
+1748516441634,"NOIFYING THE STREAM
+"
+1748516441634,"[INFO]	2025-05-29T11:00:41.634Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-semibold text-gray-800"">$9.99</span>
+              <Button onClick={addToCart} variant=""primary"" class', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516442049,"Name=""flex items-center"">
+"
+1748516442049,"Add to Cart
+"
+1748516442050,"<ShoppingCart className=""ml-2 h
+"
+1748516442050,"NOIFYING THE STREAM
+"
+1748516442050,"[INFO]	2025-05-29T11:00:42.050Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'Name=""flex items-center"">
+                Add to Cart
+                <ShoppingCart className=""ml-2 h', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516442530,'"-5 w-5"" />
+"
+1748516442530,"</Button>
+"
+1748516442530,"</CardFooter>
+"
+1748516442530,"</Card>
+"
+1748516442530,"</div>
+"
+1748516442530,"</
+"
+1748516442530,"NOIFYING THE STREAM
+"
+1748516442531,"[INFO]	2025-05-29T11:00:42.530Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-5 w-5"" />
+              </Button>
+            </CardFooter>
+          </Card>
+        </div>
+      </', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516443290,"main>
+"
+1748516443290,"<footer className=""bg-white shadow mt-8"">
+"
+1748516443290,"<div className=""container mx-auto px-
+"
+1748516443290,"NOIFYING THE STREAM
+"
+1748516443291,"[INFO]	2025-05-29T11:00:43.290Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'main>
+
+      <footer className=""bg-white shadow mt-8"">
+        <div className=""container mx-auto px-', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516443739,"4 py-6 flex flex-col md:flex-row justify-between items-center"">
+"
+1748516443739,"<p className=""text-gray-600
+"
+1748516443739,"NOIFYING THE STREAM
+"
+1748516443739,"[INFO]	2025-05-29T11:00:43.739Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '4 py-6 flex flex-col md:flex-row justify-between items-center"">
+          <p className=""text-gray-600', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516444230,""">&copy; 2023 Stationary Shop. All rights reserved.</p>
+"
+1748516444230,"<div className=""flex space-x-4 mt-
+"
+1748516444230,"NOIFYING THE STREAM
+"
+1748516444230,"[INFO]	2025-05-29T11:00:44.230Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '"">&copy; 2023 Stationary Shop. All rights reserved.</p>
+          <div className=""flex space-x-4 mt-', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516444713,"4 md:mt-0"">
+"
+1748516444713,"<Link href=""#"" className=""text-gray-600 hover:text-primary transition-colors
+"
+1748516444713,"NOIFYING THE STREAM
+"
+1748516444714,"[INFO]	2025-05-29T11:00:44.713Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '4 md:mt-0"">
+            <Link href=""#"" className=""text-gray-600 hover:text-primary transition-colors', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516445160,"duration-300"">Privacy Policy</Link>
+"
+1748516445160,"<Link href=""#"" className=""text-gray-600 hover:text-primary
+"
+1748516445160,"NOIFYING THE STREAM
+"
+1748516445161,"[INFO]	2025-05-29T11:00:45.161Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' duration-300"">Privacy Policy</Link>
+            <Link href=""#"" className=""text-gray-600 hover:text-primary', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516445644,"transition-colors duration-300"">Terms of Service</Link>
+"
+1748516445644,"<Link href=""#"" className=""text-gray
+"
+1748516445644,"NOIFYING THE STREAM
+"
+1748516445644,"[INFO]	2025-05-29T11:00:45.644Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': ' transition-colors duration-300"">Terms of Service</Link>
+            <Link href=""#"" className=""text-gray', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516446107,'"-600 hover:text-primary transition-colors duration-300"">Contact Us</Link>
+"
+1748516446107,"</div>
+"
+1748516446107,"</
+"
+1748516446107,"NOIFYING THE STREAM
+"
+1748516446107,"[INFO]	2025-05-29T11:00:46.107Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': '-600 hover:text-primary transition-colors duration-300"">Contact Us</Link>
+          </div>
+        </', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516446406,"div>
+"
+1748516446406,"</footer>
+"
+1748516446406,"</div>
+"
+1748516446406,")
+"
+1748516446406,"}
+"
+1748516446406,"</code>
+"
+1748516446406,"NOIFYING THE STREAM
+"
+1748516446406,"[INFO]	2025-05-29T11:00:46.406Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'stream_data': {'content': 'div>
+      </footer>
+    </div>
+  )
+}
+</code>', 'imports': []}, 'query_text': 'create a stationary shop page it should show relevant product like pen books etc', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748516446433,"[INFO]	2025-05-29T11:00:46.433Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Response already has formatting tags, skipping formatter
+"
+1748516446433,"[INFO]	2025-05-29T11:00:46.433Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Raw content starting 100 chars: <text>Here's a stationary shop page showcasing various products like pens, notebooks, and other supp
+"
+1748516446433,"<IMG_DEBUG> Trying to grab image nodes
+"
+1748516446434,"<IMG_DEBUG> inside try block for grab_image_nodes, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_jsx_fix.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748516446434,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748516446434,"import { useState } from 'react'
+"
+1748516446434,"import { Button } from ""@/components/ui/button""
+"
+1748516446434,"import { Card, Car
+"
+1748516447275,"<IMG_DEBUG> Enhanced babel parser found 6 raw nodes
+"
+1748516447275,"<IMG_DEBUG> Processed 6 nodes (0 loop images)
+"
+1748516447275,"<IMG_DEBUG> Found some image nodes
+"
+1748516447275,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/placeholder.svg?height=200&width=200\"" alt=\""Premium Ballpoint Pen\"" className=\""w-48 h-48 object-cover rounded-md\"" />""
+"
+1748516447275,"[INFO]	2025-05-29T11:00:47.275Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748516447325,"<image_description_generator_agent> Generating image descriptions...
+"
+1748516450132,"<IMG_DEBUG> Generated description for node:  The image displays a 'Premium Ballpoint Pen,' showcased in a clean and modern design. The pen is likely depicted in a sleek and elegant style, emphasizing its premium quality. The image is set against a neutral background, which enhances the visibility of the pen. The pen features a smooth barrel, possibly with a shiny finish, and may include details such as a clip or a comfortable grip. The dimensions of the image are 200x200 pixels, making it a square format, and it is presented within a rounded rectangular frame that softens the edges, contributing to a polished aesthetic. The overall appearance is professional and appealing, aimed at attracting potential buyers.
+"
+1748516450133,"[INFO]	2025-05-29T11:00:50.132Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748516450165,"[INFO]	2025-05-29T11:00:50.165Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748516450171,"[INFO]	2025-05-29T11:00:50.171Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748516450171,"[INFO]	2025-05-29T11:00:50.171Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Using collection: ui_descriptions
+"
+1748516450224,"[INFO]	2025-05-29T11:00:50.224Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Searching for: The image displays a 'Premium Ballpoint Pen,' showcased in a clean and modern design. The pen is likely depicted in a sleek and elegant style, emphasizing its premium quality. The image is set against a neutral background, which enhances the visibility of the pen. The pen features a smooth barrel, possibly with a shiny finish, and may include details such as a clip or a comfortable grip. The dimensions of the image are 200x200 pixels, making it a square format, and it is presented within a rounded rectangular frame that softens the edges, contributing to a polished aesthetic. The overall appearance is professional and appealing, aimed at attracting potential buyers.
+"
+1748516450417,"[INFO]	2025-05-29T11:00:50.416Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Generated query embedding
+"
+1748516450424,"<qdrant logs> Search results: [ScoredPoint(id='2d051d15-c155-45cb-82bf-7e6ece57e4f1', version=14, score=0.59273833, payload={'variant_id': '597862ea-95fa-4525-8ef3-b6eb6d132bf6', 'query_text': 'Create a website for a gun seller and show case the different type of guns and ammunitions with images and a short story where they have used these type of guns. ', 'full_prompt': 'Create a website for a gun seller and show case the different type of guns and ammunitions with images and a short story where they have used these type of guns. ', 'alt_text': 'The image displays a sleek and modern 9mm handgun, which is prominently featured against a neutral background. The firearm has a matte finish, showcasing its ergonomic design and sturdy build. This handgun is positioned in such a way that highlights its contours and features, suggesting reliability and precision. The image is framed within a card layout, designed to attract attention for potential buyers on the Gun Emporium website. The overall aesthetic emphasizes a clean and professional look, suitable for an online firearms retailer.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/5cacf800-a70c-4f34-b93d-bf38f19ce5ec/6f091db6eab34349a8e18d6cf520bec1.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='75da0ff8-4bfe-415e-9ed2-3c963474e606', version=34, score=0.5779457, payload={'variant_id': 'a5b5a794-f345-42e2-bb9d-3f3b59d3e91b', 'query_text': 'Create a website for a gun seller and show case the different type of guns and ammunitions with images and a short story where they have used these type of guns. ', 'full_prompt': 'Create a website for a gun seller and show case the different type of guns and ammunitions with images and a short story where they have used these type of guns. ', 'alt_text': 'The image is a visually appealing representation of a specific type of ammunition, showcasing its design and features. The ammunition is displayed in a rectangular format, with rounded corners, which gives it a modern and polished look. The dimensions of the image are set to a full width and a height of 32 units, ensuring that it fits well within the layout while maintaining its clarity and detail. The object is captured with a focus on its high-quality finish, allowing viewers to appreciate its craftsmanship. Additionally, the image is styled with a slight hover effect that scales it up gently, adding an interactive element that enhances user engagement. The background is blurred to emphasize the ammunition, making it the focal point of the display.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/5cacf800-a70c-4f34-b93d-bf38f19ce5ec/a4a9455af7d74b348f03fe550a2524e2.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='aff07ecc-20b1-4645-917b-377896266dcb', version=36, score=0.5625832, payload={'variant_id': '3b3d2a74-f99b-4dad-a530-f39e595ff6f9', 'query_text': 'Design a homepage for a luxury watch store called ""Timeless,"" with high-quality visuals, product descriptions, and customer testimonials.', 'full_prompt': 'Design a homepage for a luxury watch store called ""Timeless,"" with high-quality visuals, product descriptions, and customer testimonials.', 'alt_text': 'The image depicts a luxury watch, showcasing its elegant design and craftsmanship. The watch is prominently displayed, capturing attention with its refined details and luxurious materials. The composition is visually balanced, with the watch centered in the frame, surrounded by a soft blur that enhances its features. The overall presentation conveys a sense of sophistication and exclusivity, making it an appealing focal point for potential customers interested in high-end timepieces. The rounded edges of the image add to the modern aesthetic, while the careful use of lighting highlights the watch', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/242c4082-4bfd-4147-826b-bb92065ef890/a90479372d76497dbafceaba02144cc3.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748516450424,"[INFO]	2025-05-29T11:00:50.424Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Found 3 results
+"
+1748516450425,"[INFO]	2025-05-29T11:00:50.425Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<qdrant logs> Filtered 0 results above threshold 0.66
+"
+1748516450425,"[INFO]	2025-05-29T11:00:50.425Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<vector search debug> IMAGE NOT FOUND IN VECTOR DATABASE... OPTING to GENERATE IMAGE .....
+"
+1748516450425,"[INFO]	2025-05-29T11:00:50.425Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<vector search debug> GENERATING IMAGE WITH GEMINI FLASH
+"
+1748516450425,"[INFO]	2025-05-29T11:00:50.425Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	AFC is enabled with max remote calls: 10.
+"
+1748516453279,"[INFO]	2025-05-29T11:00:53.279Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	AFC remote call 1 is done.
+"
+1748516453279,"[INFO]	2025-05-29T11:00:53.279Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Received image data from Gemini
+"
+1748516453279,"[INFO]	2025-05-29T11:00:53.279Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Image bytes length: 976624
+"
+1748516453289,"[INFO]	2025-05-29T11:00:53.289Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Successfully decoded base64 and opened image - size: (1024, 1024), format: PNG, mode: RGB
+"
+1748516453870,"[ERROR]	2025-05-29T11:00:53.870Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Official Google approach failed: expected string or bytes-like object
+"
+1748516453871,"[ERROR]	2025-05-29T11:00:53.870Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Debug info for failed official approach: {'data_type': 'bytes', 'data_length': 976624, 'first_20_bytes': '6956424f5277304b47676f414141414e53556845', 'is_bytes': True, 'is_string': False}
+"
+1748516453871,"[INFO]	2025-05-29T11:00:53.871Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	<gemini logs> Saved debug file: /tmp/debug_gemini_image_1748516453_raw.bin
+"
+1748516453873,"<IMG_DEBUG> Invalid/None image URL generated, using placeholder
+"
+1748516453873,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/placeholder.svg?height=200&width=200\"" alt=\""Classic Notebook\"" className=\""w-48 h-48 object-cover rounded-md\"" />""
+"
+1748516453874,"[INFO]	2025-05-29T11:00:53.873Z	c0d7a98c-6d1f-4861-b383-18801c03e4da	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': 'd157b0e8-167c-4e7d-a830-1c8124d68708', 'variant_id': 'e63cb25c-e1f1-44ac-a7f3-9c44e203f6c0', 'variant_type': 'three', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748516453917,"<image_description_generator_agent> Generating image descriptions...
+"

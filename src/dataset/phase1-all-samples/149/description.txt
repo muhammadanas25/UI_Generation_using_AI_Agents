@@ -1,0 +1,1 @@
+Create a portfolio homepage for a musician called "SoundSmith," featuring albums, concert dates, and audio tracks.

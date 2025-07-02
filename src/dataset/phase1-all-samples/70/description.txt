@@ -1,0 +1,1 @@
+Create a recent posts sidebar widget for "AdventureTales" that displays thumbnails and titles of the latest posts.

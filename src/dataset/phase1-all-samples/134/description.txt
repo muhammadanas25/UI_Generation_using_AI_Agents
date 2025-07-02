@@ -1,0 +1,1 @@
+Design a multi-step checkout form for "RentMyStyle," guiding users through shipping, billing, and review steps with clear progress indicators.

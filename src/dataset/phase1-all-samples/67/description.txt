@@ -1,0 +1,1 @@
+Design a quick poll widget for "FitFocus" where users can vote on workout preferences and view live results.

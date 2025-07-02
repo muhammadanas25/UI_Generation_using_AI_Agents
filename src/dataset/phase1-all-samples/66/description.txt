@@ -1,0 +1,1 @@
+Design a movie rating badge for "FilmFanatic" that visually indicates the rating of a reviewed film with stars or points.

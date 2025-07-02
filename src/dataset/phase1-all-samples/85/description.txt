@@ -1,0 +1,1 @@
+Design a product catalog page for "TechGear," an electronics shop with filtering options for brand, price, and ratings.

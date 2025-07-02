@@ -1,0 +1,1 @@
+Design an NFT preview modal for "TradeX" that allows users to view NFT details, including previous sales, attributes, and ownership history.

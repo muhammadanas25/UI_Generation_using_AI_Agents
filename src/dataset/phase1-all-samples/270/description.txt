@@ -1,0 +1,1 @@
+Create a decentralized marketplace for educational courses called "LearnX" where instructors can tokenize course content.  

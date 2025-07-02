@@ -1,0 +1,1 @@
+Design a badge system for user achievements in a decentralized gaming platform, showing NFT-earned badges.

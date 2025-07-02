@@ -1,0 +1,1 @@
+Design a blog for a fitness influencer called "FitFocus" with workout routines and nutrition tips.

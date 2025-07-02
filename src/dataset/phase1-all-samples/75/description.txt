@@ -1,0 +1,1 @@
+Create a financial product comparison table for "MoneyMinds" that allows users to compare different financial tools side by side.

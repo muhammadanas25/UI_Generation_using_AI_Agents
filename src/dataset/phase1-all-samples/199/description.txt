@@ -1,0 +1,1 @@
+Design a progress circle for "FitFocus" that visually represents the completion of fitness goals or training milestones.

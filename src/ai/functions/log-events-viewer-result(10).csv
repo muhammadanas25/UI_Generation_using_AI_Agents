@@ -1,0 +1,859 @@
+timestamp,message
+1748478319223,"flex items-center mb-4"">
+"
+1748478319223,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478319223,"NOIFYING THE STREAM
+"
+1748478319223,"[INFO]	2025-05-29T00:25:19.223Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'flex items-center mb-4"">
+                    <Star className=""w-5 h-5 text-yellow-400"" />
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478319772,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478319772,"<Star className=""w-5 h-5 text-yellow
+"
+1748478319772,"NOIFYING THE STREAM
+"
+1748478319772,"[INFO]	2025-05-29T00:25:19.772Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <Star className=""w-5 h-5 text-yellow-400"" />
+                    <Star className=""w-5 h-5 text-yellow', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478320246,'"-400"" />
+"
+1748478320246,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478320246,"<Star class
+"
+1748478320246,"NOIFYING THE STREAM
+"
+1748478320246,"[INFO]	2025-05-29T00:25:20.246Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-400"" />
+                    <Star className=""w-5 h-5 text-yellow-400"" />
+                    <Star class', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478320754,"Name=""w-5 h-5 text-gray-300"" />
+"
+1748478320754,"</div>
+"
+1748478320754,"<p className=""text-gray-600
+"
+1748478320754,"NOIFYING THE STREAM
+"
+1748478320754,"[INFO]	2025-05-29T00:25:20.754Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'Name=""w-5 h-5 text-gray-300"" />
+                  </div>
+                  <p className=""text-gray-600', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478321190,"mb-4"">""Great product! Really satisfied with the quality.""</p>
+"
+1748478321190,"<div className=""text
+"
+1748478321190,"NOIFYING THE STREAM
+"
+1748478321190,"[INFO]	2025-05-29T00:25:21.190Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' mb-4"">""Great product! Really satisfied with the quality.""</p>
+                  <div className=""text', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478321591,'"-right text-indigo-600"">- Jane Doe</div>
+"
+1748478321591,"</CardContent>
+"
+1748478321591,"</Card>
+"
+1748478321591,"NOIFYING THE STREAM
+"
+1748478321591,"[INFO]	2025-05-29T00:25:21.591Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-right text-indigo-600"">- Jane Doe</div>
+                </CardContent>
+              </Card>
+             ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478322025,"<Card className=""flex-1 p-4 hover:shadow-lg transition-shadow duration-300"">
+"
+1748478322025,"<CardContent
+"
+1748478322025,"NOIFYING THE STREAM
+"
+1748478322025,"[INFO]	2025-05-29T00:25:22.025Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <Card className=""flex-1 p-4 hover:shadow-lg transition-shadow duration-300"">
+                <CardContent', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478322414,">
+"
+1748478322414,"<div className=""flex items-center mb-4"">
+"
+1748478322414,"<Star className=""w-
+"
+1748478322414,"NOIFYING THE STREAM
+"
+1748478322414,"[INFO]	2025-05-29T00:25:22.414Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '>
+                  <div className=""flex items-center mb-4"">
+                    <Star className=""w-', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478322927,"5 h-5 text-yellow-400"" />
+"
+1748478322927,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478322927,"NOIFYING THE STREAM
+"
+1748478322927,"[INFO]	2025-05-29T00:25:22.927Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '5 h-5 text-yellow-400"" />
+                    <Star className=""w-5 h-5 text-yellow-400"" />
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478323397,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478323397,"<Star className=""w-5 h-5 text-yellow
+"
+1748478323397,"NOIFYING THE STREAM
+"
+1748478323397,"[INFO]	2025-05-29T00:25:23.397Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <Star className=""w-5 h-5 text-yellow-400"" />
+                    <Star className=""w-5 h-5 text-yellow', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478323802,'"-400"" />
+"
+1748478323802,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478323802,"</div>
+"
+1748478323802,"NOIFYING THE STREAM
+"
+1748478323803,"[INFO]	2025-05-29T00:25:23.803Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-400"" />
+                    <Star className=""w-5 h-5 text-yellow-400"" />
+                  </div>
+                 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478324183,"<p className=""text-gray-600 mb-4"">""Excellent service and fast delivery!""</p>
+"
+1748478324183,"<div
+"
+1748478324183,"NOIFYING THE STREAM
+"
+1748478324183,"[INFO]	2025-05-29T00:25:24.183Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <p className=""text-gray-600 mb-4"">""Excellent service and fast delivery!""</p>
+                  <div', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478324514,"className=""text-right text-indigo-600"">- John Smith</div>
+"
+1748478324514,"</CardContent>
+"
+1748478324514,"NOIFYING THE STREAM
+"
+1748478324514,"[INFO]	2025-05-29T00:25:24.514Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' className=""text-right text-indigo-600"">- John Smith</div>
+                </CardContent>
+             ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478324872,"</Card>
+"
+1748478324872,"<Card className=""flex-1 p-4 hover:shadow-lg transition-shadow duration-300"">
+"
+1748478324872,"NOIFYING THE STREAM
+"
+1748478324872,"[INFO]	2025-05-29T00:25:24.872Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </Card>
+              <Card className=""flex-1 p-4 hover:shadow-lg transition-shadow duration-300"">
+', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478325170,"<CardContent>
+"
+1748478325170,"<div className=""flex items-center mb-4"">
+"
+1748478325170,"NOIFYING THE STREAM
+"
+1748478325170,"[INFO]	2025-05-29T00:25:25.170Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '                <CardContent>
+                  <div className=""flex items-center mb-4"">
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478325619,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478325619,"<Star className=""w-5 h-5 text-yellow
+"
+1748478325619,"NOIFYING THE STREAM
+"
+1748478325619,"[INFO]	2025-05-29T00:25:25.619Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <Star className=""w-5 h-5 text-yellow-400"" />
+                    <Star className=""w-5 h-5 text-yellow', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478326005,'"-400"" />
+"
+1748478326005,"<Star className=""w-5 h-5 text-yellow-400"" />
+"
+1748478326005,"<Star class
+"
+1748478326005,"NOIFYING THE STREAM
+"
+1748478326005,"[INFO]	2025-05-29T00:25:26.005Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-400"" />
+                    <Star className=""w-5 h-5 text-yellow-400"" />
+                    <Star class', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478326567,"Name=""w-5 h-5 text-yellow-400"" />
+"
+1748478326567,"<Star className=""w-5 h-5 text-gray-300"" />
+"
+1748478326567,"NOIFYING THE STREAM
+"
+1748478326567,"[INFO]	2025-05-29T00:25:26.567Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'Name=""w-5 h-5 text-yellow-400"" />
+                    <Star className=""w-5 h-5 text-gray-300"" />
+                 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478326872,"</div>
+"
+1748478326872,"<p className=""text-gray-600 mb-4"">""Highly recommend this store. Great experience
+"
+1748478326872,"NOIFYING THE STREAM
+"
+1748478326872,"[INFO]	2025-05-29T00:25:26.872Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </div>
+                  <p className=""text-gray-600 mb-4"">""Highly recommend this store. Great experience', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478327237,"!""</p>
+"
+1748478327237,"<div className=""text-right text-indigo-600"">- Emily Clark</div>
+"
+1748478327237,"NOIFYING THE STREAM
+"
+1748478327237,"[INFO]	2025-05-29T00:25:27.237Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '!""</p>
+                  <div className=""text-right text-indigo-600"">- Emily Clark</div>
+               ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478327592,"</CardContent>
+"
+1748478327592,"</Card>
+"
+1748478327592,"</div>
+"
+1748478327592,"</div>
+"
+1748478327592,"</section>
+"
+1748478327592,"</
+"
+1748478327592,"NOIFYING THE STREAM
+"
+1748478327592,"[INFO]	2025-05-29T00:25:27.592Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+      </', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478328022,"main>
+"
+1748478328022,"<footer className=""bg-gray-800 text-gray-300 py-8"">
+"
+1748478328022,"<div className=""container mx
+"
+1748478328022,"NOIFYING THE STREAM
+"
+1748478328022,"[INFO]	2025-05-29T00:25:28.022Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'main>
+
+      <footer className=""bg-gray-800 text-gray-300 py-8"">
+        <div className=""container mx', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478328459,'"-auto px-4"">
+"
+1748478328459,"<div className=""grid grid-cols-1 md:grid-cols-4 gap-8"">
+"
+1748478328459,"<div>
+"
+1748478328459,"NOIFYING THE STREAM
+"
+1748478328460,"[INFO]	2025-05-29T00:25:28.459Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-auto px-4"">
+          <div className=""grid grid-cols-1 md:grid-cols-4 gap-8"">
+            <div>
+             ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478328963,"<h3 className=""text-lg font-bold mb-4"">About Us</h3>
+"
+1748478328963,"<p className=""text-sm"">We are dedicated
+"
+1748478328963,"NOIFYING THE STREAM
+"
+1748478328963,"[INFO]	2025-05-29T00:25:28.963Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <h3 className=""text-lg font-bold mb-4"">About Us</h3>
+              <p className=""text-sm"">We are dedicated', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478329290,"to providing the best products at affordable prices.</p>
+"
+1748478329290,"</div>
+"
+1748478329290,"<div>
+"
+1748478329290,"NOIFYING THE STREAM
+"
+1748478329290,"[INFO]	2025-05-29T00:25:29.290Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' to providing the best products at affordable prices.</p>
+            </div>
+            <div>
+             ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478329789,"<h3 className=""text-lg font-bold mb-4"">Quick Links</h3>
+"
+1748478329789,"<ul className=""space-y-2"">
+"
+1748478329789,"NOIFYING THE STREAM
+"
+1748478329789,"[INFO]	2025-05-29T00:25:29.789Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <h3 className=""text-lg font-bold mb-4"">Quick Links</h3>
+              <ul className=""space-y-2"">
+               ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478330148,"<li>
+"
+1748478330148,"<Link href=""#"" className=""text-sm hover:text-white transition-colors"">
+"
+1748478330148,"NOIFYING THE STREAM
+"
+1748478330148,"[INFO]	2025-05-29T00:25:30.148Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <li>
+                  <Link href=""#"" className=""text-sm hover:text-white transition-colors"">
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478330447,"FAQ
+"
+1748478330447,"</Link>
+"
+1748478330447,"</li>
+"
+1748478330447,"<li>
+"
+1748478330447,"<Link href
+"
+1748478330447,"NOIFYING THE STREAM
+"
+1748478330447,"[INFO]	2025-05-29T00:25:30.447Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' FAQ
+                  </Link>
+                </li>
+                <li>
+                  <Link href', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478331705,'"=""#"" className=""text-sm hover:text-white transition-colors"">
+"
+1748478331705,"Shipping & Returns
+"
+1748478331705,"NOIFYING THE STREAM
+"
+1748478331705,"[INFO]	2025-05-29T00:25:31.705Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '=""#"" className=""text-sm hover:text-white transition-colors"">
+                    Shipping & Returns
+', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478331761,"</Link>
+"
+1748478331761,"</li>
+"
+1748478331761,"<li>
+"
+1748478331761,"<Link href=""#""
+"
+1748478331761,"NOIFYING THE STREAM
+"
+1748478331762,"[INFO]	2025-05-29T00:25:31.762Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '                  </Link>
+                </li>
+                <li>
+                  <Link href=""#""', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478331854,"className=""text-sm hover:text-white transition-colors"">
+"
+1748478331854,"Contact Us
+"
+1748478331854,"NOIFYING THE STREAM
+"
+1748478331855,"[INFO]	2025-05-29T00:25:31.855Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' className=""text-sm hover:text-white transition-colors"">
+                    Contact Us
+                 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478331963,"</Link>
+"
+1748478331963,"</li>
+"
+1748478331963,"<li>
+"
+1748478331963,"<Link href=""#"" className=""text
+"
+1748478331963,"NOIFYING THE STREAM
+"
+1748478331963,"[INFO]	2025-05-29T00:25:31.963Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </Link>
+                </li>
+                <li>
+                  <Link href=""#"" className=""text', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478332028,'"-sm hover:text-white transition-colors"">
+"
+1748478332028,"Privacy Policy
+"
+1748478332028,"</Link
+"
+1748478332028,"NOIFYING THE STREAM
+"
+1748478332028,"[INFO]	2025-05-29T00:25:32.028Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-sm hover:text-white transition-colors"">
+                    Privacy Policy
+                  </Link', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478332264,">
+"
+1748478332264,"</li>
+"
+1748478332264,"</ul>
+"
+1748478332264,"</div>
+"
+1748478332264,"<div>
+"
+1748478332264,"<h3 class
+"
+1748478332264,"NOIFYING THE STREAM
+"
+1748478332264,"[INFO]	2025-05-29T00:25:32.264Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '>
+                </li>
+              </ul>
+            </div>
+            <div>
+              <h3 class', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478332790,"Name=""text-lg font-bold mb-4"">Follow Us</h3>
+"
+1748478332790,"<div className=""flex space-x-4"">
+"
+1748478332790,"NOIFYING THE STREAM
+"
+1748478332791,"[INFO]	2025-05-29T00:25:32.790Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'Name=""text-lg font-bold mb-4"">Follow Us</h3>
+              <div className=""flex space-x-4"">
+               ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478333572,"<Link href=""#"" className=""hover:text-white transition-colors"">
+"
+1748478333572,"<svg className=""w-
+"
+1748478333572,"NOIFYING THE STREAM
+"
+1748478333573,"[INFO]	2025-05-29T00:25:33.573Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <Link href=""#"" className=""hover:text-white transition-colors"">
+                  <svg className=""w-', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478334345,"6 h-6 fill-current"" viewBox=""0 0 24 24"">
+"
+1748478334345,"<path d=""M22.675 0h-21.35C.597 0 0 .597
+"
+1748478334345,"NOIFYING THE STREAM
+"
+1748478334345,"[INFO]	2025-05-29T00:25:34.345Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '6 h-6 fill-current"" viewBox=""0 0 24 24"">
+                    <path d=""M22.675 0h-21.35C.597 0 0 .597', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478335586,"0 1.325v21.351C0 23.403.597 24 1.325 24h11.495v-9.294H9.691V11.09h3.129V8.413c0-3.1 1.893-4.788 4.659
+"
+1748478335586,"NOIFYING THE STREAM
+"
+1748478335586,"[INFO]	2025-05-29T00:25:35.586Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 0 1.325v21.351C0 23.403.597 24 1.325 24h11.495v-9.294H9.691V11.09h3.129V8.413c0-3.1 1.893-4.788 4.659', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478336761,'"-4.788 1.325 0 2.464.099 2.795.143v3.24l-1.918.001c-1.504 0-1.796.715-1.796 1.763v2.313h3.588l-.467 
+"
+1748478336761,"NOIFYING THE STREAM
+"
+1748478336762,"[INFO]	2025-05-29T00:25:36.761Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-4.788 1.325 0 2.464.099 2.795.143v3.24l-1.918.001c-1.504 0-1.796.715-1.796 1.763v2.313h3.588l-.467 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478337752,"3.616h-3.121V24h6.116C23.403 24 24 23.403 24 22.676V1.325C24 .597 23.403 0 22.675 0z"" />
+"
+1748478337752,"NOIFYING THE STREAM
+"
+1748478337753,"[INFO]	2025-05-29T00:25:37.753Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '3.616h-3.121V24h6.116C23.403 24 24 23.403 24 22.676V1.325C24 .597 23.403 0 22.675 0z"" />
+                 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478338063,"</svg>
+"
+1748478338063,"</Link>
+"
+1748478338063,"<Link href=""#"" className=""hover:text-white transition
+"
+1748478338063,"NOIFYING THE STREAM
+"
+1748478338064,"[INFO]	2025-05-29T00:25:38.064Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </svg>
+                </Link>
+                <Link href=""#"" className=""hover:text-white transition', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478338585,'"-colors"">
+"
+1748478338585,"<svg className=""w-6 h-6 fill-current"" viewBox=""0 0 24 24"">
+"
+1748478338585,"NOIFYING THE STREAM
+"
+1748478338586,"[INFO]	2025-05-29T00:25:38.585Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-colors"">
+                  <svg className=""w-6 h-6 fill-current"" viewBox=""0 0 24 24"">
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478340029,"<path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.35 3.608 1.325.975.975 1.263 2.242 1.325
+"
+1748478340029,"NOIFYING THE STREAM
+"
+1748478340029,"[INFO]	2025-05-29T00:25:40.029Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.35 3.608 1.325.975.975 1.263 2.242 1.325', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478340802,"3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.35 2.633-1.325 3.608-.975.975-2.
+"
+1748478340802,"NOIFYING THE STREAM
+"
+1748478340802,"[INFO]	2025-05-29T00:25:40.802Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.35 2.633-1.325 3.608-.975.975-2.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478341780,"242 1.263-3.608 1.325-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.35-3.608-1.
+"
+1748478341780,"NOIFYING THE STREAM
+"
+1748478341780,"[INFO]	2025-05-29T00:25:41.780Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '242 1.263-3.608 1.325-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.35-3.608-1.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478342715,"325-.975-.975-1.263-2.242-1.325-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366
+"
+1748478342715,"NOIFYING THE STREAM
+"
+1748478342715,"[INFO]	2025-05-29T00:25:42.715Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '325-.975-.975-1.263-2.242-1.325-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478343818,".35-2.633 1.325-3.608C4.533 2.513 5.8 2.225 7.166 2.163 8.432 2.105 8.812 2.093 12 2.093m0-2.163C8.741
+"
+1748478343818,"NOIFYING THE STREAM
+"
+1748478343818,"[INFO]	2025-05-29T00:25:43.818Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '.35-2.633 1.325-3.608C4.533 2.513 5.8 2.225 7.166 2.163 8.432 2.105 8.812 2.093 12 2.093m0-2.163C8.741', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478345392,"0 8.332.013 7.052.072 5.77.131 4.608.36 3.678 1.29c-.93.93-1.159 2.092-1.218 3.374C2.013 5.668 2 6.
+"
+1748478345392,"NOIFYING THE STREAM
+"
+1748478345393,"[INFO]	2025-05-29T00:25:45.392Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 0 8.332.013 7.052.072 5.77.131 4.608.36 3.678 1.29c-.93.93-1.159 2.092-1.218 3.374C2.013 5.668 2 6.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478346495,"077 2 9.335v5.33c0 3.258.013 3.667.072 4.947.059 1.282.288 2.444 1.218 3.374.93.93 2.092 1.159 3.374
+"
+1748478346495,"NOIFYING THE STREAM
+"
+1748478346495,"[INFO]	2025-05-29T00:25:46.495Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '077 2 9.335v5.33c0 3.258.013 3.667.072 4.947.059 1.282.288 2.444 1.218 3.374.93.93 2.092 1.159 3.374', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478347467,"1.218 1.28.059 1.689.072 4.947.072s3.667-.013 4.947-.072c1.282-.059 2.444-.288 3.374-1.218.93-.93 1
+"
+1748478347467,"NOIFYING THE STREAM
+"
+1748478347467,"[INFO]	2025-05-29T00:25:47.467Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 1.218 1.28.059 1.689.072 4.947.072s3.667-.013 4.947-.072c1.282-.059 2.444-.288 3.374-1.218.93-.93 1', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478348548,".159-2.092 1.218-3.374.059-1.28.072-1.689.072-4.947v-5.33c0-3.258-.013-3.667-.072-4.947-.059-1.282-.
+"
+1748478348548,"NOIFYING THE STREAM
+"
+1748478348548,"[INFO]	2025-05-29T00:25:48.548Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '.159-2.092 1.218-3.374.059-1.28.072-1.689.072-4.947v-5.33c0-3.258-.013-3.667-.072-4.947-.059-1.282-.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478349415,"288-2.444-1.218-3.374-.93-.93-2.092-1.159-3.374-1.218C15.667.013 15.258 0 12 0z"" />
+"
+1748478349415,"NOIFYING THE STREAM
+"
+1748478349416,"[INFO]	2025-05-29T00:25:49.416Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '288-2.444-1.218-3.374-.93-.93-2.092-1.159-3.374-1.218C15.667.013 15.258 0 12 0z"" />
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478350691,"<path d=""M12 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zm0 10.162a3.999 3.999 0 110-7.
+"
+1748478350691,"NOIFYING THE STREAM
+"
+1748478350691,"[INFO]	2025-05-29T00:25:50.691Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <path d=""M12 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zm0 10.162a3.999 3.999 0 110-7.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478351532,"998 3.999 3.999 0 010 7.998zM18.406 4.594a1.44 1.44 0 11-2.88 0 1.44 1.44 0 012.88 0z"" />
+"
+1748478351532,"NOIFYING THE STREAM
+"
+1748478351533,"[INFO]	2025-05-29T00:25:51.533Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '998 3.999 3.999 0 010 7.998zM18.406 4.594a1.44 1.44 0 11-2.88 0 1.44 1.44 0 012.88 0z"" />
+                 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478351819,"</svg>
+"
+1748478351819,"</Link>
+"
+1748478351819,"<Link href=""#"" className=""hover:text-white transition
+"
+1748478351819,"NOIFYING THE STREAM
+"
+1748478351819,"[INFO]	2025-05-29T00:25:51.819Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' </svg>
+                </Link>
+                <Link href=""#"" className=""hover:text-white transition', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478352301,'"-colors"">
+"
+1748478352301,"<svg className=""w-6 h-6 fill-current"" viewBox=""0 0 24 24"">
+"
+1748478352301,"NOIFYING THE STREAM
+"
+1748478352301,"[INFO]	2025-05-29T00:25:52.301Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-colors"">
+                  <svg className=""w-6 h-6 fill-current"" viewBox=""0 0 24 24"">
+                   ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478353375,"<path d=""M12 0C8.74 0 8.332.013 7.052.072 5.77.131 4.608.36 3.678 1.29c-.93.93-1.159 2.092-1.218 3.
+"
+1748478353375,"NOIFYING THE STREAM
+"
+1748478353375,"[INFO]	2025-05-29T00:25:53.375Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' <path d=""M12 0C8.74 0 8.332.013 7.052.072 5.77.131 4.608.36 3.678 1.29c-.93.93-1.159 2.092-1.218 3.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478354471,"374C2.013 5.668 2 6.077 2 9.335v5.33c0 3.258.013 3.667.072 4.947.059 1.282.288 2.444 1.218 3.374.93.
+"
+1748478354471,"NOIFYING THE STREAM
+"
+1748478354472,"[INFO]	2025-05-29T00:25:54.471Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '374C2.013 5.668 2 6.077 2 9.335v5.33c0 3.258.013 3.667.072 4.947.059 1.282.288 2.444 1.218 3.374.93.', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478355498,"93 2.092 1.159 3.374 1.218 1.28.059 1.689.072 4.947.072s3.667-.013 4.947-.072c1.282-.059 2.444-.288 
+"
+1748478355498,"NOIFYING THE STREAM
+"
+1748478355498,"[INFO]	2025-05-29T00:25:55.498Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '93 2.092 1.159 3.374 1.218 1.28.059 1.689.072 4.947.072s3.667-.013 4.947-.072c1.282-.059 2.444-.288 ', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478356768,"3.374-1.218.93-.93 1.159-2.092 1.218-3.374.059-1.28.072-1.689.072-4.947v-5.33c0-3.258-.013-3.667-.072
+"
+1748478356768,"NOIFYING THE STREAM
+"
+1748478356769,"[INFO]	2025-05-29T00:25:56.769Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '3.374-1.218.93-.93 1.159-2.092 1.218-3.374.059-1.28.072-1.689.072-4.947v-5.33c0-3.258-.013-3.667-.072', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478357875,'"-4.947-.059-1.282-.288-2.444-1.218-3.374-.93-.93-2.092-1.159-3.374-1.218C15.667.013 15.258 0 12 0zm0
+"
+1748478357875,"NOIFYING THE STREAM
+"
+1748478357875,"[INFO]	2025-05-29T00:25:57.875Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-4.947-.059-1.282-.288-2.444-1.218-3.374-.93-.93-2.092-1.159-3.374-1.218C15.667.013 15.258 0 12 0zm0', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478359078,"5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zm0 10.162a3.999 3.999 0 110-7.998 3.999 3.999
+"
+1748478359078,"NOIFYING THE STREAM
+"
+1748478359078,"[INFO]	2025-05-29T00:25:59.078Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zm0 10.162a3.999 3.999 0 110-7.998 3.999 3.999', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478361301,"0 010 7.998zM18.406 4.594a1.44 1.44 0 11-2.88 0 1.44 1.44 0 012.88 0z"" />
+"
+1748478361301,"</svg>
+"
+1748478361301,"NOIFYING THE STREAM
+"
+1748478361301,"[INFO]	2025-05-29T00:26:01.301Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' 0 010 7.998zM18.406 4.594a1.44 1.44 0 11-2.88 0 1.44 1.44 0 012.88 0z"" />
+                  </svg>
+', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478361698,"</Link>
+"
+1748478361698,"</div>
+"
+1748478361698,"</div>
+"
+1748478361698,"<div>
+"
+1748478361698,"<h3 class
+"
+1748478361698,"NOIFYING THE STREAM
+"
+1748478361699,"[INFO]	2025-05-29T00:26:01.699Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '                </Link>
+              </div>
+            </div>
+            <div>
+              <h3 class', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478362199,"Name=""text-lg font-bold mb-4"">Newsletter</h3>
+"
+1748478362199,"<form className=""flex flex-col space-y-2
+"
+1748478362199,"NOIFYING THE STREAM
+"
+1748478362199,"[INFO]	2025-05-29T00:26:02.199Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': 'Name=""text-lg font-bold mb-4"">Newsletter</h3>
+              <form className=""flex flex-col space-y-2', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478362594,""">
+"
+1748478362594,"<Input type=""email"" placeholder=""Enter your email"" className=""bg-gray-700 border border
+"
+1748478362594,"NOIFYING THE STREAM
+"
+1748478362594,"[INFO]	2025-05-29T00:26:02.594Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '"">
+                <Input type=""email"" placeholder=""Enter your email"" className=""bg-gray-700 border border', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478363034,'"-gray-600 focus:border-indigo-500"" />
+"
+1748478363034,"<Button className=""bg-indigo-600 hover:bg-indigo
+"
+1748478363034,"NOIFYING THE STREAM
+"
+1748478363034,"[INFO]	2025-05-29T00:26:03.034Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-gray-600 focus:border-indigo-500"" />
+                <Button className=""bg-indigo-600 hover:bg-indigo', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478363447,'"-700 transition-colors"">Subscribe</Button>
+"
+1748478363447,"</form>
+"
+1748478363447,"</div>
+"
+1748478363447,"</div>
+"
+1748478363447,"NOIFYING THE STREAM
+"
+1748478363448,"[INFO]	2025-05-29T00:26:03.447Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-700 transition-colors"">Subscribe</Button>
+              </form>
+            </div>
+          </div>
+', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478363921,"<div className=""mt-8 text-center text-sm"">
+"
+1748478363921,"&copy; 2023 MyStore. All rights reserved
+"
+1748478363921,"NOIFYING THE STREAM
+"
+1748478363921,"[INFO]	2025-05-29T00:26:03.921Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '          <div className=""mt-8 text-center text-sm"">
+            &copy; 2023 MyStore. All rights reserved', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478364349,".
+"
+1748478364349,"</div>
+"
+1748478364349,"</div>
+"
+1748478364349,"</footer>
+"
+1748478364349,"<style jsx global>{`
+"
+1748478364349,'"@keyframes fade
+"
+1748478364349,"NOIFYING THE STREAM
+"
+1748478364349,"[INFO]	2025-05-29T00:26:04.349Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '.
+          </div>
+        </div>
+      </footer>
+
+      <style jsx global>{`
+        @keyframes fade', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478364783,'"-in {
+"
+1748478364783,"from { opacity: 0; transform: translateY(-10px); }
+"
+1748478364783,"to { opacity: 1; transform
+"
+1748478364783,"NOIFYING THE STREAM
+"
+1748478364783,"[INFO]	2025-05-29T00:26:04.783Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-in {
+          from { opacity: 0; transform: translateY(-10px); }
+          to { opacity: 1; transform', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478365185,": translateY(0); }
+"
+1748478365185,"}
+"
+1748478365185,'"@keyframes fade-in-delay {
+"
+1748478365185,"from { opacity: 0; transform
+"
+1748478365185,"NOIFYING THE STREAM
+"
+1748478365185,"[INFO]	2025-05-29T00:26:05.185Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ': translateY(0); }
+        }
+        @keyframes fade-in-delay {
+          from { opacity: 0; transform', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478365659,": translateY(10px); }
+"
+1748478365659,"to { opacity: 1; transform: translateY(0); }
+"
+1748478365659,"}
+"
+1748478365659,".animate
+"
+1748478365659,"NOIFYING THE STREAM
+"
+1748478365659,"[INFO]	2025-05-29T00:26:05.659Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ': translateY(10px); }
+          to { opacity: 1; transform: translateY(0); }
+        }
+        .animate', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478366088,'"-fade-in {
+"
+1748478366088,"animation: fade-in 1s ease-out forwards;
+"
+1748478366088,"}
+"
+1748478366088,".animate-fade-in-delay
+"
+1748478366088,"NOIFYING THE STREAM
+"
+1748478366088,"[INFO]	2025-05-29T00:26:06.088Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '-fade-in {
+          animation: fade-in 1s ease-out forwards;
+        }
+        .animate-fade-in-delay', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478366543,"{
+"
+1748478366543,"animation: fade-in-delay 1s ease-out forwards;
+"
+1748478366543,"}
+"
+1748478366543,"`}</style>
+"
+1748478366543,"</div>
+"
+1748478366543,")
+"
+1748478366543,"NOIFYING THE STREAM
+"
+1748478366543,"[INFO]	2025-05-29T00:26:06.543Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': ' {
+          animation: fade-in-delay 1s ease-out forwards;
+        }
+      `}</style>
+    </div>
+  )
+', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478366628,"}
+"
+1748478366628,"</code>
+"
+1748478366628,"NOIFYING THE STREAM
+"
+1748478366628,"[INFO]	2025-05-29T00:26:06.628Z	2447c80a-7393-4c3c-80fe-04b383c25924	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '0e11cadd-58bc-44bf-a545-b798ec7f256b', 'variant_id': '119edc1e-702d-4037-9aa5-e7f3610c04ec', 'variant_type': 'three', 'stream_data': {'content': '}
+</code>', 'imports': []}, 'query_text': 'create ecomerce store', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748478366650,"[INFO]	2025-05-29T00:26:06.650Z	2447c80a-7393-4c3c-80fe-04b383c25924	Response already has formatting tags, skipping formatter
+"
+1748478366650,"[INFO]	2025-05-29T00:26:06.650Z	2447c80a-7393-4c3c-80fe-04b383c25924	Raw content starting 100 chars: <text>Here's a basic e-commerce store homepage using ShadCN and Tailwind CSS. It includes a header, 
+"
+1748478366651,"<IMG_DEBUG> Trying to grab image nodes with enhanced detection
+"
+1748478366651,"<IMG_DEBUG> inside try block for grab_image_nodes, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_jsx_fix.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748478366652,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748478366652,"import { Button } from ""@/components/ui/button""
+"
+1748478366652,"import { Input } from ""@/components/ui/input""
+"
+1748478366652,"impor
+"
+1748478367914,"<IMG_DEBUG> Enhanced detection failed: Expecting value: line 1 column 1 (char 0), falling back to traditional method
+"
+1748478368204,"<IMG_DEBUG> Traditional detection found 4 nodes
+"
+1748478368204,"<IMG_DEBUG> Found 4 image nodes
+"
+1748478368204,"<IMG_DEBUG> Processing node attempt 1/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478368204,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 1"" className=""w-full h-48...
+"
+1748478368204,"<IMG_DEBUG> Image generation failed on attempt 1: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478368204,"<IMG_DEBUG> Processing node attempt 1/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478368204,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 2"" className=""w-full h-48...
+"
+1748478368204,"<IMG_DEBUG> Image generation failed on attempt 1: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478368204,"<IMG_DEBUG> Processing node attempt 1/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478368204,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 3"" className=""w-full h-48...
+"
+1748478368204,"<IMG_DEBUG> Image generation failed on attempt 1: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478368204,"<IMG_DEBUG> Processing node attempt 1/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478368204,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 4"" className=""w-full h-48...
+"
+1748478368204,"<IMG_DEBUG> Image generation failed on attempt 1: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478369205,"<IMG_DEBUG> Processing node attempt 2/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478369205,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 1"" className=""w-full h-48...
+"
+1748478369205,"<IMG_DEBUG> Image generation failed on attempt 2: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478369205,"<IMG_DEBUG> Processing node attempt 2/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478369205,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 2"" className=""w-full h-48...
+"
+1748478369206,"<IMG_DEBUG> Image generation failed on attempt 2: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478369206,"<IMG_DEBUG> Processing node attempt 2/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478369206,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 3"" className=""w-full h-48...
+"
+1748478369206,"<IMG_DEBUG> Image generation failed on attempt 2: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"
+1748478369206,"<IMG_DEBUG> Processing node attempt 2/3: Traditional node: <img src=""/placeholder.svg?heigh...
+"
+1748478369206,"<IMG_DEBUG> Generated description: An image for <img src=""/placeholder.svg?height=200&width=200"" alt=""Product 4"" className=""w-full h-48...
+"
+1748478369206,"<IMG_DEBUG> Image generation failed on attempt 2: notify_agent_status() missing 1 required positional argument: 'notify_endpoint'
+"

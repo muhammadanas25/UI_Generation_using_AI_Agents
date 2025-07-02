@@ -1,0 +1,1145 @@
+timestamp,message
+1748389852184,"<form className=""flex flex-col
+"
+1748389852184,"NOIFYING THE STREAM
+"
+1748389852185,"[INFO]	2025-05-27T23:50:52.184Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': 'Name=""font-semibold mb-4"">Subscribe to Our Newsletter</h3>
+              <form className=""flex flex-col', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389852384,"sm:flex-row gap-4"">
+"
+1748389852384,"<Input type=""email"" placeholder=""Enter your email"" className=""flex
+"
+1748389852384,"NOIFYING THE STREAM
+"
+1748389852385,"[INFO]	2025-05-27T23:50:52.385Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': ' sm:flex-row gap-4"">
+                <Input type=""email"" placeholder=""Enter your email"" className=""flex', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389852525,'"-grow"" />
+"
+1748389852525,"<Button className=""bg-primary text-white hover:bg-primary-dark transition-col
+"
+1748389852525,"NOIFYING THE STREAM
+"
+1748389852525,"[INFO]	2025-05-27T23:50:52.525Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': '-grow"" />
+                <Button className=""bg-primary text-white hover:bg-primary-dark transition-col', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389852714,"ors duration-300"">Subscribe</Button>
+"
+1748389852714,"</form>
+"
+1748389852714,"</div>
+"
+1748389852714,"</div>
+"
+1748389852714,"NOIFYING THE STREAM
+"
+1748389852714,"[INFO]	2025-05-27T23:50:52.714Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': 'ors duration-300"">Subscribe</Button>
+              </form>
+            </div>
+          </div>
+         ', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389852972,"<div className=""mt-8 pt-8 border-t text-center text-gray-500"">
+"
+1748389852972,"<p>&copy; {new Date().get
+"
+1748389852972,"NOIFYING THE STREAM
+"
+1748389852972,"[INFO]	2025-05-27T23:50:52.972Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': ' <div className=""mt-8 pt-8 border-t text-center text-gray-500"">
+            <p>&copy; {new Date().get', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389853196,"FullYear()} Mobile Store. All rights reserved.</p>
+"
+1748389853196,"</div>
+"
+1748389853196,"</div>
+"
+1748389853196,"</footer>
+"
+1748389853196,"NOIFYING THE STREAM
+"
+1748389853196,"[INFO]	2025-05-27T23:50:53.196Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': 'FullYear()} Mobile Store. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+   ', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389853274,"</div>
+"
+1748389853274,")
+"
+1748389853274,"}
+"
+1748389853274,"</code>
+"
+1748389853274,"NOIFYING THE STREAM
+"
+1748389853275,"[INFO]	2025-05-27T23:50:53.274Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'stream_data': {'content': ' </div>
+  )
+}
+</code>', 'imports': []}, 'query_text': 'create a websotre for mobile accesories', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748389853303,"[INFO]	2025-05-27T23:50:53.303Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Response already has formatting tags, skipping formatter
+"
+1748389853303,"[INFO]	2025-05-27T23:50:53.303Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Raw content starting 100 chars: <text>Here's a complete mobile accessories e-commerce website built with Typescript, ShadCN componen
+"
+1748389853304,"<IMG_DEBUG> Trying to grab image nodes
+"
+1748389853304,"<IMG_DEBUG> inside try block for grab_image_nodes, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748389853305,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389853305,"import React from 'react';
+"
+1748389853305,"import { Button } from ""@/components/ui/button""
+"
+1748389853305,"import { Input } from ""@
+"
+1748389853785,"<IMG_DEBUG> Found some image nodes
+"
+1748389853786,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/hero-image.jpg\"" alt=\""Featured Product\"" className=\""w-full h-full object-cover\"" />""
+"
+1748389853786,"[INFO]	2025-05-27T23:50:53.786Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389853837,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389855574,"<IMG_DEBUG> Generated description for node:  The image is a visually appealing representation of a featured product, showcasing a pair of sleek wireless earbuds. The earbuds are prominently displayed against a soft, blurred background that enhances their design. The image has a clean and modern aesthetic, emphasizing the product's features while creating an inviting atmosphere for potential buyers. The focus on the earbuds highlights their stylish and compact form, suggesting high quality and advanced technology, making them an attractive option for mobile accessory enthusiasts.
+"
+1748389855574,"[INFO]	2025-05-27T23:50:55.574Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389855615,"[INFO]	2025-05-27T23:50:55.614Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389855619,"[INFO]	2025-05-27T23:50:55.619Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389855619,"[INFO]	2025-05-27T23:50:55.619Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389855672,"[INFO]	2025-05-27T23:50:55.672Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image is a visually appealing representation of a featured product, showcasing a pair of sleek wireless earbuds. The earbuds are prominently displayed against a soft, blurred background that enhances their design. The image has a clean and modern aesthetic, emphasizing the product's features while creating an inviting atmosphere for potential buyers. The focus on the earbuds highlights their stylish and compact form, suggesting high quality and advanced technology, making them an attractive option for mobile accessory enthusiasts.
+"
+1748389855900,"[INFO]	2025-05-27T23:50:55.900Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389855907,"<qdrant logs> Search results: [ScoredPoint(id='e5faddd4-601a-4a2c-bc31-39aaa2ddd85f', version=26, score=0.75336105, payload={'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'query_text': 'Create a landing page for Ecommerce website', 'full_prompt': 'Create a landing page for Ecommerce website', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'source': 'tsx_props', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='76f58c43-7390-42a9-a743-2fa92cc97041', version=33, score=0.707371, payload={'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'query_text': 'Create a webpage to sell computer accessories in USA ', 'full_prompt': 'Create a webpage to sell computer accessories in USA ', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='3af1a097-f8e5-480a-bb11-aa806d1b0618', version=19, score=0.624665, payload={'variant_id': 'c9456a46-2151-48ef-a7ed-744b11c97fec', 'query_text': 'Create a website for a computer hardware store', 'full_prompt': 'Create a website for a computer hardware store', 'alt_text': 'The image features a gaming headset designed for immersive audio experiences. It showcases a sleek, modern design with cushioned ear cups that provide comfort during extended gaming sessions. The headset is predominantly black with accents that suggest a high-tech aesthetic, making it appealing to gamers. The rounded shape and adjustable headband ensure a snug fit, while the overall look emphasizes functionality and style. The headset is displayed against a clean background, highlighting its features and inviting viewers to consider it for their gaming setup.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/7fd33950-a1ce-4797-8378-a207b7d2f57a/14686427a4f04fafb58adf5c35bc1c5b.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389855907,"[INFO]	2025-05-27T23:50:55.907Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389855907,"[INFO]	2025-05-27T23:50:55.907Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 3 results above threshold 0.55
+"
+1748389855907,"<vector search debug> matches   [{'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'score': 0.75336105}, {'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'score': 0.707371}, {'variant_id': 'c9456a46-2151-48ef-a7ed-744b11c97fec', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/7fd33950-a1ce-4797-8378-a207b7d2f57a/14686427a4f04fafb58adf5c35bc1c5b.jpg', 'alt_text': 'The image features a gaming headset designed for immersive audio experiences. It showcases a sleek, modern design with cushioned ear cups that provide comfort during extended gaming sessions. The headset is predominantly black with accents that suggest a high-tech aesthetic, making it appealing to gamers. The rounded shape and adjustable headband ensure a snug fit, while the overall look emphasizes functionality and style. The headset is displayed against a clean background, highlighting its features and inviting viewers to consider it for their gaming setup.', 'score': 0.624665}] matches length   {'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'score': 0.75336105}
+"
+1748389855907,"[INFO]	2025-05-27T23:50:55.907Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.24s)
+"
+1748389855908,"<IMG_DEBUG> Generated image URL for node:  https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D
+"
+1748389855908,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/products/wireless-earbuds.jpg\"" alt=\""Wireless Earbuds\"" className=\""w-full h-48 object-cover\"" />""
+"
+1748389855908,"[INFO]	2025-05-27T23:50:55.908Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389855955,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389858136,"<IMG_DEBUG> Generated description for node:  The image displays a pair of wireless earbuds, showcasing a sleek and modern design. The earbuds are positioned against a clean background, highlighting their compact size and ergonomic shape. The surface of the earbuds has a glossy finish, reflecting light, which emphasizes their premium quality. The image captures the earbuds from a slightly elevated angle, providing a clear view of their contours and features. The overall aesthetic is minimalistic, making the product the focal point, ideal for an e-commerce setting.
+"
+1748389858137,"[INFO]	2025-05-27T23:50:58.136Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389858177,"[INFO]	2025-05-27T23:50:58.177Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389858180,"[INFO]	2025-05-27T23:50:58.180Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389858180,"[INFO]	2025-05-27T23:50:58.180Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389858187,"[INFO]	2025-05-27T23:50:58.186Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image displays a pair of wireless earbuds, showcasing a sleek and modern design. The earbuds are positioned against a clean background, highlighting their compact size and ergonomic shape. The surface of the earbuds has a glossy finish, reflecting light, which emphasizes their premium quality. The image captures the earbuds from a slightly elevated angle, providing a clear view of their contours and features. The overall aesthetic is minimalistic, making the product the focal point, ideal for an e-commerce setting.
+"
+1748389858537,"[INFO]	2025-05-27T23:50:58.537Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389858542,"<qdrant logs> Search results: [ScoredPoint(id='e5faddd4-601a-4a2c-bc31-39aaa2ddd85f', version=26, score=0.7550579, payload={'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'query_text': 'Create a landing page for Ecommerce website', 'full_prompt': 'Create a landing page for Ecommerce website', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'source': 'tsx_props', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='76f58c43-7390-42a9-a743-2fa92cc97041', version=33, score=0.70027536, payload={'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'query_text': 'Create a webpage to sell computer accessories in USA ', 'full_prompt': 'Create a webpage to sell computer accessories in USA ', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='3af1a097-f8e5-480a-bb11-aa806d1b0618', version=19, score=0.616552, payload={'variant_id': 'c9456a46-2151-48ef-a7ed-744b11c97fec', 'query_text': 'Create a website for a computer hardware store', 'full_prompt': 'Create a website for a computer hardware store', 'alt_text': 'The image features a gaming headset designed for immersive audio experiences. It showcases a sleek, modern design with cushioned ear cups that provide comfort during extended gaming sessions. The headset is predominantly black with accents that suggest a high-tech aesthetic, making it appealing to gamers. The rounded shape and adjustable headband ensure a snug fit, while the overall look emphasizes functionality and style. The headset is displayed against a clean background, highlighting its features and inviting viewers to consider it for their gaming setup.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/7fd33950-a1ce-4797-8378-a207b7d2f57a/14686427a4f04fafb58adf5c35bc1c5b.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389858542,"[INFO]	2025-05-27T23:50:58.542Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389858542,"[INFO]	2025-05-27T23:50:58.542Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 3 results above threshold 0.55
+"
+1748389858542,"<vector search debug> matches   [{'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'score': 0.7550579}, {'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'score': 0.70027536}, {'variant_id': 'c9456a46-2151-48ef-a7ed-744b11c97fec', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/7fd33950-a1ce-4797-8378-a207b7d2f57a/14686427a4f04fafb58adf5c35bc1c5b.jpg', 'alt_text': 'The image features a gaming headset designed for immersive audio experiences. It showcases a sleek, modern design with cushioned ear cups that provide comfort during extended gaming sessions. The headset is predominantly black with accents that suggest a high-tech aesthetic, making it appealing to gamers. The rounded shape and adjustable headband ensure a snug fit, while the overall look emphasizes functionality and style. The headset is displayed against a clean background, highlighting its features and inviting viewers to consider it for their gaming setup.', 'score': 0.616552}] matches length   {'variant_id': '18de8963-9c12-4c55-877b-a9e20579815f', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D', 'alt_text': 'The image showcases a pair of wireless Bluetooth headphones, highlighting their sleek and modern design. The headphones are displayed prominently against a clean background, emphasizing their aesthetic appeal. The ear cups are plush and cushioned, indicating comfort for prolonged use. The adjustable headband suggests a customizable fit, making them suitable for a variety of head sizes. The overall color scheme is stylish, likely featuring a blend of black and silver tones, which enhances their contemporary look. This image aims to convey both functionality and style, appealing to tech-savvy consumers looking for high-quality audio equipment.', 'score': 0.7550579}
+"
+1748389858542,"[INFO]	2025-05-27T23:50:58.542Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.36s)
+"
+1748389858543,"<IMG_DEBUG> Generated image URL for node:  https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-OnK1Biy1PKiMICVgKiASzkPY.png?st=2024-12-05T09%3A33%3A13Z&se=2024-12-05T11%3A33%3A13Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-05T00%3A32%3A05Z&ske=2024-12-06T00%3A32%3A05Z&sks=b&skv=2024-08-04&sig=SpMkYodW8oEPCt4nlpkIXyvOxN%2Bl2/ndQQ8MDBIkHsQ%3D
+"
+1748389858543,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/products/phone-case.jpg\"" alt=\""Phone Case\"" className=\""w-full h-48 object-cover\"" />""
+"
+1748389858543,"[INFO]	2025-05-27T23:50:58.543Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389858590,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389860640,"<IMG_DEBUG> Generated description for node:  The image shows a sleek and modern phone case designed to provide durable protection for mobile devices. It features a stylish and minimalist design, emphasizing functionality while maintaining an aesthetic appeal. The phone case is displayed prominently against a neutral background, allowing its details and craftsmanship to stand out. The case appears to fit snugly around a smartphone, highlighting cutouts for buttons and ports, ensuring accessibility. The overall look suggests a blend of style and practicality, making it an ideal accessory for tech-savvy individuals.
+"
+1748389860640,"[INFO]	2025-05-27T23:51:00.640Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389860674,"[INFO]	2025-05-27T23:51:00.674Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389860677,"[INFO]	2025-05-27T23:51:00.677Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389860677,"[INFO]	2025-05-27T23:51:00.677Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389860688,"[INFO]	2025-05-27T23:51:00.687Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image shows a sleek and modern phone case designed to provide durable protection for mobile devices. It features a stylish and minimalist design, emphasizing functionality while maintaining an aesthetic appeal. The phone case is displayed prominently against a neutral background, allowing its details and craftsmanship to stand out. The case appears to fit snugly around a smartphone, highlighting cutouts for buttons and ports, ensuring accessibility. The overall look suggests a blend of style and practicality, making it an ideal accessory for tech-savvy individuals.
+"
+1748389860867,"[INFO]	2025-05-27T23:51:00.865Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389860870,"<qdrant logs> Search results: [ScoredPoint(id='72dc9844-998d-4b3d-916b-d4c46e820922', version=42, score=0.50226873, payload={'variant_id': 'e797ac10-716b-408f-80ca-8d00ef173ae0', 'query_text': 'generate company portfolio website', 'full_prompt': 'generate company portfolio website', 'alt_text': 'The image displays a sleek and modern mobile banking application interface. The screen is predominantly designed with a clean layout, showcasing features such as account balances, transaction history, and quick access buttons for various banking services. The color palette includes shades of blue and white, enhancing the professional and trustworthy appearance typical of financial apps. The app is depicted on a smartphone device, highlighting its usability on mobile platforms. The background is softly blurred, focusing attention on the app', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/40a7de72-8f10-41d8-88ab-7ff4ac862763/e596827ba3a8461ebc0f049721087d64.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='bf8637e1-6efa-4e37-994a-f956c8370a94', version=42, score=0.49907625, payload={'variant_id': 'e797ac10-716b-408f-80ca-8d00ef173ae0', 'query_text': 'generate company portfolio website', 'full_prompt': 'generate company portfolio website', 'alt_text': 'The image displays a vibrant and modern icon representing mobile app development. It features a stylized smartphone with a bright, engaging design, indicating the focus on mobile technology. The color scheme likely includes shades of blue and green, symbolizing innovation and growth in the digital realm. This icon effectively conveys the concept of creating user-friendly mobile applications, making it relevant for businesses looking to enhance their mobile presence.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/40a7de72-8f10-41d8-88ab-7ff4ac862763/badbf5b2fdcf4b7ca922a8f7963ee6c9.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='a3feaa51-d8b7-442d-b79f-95913a04edbf', version=25, score=0.496639, payload={'variant_id': 'e72fd0b7-8d0a-4dac-93c5-d3286a20a28f', 'query_text': 'Create a beautiful design website for a taxi brand', 'full_prompt': 'Create a beautiful design website for a taxi brand', 'alt_text': 'The image depicts a scene of booking a taxi, showcasing a personal device displaying a taxi booking application interface. The screen features a clean and modern design, emphasizing the ease of booking a ride. Surrounding the device, there are subtle elements suggesting an urban environment, such as blurred lights or buildings, creating a sense of immediacy and convenience. The overall aesthetic is vibrant and engaging, highlighting the user-friendly nature of the taxi service. The image is framed with rounded edges, enhancing its contemporary look.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/41eb75b3-4d62-4945-9f1b-026e073a117d/07e25463c3204d94bf0ac2eef5e00600.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389860870,"[INFO]	2025-05-27T23:51:00.870Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389860870,"[INFO]	2025-05-27T23:51:00.870Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 0 results above threshold 0.55
+"
+1748389860870,"[INFO]	2025-05-27T23:51:00.870Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE NOT FOUND IN VECTOR DATABASE... OPTING to GENERATE IMAGE .....
+"
+1748389860870,"[INFO]	2025-05-27T23:51:00.870Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> GENERATING IMAGE WITH GEMINI FLASH
+"
+1748389860870,"[INFO]	2025-05-27T23:51:00.870Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	AFC is enabled with max remote calls: 10.
+"
+1748389863828,"[INFO]	2025-05-27T23:51:03.828Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	AFC remote call 1 is done.
+"
+1748389863828,"[INFO]	2025-05-27T23:51:03.828Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Received image data from Gemini
+"
+1748389863828,"[INFO]	2025-05-27T23:51:03.828Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Image bytes length: 913912
+"
+1748389863872,"[ERROR]	2025-05-27T23:51:03.872Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Error decoding/processing image: cannot identify image file <_io.BytesIO object at 0x7f79c424f060>
+"
+1748389863873,"[INFO]	2025-05-27T23:51:03.872Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Saved raw image data for debugging
+"
+1748389863873,"[INFO]	2025-05-27T23:51:03.873Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Saved decoded image data for debugging
+"
+1748389863875,"<IMG_DEBUG> Generated image URL for node:  None
+"
+1748389863875,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/products/charging-cable.jpg\"" alt=\""Charging Cable\"" className=\""w-full h-48 object-cover\"" />""
+"
+1748389863875,"[INFO]	2025-05-27T23:51:03.875Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389863923,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389865919,"<IMG_DEBUG> Generated description for node:  The image features a charging cable, prominently displayed in a clean and modern style. The cable is designed for fast charging and data transfer, showcasing its sleek and functional design. With a white background, the cable stands out, highlighting its quality and reliability. The image is well-composed, occupying the full width of the frame and maintaining a height that allows for a clear view of the product details. The object-cover class ensures that the image is perfectly cropped to fit the dimensions without losing any essential features of the charging cable.
+"
+1748389865919,"[INFO]	2025-05-27T23:51:05.919Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389865962,"[INFO]	2025-05-27T23:51:05.961Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389865965,"[INFO]	2025-05-27T23:51:05.965Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389865965,"[INFO]	2025-05-27T23:51:05.965Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389865975,"[INFO]	2025-05-27T23:51:05.974Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image features a charging cable, prominently displayed in a clean and modern style. The cable is designed for fast charging and data transfer, showcasing its sleek and functional design. With a white background, the cable stands out, highlighting its quality and reliability. The image is well-composed, occupying the full width of the frame and maintaining a height that allows for a clear view of the product details. The object-cover class ensures that the image is perfectly cropped to fit the dimensions without losing any essential features of the charging cable.
+"
+1748389866191,"[INFO]	2025-05-27T23:51:06.191Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389866195,"<qdrant logs> Search results: [ScoredPoint(id='76f58c43-7390-42a9-a743-2fa92cc97041', version=33, score=0.56528, payload={'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'query_text': 'Create a webpage to sell computer accessories in USA ', 'full_prompt': 'Create a webpage to sell computer accessories in USA ', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='2e9238af-5602-4d3b-bda9-7d02d4cc9fd5', version=15, score=0.5504621, payload={'variant_id': '8b1fe152-73b9-4d7b-ad5b-be159b871694', 'query_text': 'create a website landing page of a company which sell computer accessories in USA ', 'full_prompt': 'create a website landing page of a company which sell computer accessories in USA ', 'alt_text': 'The image depicts a featured product showcased prominently in the center of the section. It portrays a sleek, modern computer accessory, likely a premium gadget designed to enhance the tech experience. The product is set against a clean, neutral background, which allows it to stand out effectively. The image is well-lit, highlighting the features and design details of the product, making it visually appealing to potential customers. The overall presentation is intended to attract attention and convey a sense of quality and innovation.', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/29987fc3f26e48278ab8e1b48975e471/sample.jpeg?se=2024-11-11T13%3A08%3A23Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=cGcYRW%2Bz0gfg6zgYvO0PKgLGmDtdDZraTIZbCcOxdSs%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='6e6b82c9-1d08-4b17-854f-b49a0cacbdb9', version=39, score=0.53729105, payload={'variant_id': 'ecac4795-bf03-476f-ad7c-1a9a1924bd58', 'query_text': 'create a website landing page of a company which sell computer accessories in USA ', 'full_prompt': 'create a website landing page of a company which sell computer accessories in USA ', 'alt_text': 'The image features a prominent tech product, likely a high-end computer accessory, showcased against a visually appealing backdrop. The product is displayed in a rectangular format, measuring approximately 600 pixels in width and 400 pixels in height. It has a sleek and modern design, emphasizing its premium quality. The edges of the image are rounded, giving it a smooth and polished look, while a subtle shadow effect enhances its depth and draws attention to the product. The image has an animation effect that makes it fade in, adding a dynamic element to the presentation. Overall, it serves as an enticing visual for potential customers, highlighting the featured product', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/009e676cf3bd4dc6b5b1e369b00a048e/sample.jpeg?se=2024-11-11T13%3A08%3A38Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=Q9WDsz%2BbHXlzWzJx81r018WjmfeieYlMhM54oZe6GqU%3D'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389866195,"[INFO]	2025-05-27T23:51:06.195Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389866195,"[INFO]	2025-05-27T23:51:06.195Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 2 results above threshold 0.55
+"
+1748389866195,"<vector search debug> matches   [{'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'score': 0.56528}, {'variant_id': '8b1fe152-73b9-4d7b-ad5b-be159b871694', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/29987fc3f26e48278ab8e1b48975e471/sample.jpeg?se=2024-11-11T13%3A08%3A23Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=cGcYRW%2Bz0gfg6zgYvO0PKgLGmDtdDZraTIZbCcOxdSs%3D', 'alt_text': 'The image depicts a featured product showcased prominently in the center of the section. It portrays a sleek, modern computer accessory, likely a premium gadget designed to enhance the tech experience. The product is set against a clean, neutral background, which allows it to stand out effectively. The image is well-lit, highlighting the features and design details of the product, making it visually appealing to potential customers. The overall presentation is intended to attract attention and convey a sense of quality and innovation.', 'score': 0.5504621}] matches length   {'variant_id': '7d20d159-25f6-462b-9250-2a78f01b37f2', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D', 'alt_text': 'The image displays a pair of stylish wireless headphones set against a neutral background. The headphones feature a sleek design with cushioned ear pads, suggesting comfort for extended use. Their glossy finish reflects light, highlighting the modern aesthetic. The overall look of the headphones conveys high quality and advanced technology, making them appealing to potential buyers. The image is well-composed, filling the width of the frame and maintaining a height that emphasizes the product while providing a clear view of its details. The rounded edges and the slight shadowing enhance the visual impact, giving it a premium feel.', 'score': 0.56528}
+"
+1748389866195,"[INFO]	2025-05-27T23:51:06.195Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.22s)
+"
+1748389866196,"<IMG_DEBUG> Generated image URL for node:  https://bfldeliverysc.blob.core.windows.net/results/69c6419a220b4117ba0dfbd4aca6b0dc/sample.jpeg?se=2024-11-11T13%3A53%3A13Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=fXf9Wwft2apb8TxlKLhd7p8f0kw/r1FWcUxbtnpIsnk%3D
+"
+1748389866196,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/products/screen-protector.jpg\"" alt=\""Screen Protector\"" className=\""w-full h-48 object-cover\"" />""
+"
+1748389866196,"[INFO]	2025-05-27T23:51:06.196Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389866245,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389868245,"<IMG_DEBUG> Generated description for node:  The image displays a sleek and modern screen protector designed for mobile devices. It showcases a transparent, ultra-thin film that fits perfectly over a smartphone's display, offering crystal-clear visibility while protecting against scratches and damage. The screen protector is presented on a clean white background, emphasizing its glossy finish and high-quality material. The image is well-composed, highlighting the product's features, making it an attractive option for potential buyers looking to safeguard their devices.
+"
+1748389868245,"[INFO]	2025-05-27T23:51:08.245Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389868281,"[INFO]	2025-05-27T23:51:08.281Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389868284,"[INFO]	2025-05-27T23:51:08.284Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389868284,"[INFO]	2025-05-27T23:51:08.284Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389868291,"[INFO]	2025-05-27T23:51:08.291Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image displays a sleek and modern screen protector designed for mobile devices. It showcases a transparent, ultra-thin film that fits perfectly over a smartphone's display, offering crystal-clear visibility while protecting against scratches and damage. The screen protector is presented on a clean white background, emphasizing its glossy finish and high-quality material. The image is well-composed, highlighting the product's features, making it an attractive option for potential buyers looking to safeguard their devices.
+"
+1748389868479,"[INFO]	2025-05-27T23:51:08.479Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389868483,"<qdrant logs> Search results: [ScoredPoint(id='72dc9844-998d-4b3d-916b-d4c46e820922', version=42, score=0.4817394, payload={'variant_id': 'e797ac10-716b-408f-80ca-8d00ef173ae0', 'query_text': 'generate company portfolio website', 'full_prompt': 'generate company portfolio website', 'alt_text': 'The image displays a sleek and modern mobile banking application interface. The screen is predominantly designed with a clean layout, showcasing features such as account balances, transaction history, and quick access buttons for various banking services. The color palette includes shades of blue and white, enhancing the professional and trustworthy appearance typical of financial apps. The app is depicted on a smartphone device, highlighting its usability on mobile platforms. The background is softly blurred, focusing attention on the app', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/40a7de72-8f10-41d8-88ab-7ff4ac862763/e596827ba3a8461ebc0f049721087d64.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='bf8637e1-6efa-4e37-994a-f956c8370a94', version=42, score=0.4490108, payload={'variant_id': 'e797ac10-716b-408f-80ca-8d00ef173ae0', 'query_text': 'generate company portfolio website', 'full_prompt': 'generate company portfolio website', 'alt_text': 'The image displays a vibrant and modern icon representing mobile app development. It features a stylized smartphone with a bright, engaging design, indicating the focus on mobile technology. The color scheme likely includes shades of blue and green, symbolizing innovation and growth in the digital realm. This icon effectively conveys the concept of creating user-friendly mobile applications, making it relevant for businesses looking to enhance their mobile presence.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/40a7de72-8f10-41d8-88ab-7ff4ac862763/badbf5b2fdcf4b7ca922a8f7963ee6c9.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='6e6b82c9-1d08-4b17-854f-b49a0cacbdb9', version=39, score=0.44633144, payload={'variant_id': 'ecac4795-bf03-476f-ad7c-1a9a1924bd58', 'query_text': 'create a website landing page of a company which sell computer accessories in USA ', 'full_prompt': 'create a website landing page of a company which sell computer accessories in USA ', 'alt_text': 'The image features a prominent tech product, likely a high-end computer accessory, showcased against a visually appealing backdrop. The product is displayed in a rectangular format, measuring approximately 600 pixels in width and 400 pixels in height. It has a sleek and modern design, emphasizing its premium quality. The edges of the image are rounded, giving it a smooth and polished look, while a subtle shadow effect enhances its depth and draws attention to the product. The image has an animation effect that makes it fade in, adding a dynamic element to the presentation. Overall, it serves as an enticing visual for potential customers, highlighting the featured product', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/009e676cf3bd4dc6b5b1e369b00a048e/sample.jpeg?se=2024-11-11T13%3A08%3A38Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=Q9WDsz%2BbHXlzWzJx81r018WjmfeieYlMhM54oZe6GqU%3D'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389868483,"[INFO]	2025-05-27T23:51:08.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389868483,"[INFO]	2025-05-27T23:51:08.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 0 results above threshold 0.55
+"
+1748389868483,"[INFO]	2025-05-27T23:51:08.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE NOT FOUND IN VECTOR DATABASE... OPTING to GENERATE IMAGE .....
+"
+1748389868483,"[INFO]	2025-05-27T23:51:08.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> GENERATING IMAGE WITH GEMINI FLASH
+"
+1748389868483,"[INFO]	2025-05-27T23:51:08.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	AFC is enabled with max remote calls: 10.
+"
+1748389871653,"[INFO]	2025-05-27T23:51:11.653Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	AFC remote call 1 is done.
+"
+1748389871653,"[INFO]	2025-05-27T23:51:11.653Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Received image data from Gemini
+"
+1748389871653,"[INFO]	2025-05-27T23:51:11.653Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Image bytes length: 701356
+"
+1748389871654,"[ERROR]	2025-05-27T23:51:11.654Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Error decoding/processing image: cannot identify image file <_io.BytesIO object at 0x7f79b788e160>
+"
+1748389871655,"[INFO]	2025-05-27T23:51:11.655Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Saved raw image data for debugging
+"
+1748389871656,"[INFO]	2025-05-27T23:51:11.656Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<gemini logs> Saved decoded image data for debugging
+"
+1748389871656,"<IMG_DEBUG> Generated image URL for node:  None
+"
+1748389871656,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/newsletter-image.jpg\"" alt=\""Newsletter\"" className=\""w-full h-full object-cover\"" />""
+"
+1748389871657,"[INFO]	2025-05-27T23:51:11.657Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748389871703,"<image_description_generator_agent> Generating image descriptions...
+"
+1748389875448,"<IMG_DEBUG> Generated description for node:  The image depicts a visually appealing newsletter sign-up section for a mobile accessories e-commerce website. It features a vibrant and inviting design, showcasing a professional layout that draws attention. The background is likely a soft, neutral color that complements the text and other elements within the section. The focal point of the image may include an enticing visual related to mobile accessories, such as a modern smartphone or accessories like earbuds or cases, which enhances the theme of the website. Accompanying this visual, there is likely a well-designed input field for email entry, paired with a prominent call-to-action button inviting users to subscribe, all rendered in a clean and modern style. The overall look is dynamic and engaging, encouraging visitors to join the newsletter for exclusive offers and updates.
+"
+1748389875448,"[INFO]	2025-05-27T23:51:15.448Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_type': 'two', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748389875483,"[INFO]	2025-05-27T23:51:15.483Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748389875487,"[INFO]	2025-05-27T23:51:15.486Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748389875487,"[INFO]	2025-05-27T23:51:15.487Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Using collection: ui_descriptions
+"
+1748389875493,"[INFO]	2025-05-27T23:51:15.493Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Searching for: The image depicts a visually appealing newsletter sign-up section for a mobile accessories e-commerce website. It features a vibrant and inviting design, showcasing a professional layout that draws attention. The background is likely a soft, neutral color that complements the text and other elements within the section. The focal point of the image may include an enticing visual related to mobile accessories, such as a modern smartphone or accessories like earbuds or cases, which enhances the theme of the website. Accompanying this visual, there is likely a well-designed input field for email entry, paired with a prominent call-to-action button inviting users to subscribe, all rendered in a clean and modern style. The overall look is dynamic and engaging, encouraging visitors to join the newsletter for exclusive offers and updates.
+"
+1748389875664,"[INFO]	2025-05-27T23:51:15.663Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Generated query embedding
+"
+1748389875668,"<qdrant logs> Search results: [ScoredPoint(id='509873e0-f2e0-4d2a-9792-c3d984ed03e9', version=16, score=0.73832875, payload={'variant_id': '767a34ff-7eb0-4473-b9db-e1eb7c2a2800', 'query_text': 'Create a website for a video game store', 'full_prompt': 'Create a website for a video game store', 'alt_text': 'The image depicts a visually appealing newsletter graphic designed for a subscription section on a website. It features a clean and modern layout with a background that complements the overall aesthetic. The image is rounded at the corners, giving it a soft and inviting look. It likely includes elements that suggest communication, such as an envelope or digital elements, emphasizing the theme of staying updated with news, offers, and releases. The color palette is warm and engaging, aimed at attracting users to subscribe to the newsletter for the latest updates.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/a427d300-205b-4b68-94ec-f2ad1d67c709/f19aeb4fcb5945f58b744b1d9e6473a7.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='27edc758-c5ea-49f8-acb8-7c0d5e0b9615', version=17, score=0.7193783, payload={'variant_id': '9acef9b6-078c-4329-80f7-e85c1f17b0d7', 'query_text': 'Create a webpage to sell computer accessories in USA ', 'full_prompt': 'Create a webpage to sell computer accessories in USA ', 'alt_text': 'The image features a visually appealing scene related to a newsletter subscription. It likely showcases a modern and inviting design, possibly with elements that suggest communication, technology, or lifestyle, emphasizing the importance of staying updated. The rounded edges of the image give it a softer look, while the object-cover style ensures that the image fills the space attractively without distortion. The overall aesthetic is likely clean and professional, aligning with the theme of a tech-oriented brand.', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/d27fae3682fa4a5baac6cb218cbd2a82/sample.jpeg?se=2024-11-11T13%3A53%3A06Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=Mfl6f6P9y1RurWP2CEpfi0s1/kQj/3cirjW61r4TPno%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='dd59ae5b-b09f-4529-88c2-e30ff1433003', version=5, score=0.68566126, payload={'variant_id': '507339f0-fbd4-40ce-85bf-849d2e053c77', 'query_text': 'create a website for a computer hardware store', 'full_prompt': 'create a website for a computer hardware store', 'alt_text': 'The image is an illustration related to newsletters, depicted in a visually engaging style. It features graphic elements that suggest communication and information sharing, such as an envelope or a mail icon, possibly accompanied by decorative elements like lines or abstract shapes that enhance the theme of connectivity and updates. The color palette is likely vibrant and friendly, aligning with the overall design of a tech-related website, inviting users to subscribe and stay informed about the latest products and offers.', 'source': 'tsx_props', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-15mfYh4DECcF6MRV4MWrm9OC.png?st=2024-12-03T21%3A30%3A31Z&se=2024-12-03T23%3A30%3A31Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A16%3A22Z&ske=2024-12-04T00%3A16%3A22Z&sks=b&skv=2024-08-04&sig=dCdNri7QI5E%2BRuornX3tNcb/GjTl2zZpSXgBjRzpYFw%3D'}, vector=None, shard_key=None, order_value=None)]
+"
+1748389875668,"[INFO]	2025-05-27T23:51:15.668Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Found 3 results
+"
+1748389875668,"[INFO]	2025-05-27T23:51:15.668Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<qdrant logs> Filtered 3 results above threshold 0.55
+"
+1748389875668,"<vector search debug> matches   [{'variant_id': '767a34ff-7eb0-4473-b9db-e1eb7c2a2800', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/a427d300-205b-4b68-94ec-f2ad1d67c709/f19aeb4fcb5945f58b744b1d9e6473a7.jpg', 'alt_text': 'The image depicts a visually appealing newsletter graphic designed for a subscription section on a website. It features a clean and modern layout with a background that complements the overall aesthetic. The image is rounded at the corners, giving it a soft and inviting look. It likely includes elements that suggest communication, such as an envelope or digital elements, emphasizing the theme of staying updated with news, offers, and releases. The color palette is warm and engaging, aimed at attracting users to subscribe to the newsletter for the latest updates.', 'score': 0.73832875}, {'variant_id': '9acef9b6-078c-4329-80f7-e85c1f17b0d7', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/d27fae3682fa4a5baac6cb218cbd2a82/sample.jpeg?se=2024-11-11T13%3A53%3A06Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=Mfl6f6P9y1RurWP2CEpfi0s1/kQj/3cirjW61r4TPno%3D', 'alt_text': 'The image features a visually appealing scene related to a newsletter subscription. It likely showcases a modern and inviting design, possibly with elements that suggest communication, technology, or lifestyle, emphasizing the importance of staying updated. The rounded edges of the image give it a softer look, while the object-cover style ensures that the image fills the space attractively without distortion. The overall aesthetic is likely clean and professional, aligning with the theme of a tech-oriented brand.', 'score': 0.7193783}, {'variant_id': '507339f0-fbd4-40ce-85bf-849d2e053c77', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-wqcRcXSVClGRwPJLS7CUAQZd/img-15mfYh4DECcF6MRV4MWrm9OC.png?st=2024-12-03T21%3A30%3A31Z&se=2024-12-03T23%3A30%3A31Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=d505667d-d6c1-4a0a-bac7-5c84a87759f8&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2024-12-03T00%3A16%3A22Z&ske=2024-12-04T00%3A16%3A22Z&sks=b&skv=2024-08-04&sig=dCdNri7QI5E%2BRuornX3tNcb/GjTl2zZpSXgBjRzpYFw%3D', 'alt_text': 'The image is an illustration related to newsletters, depicted in a visually engaging style. It features graphic elements that suggest communication and information sharing, such as an envelope or a mail icon, possibly accompanied by decorative elements like lines or abstract shapes that enhance the theme of connectivity and updates. The color palette is likely vibrant and friendly, aligning with the overall design of a tech-related website, inviting users to subscribe and stay informed about the latest products and offers.', 'score': 0.68566126}] matches length   {'variant_id': '767a34ff-7eb0-4473-b9db-e1eb7c2a2800', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/a427d300-205b-4b68-94ec-f2ad1d67c709/f19aeb4fcb5945f58b744b1d9e6473a7.jpg', 'alt_text': 'The image depicts a visually appealing newsletter graphic designed for a subscription section on a website. It features a clean and modern layout with a background that complements the overall aesthetic. The image is rounded at the corners, giving it a soft and inviting look. It likely includes elements that suggest communication, such as an envelope or digital elements, emphasizing the theme of staying updated with news, offers, and releases. The color palette is warm and engaging, aimed at attracting users to subscribe to the newsletter for the latest updates.', 'score': 0.73832875}
+"
+1748389875668,"[INFO]	2025-05-27T23:51:15.668Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.18s)
+"
+1748389875669,"<IMG_DEBUG> Generated image URL for node:  https://akira-ui-generator.s3.us-west-2.amazonaws.com/a427d300-205b-4b68-94ec-f2ad1d67c709/f19aeb4fcb5945f58b744b1d9e6473a7.jpg
+"
+1748389875672,"<IMG_DEBUG> Generated descriptions and image URLs
+"
+1748389878385,"<IMG_DEBUG> Critical error in replace_placeholder_images_with_generated_images: RetryError[<Future at 0x7f79dfc156c0 state=finished raised FailedToDownloadImageException>]
+"
+1748389878385,"<IMPORT_DEBUG> Using Node.js import extraction, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748389878385,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389878385,"import React from 'react';
+"
+1748389878385,"import { Button } from ""@/components/ui/button""
+"
+1748389878385,"import { Input } from ""@
+"
+1748389878891,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389878891,"import React from 'react';
+"
+1748389878891,"import { Button } from ""@/components/ui/button""
+"
+1748389878891,"import { Input } from ""@
+"
+1748389878892,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389878892,"import React from 'react';
+"
+1748389878892,"import { Button } from ""@/components/ui/button""
+"
+1748389878892,"import { Input } from ""@
+"
+1748389878893,"<VALIDATION> Validation failed on attempt 1: ['Adjacent JSX elements must be wrapped in an enclosing tag']
+"
+1748389878893,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389878893,"import React from 'react';
+"
+1748389878893,"import { Button } from ""@/components/ui/button""
+"
+1748389878893,"import { Input } from ""@
+"
+1748389878893,"<IMPORT_DEBUG> Using Node.js import extraction, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748389878893,"<IMPORT_DEBUG> No <code> tags found, using full response.
+"
+1748389879466,"<IMPORT_DEBUG> No <code> tags found, using full response.
+"
+1748389879466,"<IMPORT_DEBUG> No <code> tags found, using full response.
+"
+1748389879467,"<VALIDATION> Code validated successfully on attempt 2
+"
+1748389879467,"<IMPORT_DEBUG> Using Node.js import extraction, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748389879467,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748389879467,"import React from 'react';
+"
+1748389879467,"import { Button } from ""@/components/ui/button""
+"
+1748389879467,"import { Input } from ""@
+"
+1748389879755,"<generate_variant_lambda> imports {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}
+"
+1748389879755,"imports: {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}
+"
+1748389879755,"[INFO]	2025-05-27T23:51:19.755Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	imports: {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}
+"
+1748389879755,"[INFO]	2025-05-27T23:51:19.755Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Updating variant creation status for variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 to VARIANT_DATA_GENERATED
+"
+1748389879762,"[INFO]	2025-05-27T23:51:19.762Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Variant creation status for variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 updated successfully.
+"
+1748389879762,"[INFO]	2025-05-27T23:51:19.762Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_data': {}, 'query_text': 'create a websotre for mobile accesories', 'variant_type': 'two', 'status': 'in_progress', 'variant_creation_status': 'VARIANT_DATA_GENERATED'}
+"
+1748389879789,"[INFO]	2025-05-27T23:51:19.789Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Updating variant creation status for variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 to UPDATING_VARIANT_DATA
+"
+1748389879795,"[INFO]	2025-05-27T23:51:19.795Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Variant creation status for variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 updated successfully.
+"
+1748389879795,"[INFO]	2025-05-27T23:51:19.795Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_data': {'tsx': '<code>
+import React from \'react\';
+import { Button } from ""@/components/ui/button""
+import { Input } from ""@/components/ui/input""
+import { ShoppingCart, Search, Menu, X, Phone, Mail, MapPin } from ""lucide-react""
+import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogClose } from ""@/components/ui/dialog""
+import { motion } from ""framer-motion""
+
+export default function MobileStore() {
+  const [cartCount, setCartCount] = React.useState(0)
+  const [isMenuOpen, setIsMenuOpen] = React.useState(false)
+
+  const addToCart = () => {
+    setCartCount(cartCount + 1)
+  }
+
+  return (
+    <div className=""flex flex-col min-h-screen"">
+      <header className=""bg-white shadow-md fixed top-0 left-0 right-0 z-50"">
+        <div className=""container mx-auto px-4 py-4 flex items-center justify-between"">
+          <h1 className=""text-2xl font-bold text-primary"">Mobile Accessories</h1>
+          <nav className=""hidden md:flex space-x-6"">
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+          </nav>
+          <div className=""flex items-center space-x-4"">
+            <form className=""hidden md:block"">
+              <div className=""relative"">
+                <Input type=""search"" placeholder=""Search products..."" className=""pl-10"" />
+                <Search className=""absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"" />
+              </div>
+            </form>
+            <Button variant=""ghost"" className=""relative"" onClick={() => alert(""Search feature coming soon!"")}>
+              <Search className=""h-5 w-5"" />
+            </Button>
+            <Dialog>
+              <DialogTrigger asChild>
+                <Button variant=""ghost"" className=""relative"">
+                  <ShoppingCart className=""h-5 w-5"" />
+                  {cartCount > 0 && (
+                    <span className=""absolute -top-1 -right-1 bg-red-500 text-white rounded-full text-xs w-5 h-5 flex items-center justify-center"">{
+                      cartCount
+                    }</span>
+                  )}
+                </Button>
+              </DialogTrigger>
+              <DialogContent className=""max-w-sm"">
+                <DialogHeader>
+                  <DialogTitle>Your Cart</DialogTitle>
+                </DialogHeader>
+                <div className=""mt-4"">
+                  <p className=""text-gray-600"">You have {cartCount} items in your cart.</p>
+                  <div className=""mt-6 flex justify-end space-x-4"">
+                    <Button variant=""outline"" onClick={() => setCartCount(0)}>Clear Cart</Button>
+                    <Button>Add More Items</Button>
+                  </div>
+                </div>
+                <DialogClose className=""absolute top-2 right-2"">
+                  <X className=""h-4 w-4"" />
+                </DialogClose>
+              </DialogContent>
+            </Dialog>
+            <Button variant=""ghost"" className=""md:hidden"" onClick={() => setIsMenuOpen(true)}>
+              <Menu className=""h-5 w-5"" />
+            </Button>
+          </div>
+        </div>
+        <Dialog open={isMenuOpen} onOpenChange={setIsMenuOpen}>
+          <DialogContent className=""w-full max-w-sm"">
+            <DialogHeader>
+              <DialogTitle className=""flex items-center justify-between"">
+                <h2 className=""text-xl font-bold"">Menu</h2>
+                <DialogClose>
+                  <X className=""h-5 w-5"" />
+                </DialogClose>
+              </DialogTitle>
+            </DialogHeader>
+            <nav className=""mt-4 flex flex-col space-y-4"">
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+            </nav>
+          </DialogContent>
+        </Dialog>
+      </header>
+
+      <main className=""flex-grow pt-20"">
+        <section className=""bg-gray-50 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2"">
+                  <img src=""/hero-image.jpg"" alt=""Featured Product"" className=""w-full h-full object-cover"" />
+                </div>
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Featured Product</h2>
+                  <p className=""text-gray-600 mb-6"">Upgrade your mobile experience with our latest wireless earbuds.</p>
+                  <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Shop Now</Button>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+
+        <section className=""py-16"">
+          <div className=""container mx-auto px-4"">
+            <h2 className=""text-2xl font-bold mb-8 text-center"">Popular Products</h2>
+            <div className=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"">
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/wireless-earbuds.jpg"" alt=""Wireless Earbuds"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Wireless Earbuds</h3>
+                  <p className=""text-gray-600 mb-4"">High-quality sound with long battery life.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/phone-case.jpg"" alt=""Phone Case"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Phone Case</h3>
+                  <p className=""text-gray-600 mb-4"">Durable protection with a sleek design.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/charging-cable.jpg"" alt=""Charging Cable"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Charging Cable</h3>
+                  <p className=""text-gray-600 mb-4"">Fast charging and data transfer.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/screen-protector.jpg"" alt=""Screen Protector"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Screen Protector</h3>
+                  <p className=""text-gray-600 mb-4"">Crystal clear protection for your display.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+            </div>
+          </div>
+        </section>
+
+        <section className=""bg-gray-100 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Sign Up for Exclusive Offers</h2>
+                  <p className=""text-gray-600 mb-6"">Join our newsletter to receive the latest updates and special discounts.</p>
+                  <form className=""flex flex-col sm:flex-row gap-4"">
+                    <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                    <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+                  </form>
+                </div>
+                <div className=""lg:w-1/2"">
+                  <img src=""/newsletter-image.jpg"" alt=""Newsletter"" className=""w-full h-full object-cover"" />
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+      </main>
+
+      <footer className=""bg-white shadow-inner"">
+        <div className=""container mx-auto px-4 py-12"">
+          <div className=""grid grid-cols-1 md:grid-cols-4 gap-8"">
+            <div>
+              <h3 className=""font-semibold mb-4"">Contact Us</h3>
+              <p className=""flex items-center text-gray-600""><Phone className=""mr-2"" />(123) 456-7890</p>
+              <p className=""flex items-center text-gray-600""><Mail className=""mr-2"" />info@mobilestore.com</p>
+              <p className=""flex items-center text-gray-600""><MapPin className=""mr-2"" />123 Mobile St, Tech City</p>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Quick Links</h3>
+              <ul className=""space-y-2 text-gray-600"">
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">About Us</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">FAQ</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Shipping</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Returns</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Follow Us</h3>
+              <div className=""flex space-x-4"">
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M24 4.557a9.93 9.93 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.555-2.005.959-3.127 1.184a4.916 4.916 0 0 0-8.384 4.482A13.944 13.944 0 0 1 1.671 3.149a4.916 4.916 0 0 0 1.523 6.573A4.897 4.897 0 0 1 .964 9.1v.062a4.916 4.916 0 0 0 3.946 4.814 4.902 4.902 0 0 1-2.212.084 4.918 4.918 0 0 0 4.588 3.417A9.867 9.867 0 0 1 .96 19.54a13.94 13.94 0 0 0 7.548 2.212c9.056 0 14.01-7.496 14.01-13.986 0-.21-.005-.423-.014-.634A10.012 10.012 0 0 0 24 4.557z""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366.334-2.633 1.31-3.608.976-.975 2.243-1.248 3.608-1.31C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.058-1.278.3-2.375 1.198-3.273.898-.898 1.995-1.14 3.273-1.198C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Subscribe to Our Newsletter</h3>
+              <form className=""flex flex-col sm:flex-row gap-4"">
+                <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+              </form>
+            </div>
+          </div>
+          <div className=""mt-8 pt-8 border-t text-center text-gray-500"">
+            <p>&copy; {new Date().getFullYear()} Mobile Store. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  )
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}}, 'query_text': 'create a websotre for mobile accesories', 'variant_type': 'two', 'status': 'in_progress', 'variant_creation_status': 'UPDATING_VARIANT_DATA'}
+"
+1748389879823,"[INFO]	2025-05-27T23:51:19.823Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Updating variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 with data: {'tsx': '<code>
+import React from \'react\';
+import { Button } from ""@/components/ui/button""
+import { Input } from ""@/components/ui/input""
+import { ShoppingCart, Search, Menu, X, Phone, Mail, MapPin } from ""lucide-react""
+import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogClose } from ""@/components/ui/dialog""
+import { motion } from ""framer-motion""
+
+export default function MobileStore() {
+  const [cartCount, setCartCount] = React.useState(0)
+  const [isMenuOpen, setIsMenuOpen] = React.useState(false)
+
+  const addToCart = () => {
+    setCartCount(cartCount + 1)
+  }
+
+  return (
+    <div className=""flex flex-col min-h-screen"">
+      <header className=""bg-white shadow-md fixed top-0 left-0 right-0 z-50"">
+        <div className=""container mx-auto px-4 py-4 flex items-center justify-between"">
+          <h1 className=""text-2xl font-bold text-primary"">Mobile Accessories</h1>
+          <nav className=""hidden md:flex space-x-6"">
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+          </nav>
+          <div className=""flex items-center space-x-4"">
+            <form className=""hidden md:block"">
+              <div className=""relative"">
+                <Input type=""search"" placeholder=""Search products..."" className=""pl-10"" />
+                <Search className=""absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"" />
+              </div>
+            </form>
+            <Button variant=""ghost"" className=""relative"" onClick={() => alert(""Search feature coming soon!"")}>
+              <Search className=""h-5 w-5"" />
+            </Button>
+            <Dialog>
+              <DialogTrigger asChild>
+                <Button variant=""ghost"" className=""relative"">
+                  <ShoppingCart className=""h-5 w-5"" />
+                  {cartCount > 0 && (
+                    <span className=""absolute -top-1 -right-1 bg-red-500 text-white rounded-full text-xs w-5 h-5 flex items-center justify-center"">{
+                      cartCount
+                    }</span>
+                  )}
+                </Button>
+              </DialogTrigger>
+              <DialogContent className=""max-w-sm"">
+                <DialogHeader>
+                  <DialogTitle>Your Cart</DialogTitle>
+                </DialogHeader>
+                <div className=""mt-4"">
+                  <p className=""text-gray-600"">You have {cartCount} items in your cart.</p>
+                  <div className=""mt-6 flex justify-end space-x-4"">
+                    <Button variant=""outline"" onClick={() => setCartCount(0)}>Clear Cart</Button>
+                    <Button>Add More Items</Button>
+                  </div>
+                </div>
+                <DialogClose className=""absolute top-2 right-2"">
+                  <X className=""h-4 w-4"" />
+                </DialogClose>
+              </DialogContent>
+            </Dialog>
+            <Button variant=""ghost"" className=""md:hidden"" onClick={() => setIsMenuOpen(true)}>
+              <Menu className=""h-5 w-5"" />
+            </Button>
+          </div>
+        </div>
+        <Dialog open={isMenuOpen} onOpenChange={setIsMenuOpen}>
+          <DialogContent className=""w-full max-w-sm"">
+            <DialogHeader>
+              <DialogTitle className=""flex items-center justify-between"">
+                <h2 className=""text-xl font-bold"">Menu</h2>
+                <DialogClose>
+                  <X className=""h-5 w-5"" />
+                </DialogClose>
+              </DialogTitle>
+            </DialogHeader>
+            <nav className=""mt-4 flex flex-col space-y-4"">
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+            </nav>
+          </DialogContent>
+        </Dialog>
+      </header>
+
+      <main className=""flex-grow pt-20"">
+        <section className=""bg-gray-50 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2"">
+                  <img src=""/hero-image.jpg"" alt=""Featured Product"" className=""w-full h-full object-cover"" />
+                </div>
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Featured Product</h2>
+                  <p className=""text-gray-600 mb-6"">Upgrade your mobile experience with our latest wireless earbuds.</p>
+                  <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Shop Now</Button>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+
+        <section className=""py-16"">
+          <div className=""container mx-auto px-4"">
+            <h2 className=""text-2xl font-bold mb-8 text-center"">Popular Products</h2>
+            <div className=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"">
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/wireless-earbuds.jpg"" alt=""Wireless Earbuds"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Wireless Earbuds</h3>
+                  <p className=""text-gray-600 mb-4"">High-quality sound with long battery life.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/phone-case.jpg"" alt=""Phone Case"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Phone Case</h3>
+                  <p className=""text-gray-600 mb-4"">Durable protection with a sleek design.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/charging-cable.jpg"" alt=""Charging Cable"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Charging Cable</h3>
+                  <p className=""text-gray-600 mb-4"">Fast charging and data transfer.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/screen-protector.jpg"" alt=""Screen Protector"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Screen Protector</h3>
+                  <p className=""text-gray-600 mb-4"">Crystal clear protection for your display.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+            </div>
+          </div>
+        </section>
+
+        <section className=""bg-gray-100 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Sign Up for Exclusive Offers</h2>
+                  <p className=""text-gray-600 mb-6"">Join our newsletter to receive the latest updates and special discounts.</p>
+                  <form className=""flex flex-col sm:flex-row gap-4"">
+                    <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                    <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+                  </form>
+                </div>
+                <div className=""lg:w-1/2"">
+                  <img src=""/newsletter-image.jpg"" alt=""Newsletter"" className=""w-full h-full object-cover"" />
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+      </main>
+
+      <footer className=""bg-white shadow-inner"">
+        <div className=""container mx-auto px-4 py-12"">
+          <div className=""grid grid-cols-1 md:grid-cols-4 gap-8"">
+            <div>
+              <h3 className=""font-semibold mb-4"">Contact Us</h3>
+              <p className=""flex items-center text-gray-600""><Phone className=""mr-2"" />(123) 456-7890</p>
+              <p className=""flex items-center text-gray-600""><Mail className=""mr-2"" />info@mobilestore.com</p>
+              <p className=""flex items-center text-gray-600""><MapPin className=""mr-2"" />123 Mobile St, Tech City</p>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Quick Links</h3>
+              <ul className=""space-y-2 text-gray-600"">
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">About Us</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">FAQ</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Shipping</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Returns</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Follow Us</h3>
+              <div className=""flex space-x-4"">
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M24 4.557a9.93 9.93 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.555-2.005.959-3.127 1.184a4.916 4.916 0 0 0-8.384 4.482A13.944 13.944 0 0 1 1.671 3.149a4.916 4.916 0 0 0 1.523 6.573A4.897 4.897 0 0 1 .964 9.1v.062a4.916 4.916 0 0 0 3.946 4.814 4.902 4.902 0 0 1-2.212.084 4.918 4.918 0 0 0 4.588 3.417A9.867 9.867 0 0 1 .96 19.54a13.94 13.94 0 0 0 7.548 2.212c9.056 0 14.01-7.496 14.01-13.986 0-.21-.005-.423-.014-.634A10.012 10.012 0 0 0 24 4.557z""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366.334-2.633 1.31-3.608.976-.975 2.243-1.248 3.608-1.31C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.058-1.278.3-2.375 1.198-3.273.898-.898 1.995-1.14 3.273-1.198C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Subscribe to Our Newsletter</h3>
+              <form className=""flex flex-col sm:flex-row gap-4"">
+                <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+              </form>
+            </div>
+          </div>
+          <div className=""mt-8 pt-8 border-t text-center text-gray-500"">
+            <p>&copy; {new Date().getFullYear()} Mobile Store. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  )
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}} and status: completed
+"
+1748389879831,"[INFO]	2025-05-27T23:51:19.831Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4 updated successfully.
+"
+1748389879831,"[INFO]	2025-05-27T23:51:19.831Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Fetching project with ID: 9403cd73-27db-48e8-a41f-e895553aa1e0 for user: 0x4631594484679F60a49F159a35A859c7efaAeA20, include_deleted: False
+"
+1748389879839,"[INFO]	2025-05-27T23:51:19.839Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Updating chat history for project ID: 9403cd73-27db-48e8-a41f-e895553aa1e0 with variant ID: adc501f0-d208-49dc-b7b4-9fa6c45765f4, variant type: two, and query: create a websotre for mobile accesories
+"
+1748389879850,"[INFO]	2025-05-27T23:51:19.850Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Chat history updated successfully for project ID: 9403cd73-27db-48e8-a41f-e895553aa1e0.
+"
+1748389879850,"[INFO]	2025-05-27T23:51:19.850Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '9403cd73-27db-48e8-a41f-e895553aa1e0', 'variant_id': 'adc501f0-d208-49dc-b7b4-9fa6c45765f4', 'variant_data': {'tsx': '<code>
+import React from \'react\';
+import { Button } from ""@/components/ui/button""
+import { Input } from ""@/components/ui/input""
+import { ShoppingCart, Search, Menu, X, Phone, Mail, MapPin } from ""lucide-react""
+import { Dialog, DialogTrigger, DialogContent, DialogHeader, DialogTitle, DialogClose } from ""@/components/ui/dialog""
+import { motion } from ""framer-motion""
+
+export default function MobileStore() {
+  const [cartCount, setCartCount] = React.useState(0)
+  const [isMenuOpen, setIsMenuOpen] = React.useState(false)
+
+  const addToCart = () => {
+    setCartCount(cartCount + 1)
+  }
+
+  return (
+    <div className=""flex flex-col min-h-screen"">
+      <header className=""bg-white shadow-md fixed top-0 left-0 right-0 z-50"">
+        <div className=""container mx-auto px-4 py-4 flex items-center justify-between"">
+          <h1 className=""text-2xl font-bold text-primary"">Mobile Accessories</h1>
+          <nav className=""hidden md:flex space-x-6"">
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+            <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+          </nav>
+          <div className=""flex items-center space-x-4"">
+            <form className=""hidden md:block"">
+              <div className=""relative"">
+                <Input type=""search"" placeholder=""Search products..."" className=""pl-10"" />
+                <Search className=""absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400"" />
+              </div>
+            </form>
+            <Button variant=""ghost"" className=""relative"" onClick={() => alert(""Search feature coming soon!"")}>
+              <Search className=""h-5 w-5"" />
+            </Button>
+            <Dialog>
+              <DialogTrigger asChild>
+                <Button variant=""ghost"" className=""relative"">
+                  <ShoppingCart className=""h-5 w-5"" />
+                  {cartCount > 0 && (
+                    <span className=""absolute -top-1 -right-1 bg-red-500 text-white rounded-full text-xs w-5 h-5 flex items-center justify-center"">{
+                      cartCount
+                    }</span>
+                  )}
+                </Button>
+              </DialogTrigger>
+              <DialogContent className=""max-w-sm"">
+                <DialogHeader>
+                  <DialogTitle>Your Cart</DialogTitle>
+                </DialogHeader>
+                <div className=""mt-4"">
+                  <p className=""text-gray-600"">You have {cartCount} items in your cart.</p>
+                  <div className=""mt-6 flex justify-end space-x-4"">
+                    <Button variant=""outline"" onClick={() => setCartCount(0)}>Clear Cart</Button>
+                    <Button>Add More Items</Button>
+                  </div>
+                </div>
+                <DialogClose className=""absolute top-2 right-2"">
+                  <X className=""h-4 w-4"" />
+                </DialogClose>
+              </DialogContent>
+            </Dialog>
+            <Button variant=""ghost"" className=""md:hidden"" onClick={() => setIsMenuOpen(true)}>
+              <Menu className=""h-5 w-5"" />
+            </Button>
+          </div>
+        </div>
+        <Dialog open={isMenuOpen} onOpenChange={setIsMenuOpen}>
+          <DialogContent className=""w-full max-w-sm"">
+            <DialogHeader>
+              <DialogTitle className=""flex items-center justify-between"">
+                <h2 className=""text-xl font-bold"">Menu</h2>
+                <DialogClose>
+                  <X className=""h-5 w-5"" />
+                </DialogClose>
+              </DialogTitle>
+            </DialogHeader>
+            <nav className=""mt-4 flex flex-col space-y-4"">
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Home</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Products</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">About</a>
+              <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">Contact</a>
+            </nav>
+          </DialogContent>
+        </Dialog>
+      </header>
+
+      <main className=""flex-grow pt-20"">
+        <section className=""bg-gray-50 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0, y: 50 }}
+              animate={{ opacity: 1, y: 0 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2"">
+                  <img src=""/hero-image.jpg"" alt=""Featured Product"" className=""w-full h-full object-cover"" />
+                </div>
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Featured Product</h2>
+                  <p className=""text-gray-600 mb-6"">Upgrade your mobile experience with our latest wireless earbuds.</p>
+                  <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Shop Now</Button>
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+
+        <section className=""py-16"">
+          <div className=""container mx-auto px-4"">
+            <h2 className=""text-2xl font-bold mb-8 text-center"">Popular Products</h2>
+            <div className=""grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-8"">
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/wireless-earbuds.jpg"" alt=""Wireless Earbuds"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Wireless Earbuds</h3>
+                  <p className=""text-gray-600 mb-4"">High-quality sound with long battery life.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/phone-case.jpg"" alt=""Phone Case"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Phone Case</h3>
+                  <p className=""text-gray-600 mb-4"">Durable protection with a sleek design.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/charging-cable.jpg"" alt=""Charging Cable"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Charging Cable</h3>
+                  <p className=""text-gray-600 mb-4"">Fast charging and data transfer.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+
+              <motion.div
+                whileHover={{ scale: 1.05 }}
+                className=""bg-white rounded-lg shadow-md overflow-hidden transition-transform duration-300"">
+                <img src=""/products/screen-protector.jpg"" alt=""Screen Protector"" className=""w-full h-48 object-cover"" />
+                <div className=""p-4"">
+                  <h3 className=""font-semibold text-primary mb-2"">Screen Protector</h3>
+                  <p className=""text-gray-600 mb-4"">Crystal clear protection for your display.</p>
+                  <Button onClick={addToCart} className=""w-full bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Add to Cart</Button>
+                </div>
+              </motion.div>
+            </div>
+          </div>
+        </section>
+
+        <section className=""bg-gray-100 py-20"">
+          <div className=""container mx-auto px-4"">
+            <motion.div
+              initial={{ opacity: 0 }}
+              whileInView={{ opacity: 1 }}
+              transition={{ duration: 0.8 }}>
+              <div className=""flex flex-col lg:flex-row items-center bg-white rounded-lg shadow-lg overflow-hidden"">
+                <div className=""lg:w-1/2 p-8"">
+                  <h2 className=""text-3xl font-bold mb-4 text-primary"">Sign Up for Exclusive Offers</h2>
+                  <p className=""text-gray-600 mb-6"">Join our newsletter to receive the latest updates and special discounts.</p>
+                  <form className=""flex flex-col sm:flex-row gap-4"">
+                    <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                    <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+                  </form>
+                </div>
+                <div className=""lg:w-1/2"">
+                  <img src=""/newsletter-image.jpg"" alt=""Newsletter"" className=""w-full h-full object-cover"" />
+                </div>
+              </div>
+            </motion.div>
+          </div>
+        </section>
+      </main>
+
+      <footer className=""bg-white shadow-inner"">
+        <div className=""container mx-auto px-4 py-12"">
+          <div className=""grid grid-cols-1 md:grid-cols-4 gap-8"">
+            <div>
+              <h3 className=""font-semibold mb-4"">Contact Us</h3>
+              <p className=""flex items-center text-gray-600""><Phone className=""mr-2"" />(123) 456-7890</p>
+              <p className=""flex items-center text-gray-600""><Mail className=""mr-2"" />info@mobilestore.com</p>
+              <p className=""flex items-center text-gray-600""><MapPin className=""mr-2"" />123 Mobile St, Tech City</p>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Quick Links</h3>
+              <ul className=""space-y-2 text-gray-600"">
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">About Us</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">FAQ</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Shipping</a></li>
+                <li><a href=""#"" className=""hover:text-primary transition-colors duration-300"">Returns</a></li>
+              </ul>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Follow Us</h3>
+              <div className=""flex space-x-4"">
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M24 4.557a9.93 9.93 0 0 1-2.828.775 4.932 4.932 0 0 0 2.165-2.724c-.951.555-2.005.959-3.127 1.184a4.916 4.916 0 0 0-8.384 4.482A13.944 13.944 0 0 1 1.671 3.149a4.916 4.916 0 0 0 1.523 6.573A4.897 4.897 0 0 1 .964 9.1v.062a4.916 4.916 0 0 0 3.946 4.814 4.902 4.902 0 0 1-2.212.084 4.918 4.918 0 0 0 4.588 3.417A9.867 9.867 0 0 1 .96 19.54a13.94 13.94 0 0 0 7.548 2.212c9.056 0 14.01-7.496 14.01-13.986 0-.21-.005-.423-.014-.634A10.012 10.012 0 0 0 24 4.557z""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.062-1.366.334-2.633 1.31-3.608.976-.975 2.243-1.248 3.608-1.31C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+                <a href=""#"" className=""text-gray-600 hover:text-primary transition-colors duration-300"">
+                  <svg xmlns=""http://www.w3.org/2000/svg"" className=""h-6 w-6"" fill=""currentColor"" viewBox=""0 0 24 24"">
+                    <path d=""M12 2.163c3.204 0 3.584.012 4.85.07 1.366.062 2.633.334 3.608 1.31.975.976 1.248 2.243 1.31 3.608.058 1.266.07 1.646.07 4.85s-.012 3.584-.07 4.85c-.062 1.366-.334 2.633-1.31 3.608-.976.975-2.243 1.248-3.608 1.31-1.266.058-1.646.07-4.85.07s-3.584-.012-4.85-.07c-1.366-.062-2.633-.334-3.608-1.31-.975-.976-1.248-2.243-1.31-3.608C2.175 15.747 2.163 15.367 2.163 12s.012-3.584.07-4.85c.058-1.278.3-2.375 1.198-3.273.898-.898 1.995-1.14 3.273-1.198C8.416 2.175 8.796 2.163 12 2.163zm0-2.163C8.741 0 8.332.013 7.052.072 5.775.13 4.678.372 3.78 1.27 2.883 2.167 2.641 3.264 2.583 4.542 2.524 5.822 2.511 6.231 2.511 12s.013 6.178.072 7.458c.058 1.278.3 2.375 1.198 3.273.898.898 1.995 1.14 3.273 1.198 1.28.058 1.689.072 7.458.072s6.178-.013 7.458-.072c1.278-.058 2.375-.3 3.273-1.198.898-.898 1.14-1.995 1.198-3.273.058-1.28.072-1.689.072-7.458s-.013-6.178-.072-7.458c-.058-1.278-.3-2.375-1.198-3.273C19.375.372 18.278.13 17 .072 15.722.013 15.313 0 12 0z""/>
+                    <path d=""M12 5.838a6.162 6.162 0 1 0 0 12.324 6.162 6.162 0 0 0 0-12.324zm0 10.162a4 4 0 1 1 0-8 4 4 0 0 1 0 8z""/>
+                    <circle cx=""18.406"" cy=""5.594"" r=""1.44""/>
+                  </svg>
+                </a>
+              </div>
+            </div>
+            <div>
+              <h3 className=""font-semibold mb-4"">Subscribe to Our Newsletter</h3>
+              <form className=""flex flex-col sm:flex-row gap-4"">
+                <Input type=""email"" placeholder=""Enter your email"" className=""flex-grow"" />
+                <Button className=""bg-primary text-white hover:bg-primary-dark transition-colors duration-300"">Subscribe</Button>
+              </form>
+            </div>
+          </div>
+          <div className=""mt-8 pt-8 border-t text-center text-gray-500"">
+            <p>&copy; {new Date().getFullYear()} Mobile Store. All rights reserved.</p>
+          </div>
+        </div>
+      </footer>
+    </div>
+  )
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Input': '@/components/ui/input', 'ShoppingCart': 'lucide-react', 'Search': 'lucide-react', 'Menu': 'lucide-react', 'X': 'lucide-react', 'Phone': 'lucide-react', 'Mail': 'lucide-react', 'MapPin': 'lucide-react', 'Dialog': '@/components/ui/dialog', 'DialogTrigger': '@/components/ui/dialog', 'DialogContent': '@/components/ui/dialog', 'DialogHeader': '@/components/ui/dialog', 'DialogTitle': '@/components/ui/dialog', 'DialogClose': '@/components/ui/dialog', 'motion': 'framer-motion'}}, 'query_text': 'create a websotre for mobile accesories', 'variant_type': 'two', 'status': 'completed', 'variant_creation_status': 'DONE'}
+"
+1748389879877,"[INFO]	2025-05-27T23:51:19.876Z	cf9591b5-e63d-4795-bac4-4690a43cad2f	Variant adc501f0-d208-49dc-b7b4-9fa6c45765f4 updated and notified successfully
+"
+1748389879878,"END RequestId: cf9591b5-e63d-4795-bac4-4690a43cad2f
+"
+1748389879878,"REPORT RequestId: cf9591b5-e63d-4795-bac4-4690a43cad2f	Duration: 68037.26 ms	Billed Duration: 74497 ms	Memory Size: 4096 MB	Max Memory Used: 420 MB	Init Duration: 6459.62 ms	
+"

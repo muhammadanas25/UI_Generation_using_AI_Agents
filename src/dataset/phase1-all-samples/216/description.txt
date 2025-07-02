@@ -1,0 +1,1 @@
+Create a Web3-based voting system landing page for "VoteChain" with competitors like Snapshot.  

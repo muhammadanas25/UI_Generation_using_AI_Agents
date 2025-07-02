@@ -1,0 +1,1 @@
+Design a travel blog for "GlobeTrotter," featuring destination guides and travel photography, with a map-based navigation.

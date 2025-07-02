@@ -1,0 +1,1 @@
+Design a personal blog for a travel photographer called "LensJourney" with galleries and blog posts on travel stories.

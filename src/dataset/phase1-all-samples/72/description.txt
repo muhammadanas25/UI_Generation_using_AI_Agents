@@ -1,0 +1,1 @@
+Design a visual recipe card for "ChefAtHome" that summarizes key details like cooking time and servings at a glance.

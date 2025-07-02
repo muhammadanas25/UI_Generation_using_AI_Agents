@@ -1,0 +1,1 @@
+Design a decentralized music streaming platform for "TuneX," where artists receive direct payments through tokens.  

@@ -1,0 +1,1 @@
+Design a decentralized carbon credits trading platform for "CarbonX," allowing users to buy and trade carbon credits.  

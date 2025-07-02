@@ -1,0 +1,1 @@
+Create a decentralized art auction platform for "ArtNode," where artists auction NFT-based digital art.  

@@ -1,0 +1,1 @@
+Design a related products slider for "TechGear," suggesting complementary items based on the user's current selection.

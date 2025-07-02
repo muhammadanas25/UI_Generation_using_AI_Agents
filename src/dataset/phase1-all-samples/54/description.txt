@@ -1,0 +1,1 @@
+Design a personal blog for a filmmaker called "FrameByFrame," featuring film analysis, behind-the-scenes stories, and production tips.

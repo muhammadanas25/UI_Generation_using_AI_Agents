@@ -1,0 +1,1 @@
+Develop a sticky navigation bar for "VoiceVibes" that remains visible as users scroll, making it easy to access different sections of the portfolio.

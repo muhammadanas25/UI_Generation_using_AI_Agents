@@ -1,0 +1,96 @@
+ 
+
+--------------------------------- Structure -----------------------------------
+
+page = [
+
+{
+	name:			HomePage
+	fileName:		lowercase(name)+".js"
+	description:	What this page is about, etc etc
+	layout:			Defines how components within this page are structured, laid out
+
+	sections: [
+		{
+			name: header
+			description: home and about sections are arragned horizontally in a banner
+			// components: [] Will add components here, down the road
+		},
+		{
+			name: routes 
+			description: this defines the various routes our app supports
+		},
+		{
+			name: footer
+			description: foot with details such as contact us, blabla
+
+		}
+
+	]
+}
+
+
+]
+
+
+--------------------------------- Execution Flow -----------------------------------
+
+
+-	Generate skeleton
+	-	forEach page in Generate Content pages (pages[1:])
+		-	forEach section in page -> generate_section(section, page)
+		-	forEach section in page -> apply_style_consistency_to_section(section, sibling_sections)
+		-	forEach section in page -> generate_images(section)
+			-	generate grey images with dimension written in center for now, later replace with AI gen images
+		
+		-	compose_page(section_list)
+
+
+	-	Generate App page (page[0])
+
+
+
+-	section generation
+	-	Instruct it to be creative, think about UI elements, such as images, banners, etc to add,
+		Have multiple components within a section, arranged in a special way etc etc
+		section is basically a feature rich UI
+	-	Instruct it to use images of defined dimensions
+	-	Instruct it to use image names with dimensions e.g. "banner-image_1080x1920.jpg". 
+		all images must come from a assets repo so path should be "./assets/banner-image_1080x1920.jpg"
+
+
+--------------------------------- Agent Zoo -----------------------------------
+
+Agent 1	-	Define theme / design language (primary color, accent color etc etc)
+Agent 2	-	Define Layout / Skeleton
+Agent 3 -	Generate sections
+Agent 4	-	Generate Pages
+
+
+
+
+
+
+
+--------------------------------- Misc Thoughts -----------------------------------
+-	Maybe we can pass CSS from already generated sibling sections / components to maintain style consistency 
+-	PM will have various methods (as opposed to just one on_msg), like generate_project, modify_page, modify_section?
+	-	each method will have its own conversation history & agents & execution flow
+
+-	When generating a page, pass section (names + description), this will help make sense what layout+description is talking about.  
+
+
+
+--------------------------------- Long Term Plan -----------------------------------
+-	Extend component generation agent to lookup internet and find examples of usage (lets say ant-design dialog-box or modal), and embed examples in prompt during generation process for better guidance
+-	Use image defined by user to determine to define the layout / skeleton 	
+-	Divide sections into components
+-	Use simple/fast agent to generate skeleton (gpt4o-mini)
+	-	then loop over all pages and feed each page to stronger model to add additional details (gpt4 / 4o)
+
+-	Feed gpt-researcher's research report to skinny skeleton generator to include some 'data' in sections where applicable.
+		e.g. Olympic medal list top 10... etc etc 
+
+-	Embedding matching to fetch relevant examples for 
+	-	skeleton, sections
+-	Streaming HTML?

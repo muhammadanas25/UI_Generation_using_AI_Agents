@@ -1,0 +1,1 @@
+Design a responsive pricing plan table for a decentralized storage platform, comparing different storage tiers.

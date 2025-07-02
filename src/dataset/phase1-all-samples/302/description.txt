@@ -1,0 +1,1 @@
+Design a responsive navigation bar for a DeFi platform that displays staking options and wallet connections.  

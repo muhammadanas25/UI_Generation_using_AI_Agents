@@ -1,0 +1,1 @@
+Design a decentralized legal document storage platform for "LegalX," where smart contracts manage document verification.  

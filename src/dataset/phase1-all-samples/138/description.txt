@@ -1,0 +1,1 @@
+Design a gift card purchase feature for "Chef's Choice," allowing users to select gift card amounts and personalize messages for recipients.

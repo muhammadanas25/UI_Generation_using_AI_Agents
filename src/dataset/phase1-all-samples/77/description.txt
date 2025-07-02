@@ -1,0 +1,1 @@
+Design a homepage for a fashion ecommerce store called "StyleSquare," with featured collections and a trending now section.

@@ -1,0 +1,1 @@
+Design a homepage for an online toy store called "ToyPlanet," featuring age-specific categories and featured toys.

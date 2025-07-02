@@ -1,0 +1,1 @@
+Develop a long-form content sidebar for "DailyThoughts" that suggests related posts and author bio information.

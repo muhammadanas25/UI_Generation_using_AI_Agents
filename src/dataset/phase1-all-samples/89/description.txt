@@ -1,0 +1,1 @@
+Design a homepage for a pet supply store called "PetPaws," featuring pet categories, trending products, and subscription services.

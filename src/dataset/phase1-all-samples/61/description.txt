@@ -1,0 +1,1 @@
+Create a blog post snippet card for "TechSage" that includes the post title, a brief excerpt, and a read more button.

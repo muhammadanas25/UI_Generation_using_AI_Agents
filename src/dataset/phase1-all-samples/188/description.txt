@@ -1,0 +1,1 @@
+Design a personal portfolio homepage for a filmmaker called "FilmFocus," showcasing filmography, behind-the-scenes clips, and director’s notes.

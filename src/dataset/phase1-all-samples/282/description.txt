@@ -1,0 +1,1 @@
+Create a decentralized data marketplace app for "DataX," where users can buy and sell data with full transparency.  

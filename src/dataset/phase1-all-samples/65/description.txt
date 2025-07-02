@@ -1,0 +1,1 @@
+Design a wellness tip tooltip for "LiveWell" that provides quick health advice when users hover over keywords in blog posts.

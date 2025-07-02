@@ -1,0 +1,1 @@
+Design a portfolio homepage for a full-stack developer called "CodeCraft," highlighting web development projects and mobile apps.

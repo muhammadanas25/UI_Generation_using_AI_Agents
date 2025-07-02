@@ -1,0 +1,1850 @@
+timestamp,message
+1748612207625,"INIT_REPORT Init Duration: 10004.52 ms	Phase: init	Status: timeout
+"
+1748612218426,"START RequestId: 5ddaa18c-3b4b-47a5-bf43-b26a182c89bb Version: $LATEST
+"
+1748612218427,"[INFO]	2025-05-30T13:36:58.427Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Event: {'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c'}
+"
+1748612218427,"[INFO]	2025-05-30T13:36:58.427Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching variant by ID: e948e524-5128-44a2-a47c-027d9b89b49c, include_deleted: True, include_failed: False
+"
+1748612218463,"[INFO]	2025-05-30T13:36:58.463Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Returning variant: {'updated_at': '2025-05-30T13:36:35.636117+00:00', 'variant_type': 'one', 'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'created_at': '2025-05-30T13:36:35.636108+00:00', 'status': 'in_progress', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'query_text': 'create a website to offcer defi products with images', 'variant_data': {}, 'variant_creation_status': 'GENERATING_VARIANT_DATA', 'previous_variant_id': None, 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c'}
+"
+1748612218463,"[INFO]	2025-05-30T13:36:58.463Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Updating variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c to GENERATING_VARIANT_DATA
+"
+1748612218471,"[INFO]	2025-05-30T13:36:58.471Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c updated successfully.
+"
+1748612218471,"[INFO]	2025-05-30T13:36:58.471Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_data': {}, 'query_text': 'create a website to offcer defi products with images', 'variant_type': 'one', 'status': 'in_progress', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612218577,"[INFO]	2025-05-30T13:36:58.577Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_UI'}
+"
+1748612218605,"[WARNING]	2025-05-30T13:36:58.605Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Langfuse client is disabled since no public_key was provided as a parameter or environment variable 'LANGFUSE_PUBLIC_KEY'. See our docs: https://langfuse.com/docs/sdk/python/low-level-sdk#initialize-client
+"
+1748612218614,"[INFO]	2025-05-30T13:36:58.614Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Running UIGeneratorFineTunedAgent with query: create a website to offcer defi products with images
+"
+1748612218751,"Generating UI with Fine Tuned Model - []...
+"
+1748612221523,"<text>Here's a responsive landing page for a DeFi product offering website. It features sections for
+"
+1748612221523,"NOIFYING THE STREAM
+"
+1748612221523,"[INFO]	2025-05-30T13:37:01.523Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ""<text>Here's a responsive landing page for a DeFi product offering website. It features sections for"", 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612221851,"product descriptions, benefits, and a call-to-action, all styled with Tailwind CSS. The images are placeholders
+"
+1748612221851,"NOIFYING THE STREAM
+"
+1748612221851,"[INFO]	2025-05-30T13:37:01.851Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' product descriptions, benefits, and a call-to-action, all styled with Tailwind CSS. The images are placeholders', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612222186,"and should be replaced with actual product images.</text>
+"
+1748612222186,"<code>
+"
+1748612222186,"import React from 'react';
+"
+1748612222186,"import
+"
+1748612222186,"NOIFYING THE STREAM
+"
+1748612222186,"[INFO]	2025-05-30T13:37:02.186Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': "" and should be replaced with actual product images.</text>
+
+<code>
+import React from 'react';
+import"", 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612222484,"{ Button } from ""@/components/ui/button""
+"
+1748612222484,"import { Card, CardContent, CardHeader, CardTitle } from ""@/
+"
+1748612222484,"NOIFYING THE STREAM
+"
+1748612222484,"[INFO]	2025-05-30T13:37:02.484Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' { Button } from ""@/components/ui/button""
+import { Card, CardContent, CardHeader, CardTitle } from ""@/', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612222894,"components/ui/card""
+"
+1748612222894,"import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react""
+"
+1748612222894,"export default
+"
+1748612222894,"NOIFYING THE STREAM
+"
+1748612222894,"[INFO]	2025-05-30T13:37:02.894Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'components/ui/card""
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react""
+
+export default', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612223339,"function DefiLandingPage() {
+"
+1748612223339,"return (
+"
+1748612223339,"<div className=""flex flex-col min-h-screen"">
+"
+1748612223339,"<header
+"
+1748612223339,"NOIFYING THE STREAM
+"
+1748612223340,"[INFO]	2025-05-30T13:37:03.339Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' function DefiLandingPage() {
+  return (
+    <div className=""flex flex-col min-h-screen"">
+      <header', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612223798,"className=""px-4 lg:px-6 h-14 flex items-center"">
+"
+1748612223798,"<a className=""flex items-center justify-center
+"
+1748612223798,"NOIFYING THE STREAM
+"
+1748612223798,"[INFO]	2025-05-30T13:37:03.798Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' className=""px-4 lg:px-6 h-14 flex items-center"">
+        <a className=""flex items-center justify-center', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612224383,""" href=""#"">
+"
+1748612224383,"<Shield className=""h-6 w-6"" />
+"
+1748612224383,"<span className=""ml-2 text-2xl font-bold
+"
+1748612224383,"NOIFYING THE STREAM
+"
+1748612224383,"[INFO]	2025-05-30T13:37:04.383Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '"" href=""#"">
+          <Shield className=""h-6 w-6"" />
+          <span className=""ml-2 text-2xl font-bold', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612224822,""">DeFi Solutions</span>
+"
+1748612224822,"</a>
+"
+1748612224822,"<nav className=""ml-auto flex gap-4 sm:gap-6"">
+"
+1748612224822,"NOIFYING THE STREAM
+"
+1748612224823,"[INFO]	2025-05-30T13:37:04.822Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '"">DeFi Solutions</span>
+        </a>
+        <nav className=""ml-auto flex gap-4 sm:gap-6"">
+         ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612225162,"<a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+"
+1748612225162,"Products
+"
+1748612225162,"NOIFYING THE STREAM
+"
+1748612225162,"[INFO]	2025-05-30T13:37:05.162Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Products', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612225521,"</a>
+"
+1748612225521,"<a className=""text-sm font-medium hover:underline underline-offset-4"" href
+"
+1748612225521,"NOIFYING THE STREAM
+"
+1748612225521,"[INFO]	2025-05-30T13:37:05.521Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612225846,'"=""#"">
+"
+1748612225846,"About
+"
+1748612225846,"</a>
+"
+1748612225846,"<a className=""text-sm font-medium hover:underline underline
+"
+1748612225846,"NOIFYING THE STREAM
+"
+1748612225846,"[INFO]	2025-05-30T13:37:05.846Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '=""#"">
+            About
+          </a>
+          <a className=""text-sm font-medium hover:underline underline', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612226333,'"-offset-4"" href=""#"">
+"
+1748612226333,"Contact
+"
+1748612226333,"</a>
+"
+1748612226333,"</nav>
+"
+1748612226333,"</header>
+"
+1748612226333,"<main class
+"
+1748612226333,"NOIFYING THE STREAM
+"
+1748612226333,"[INFO]	2025-05-30T13:37:06.333Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-offset-4"" href=""#"">
+            Contact
+          </a>
+        </nav>
+      </header>
+      <main class', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612226906,"Name=""flex-1"">
+"
+1748612226906,"<section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+"
+1748612226906,"<div class
+"
+1748612226906,"NOIFYING THE STREAM
+"
+1748612226906,"[INFO]	2025-05-30T13:37:06.906Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Name=""flex-1"">
+        <section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+          <div class', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612227332,"Name=""container px-4 md:px-6"">
+"
+1748612227332,"<div className=""flex flex-col items-center space-y-4 text
+"
+1748612227332,"NOIFYING THE STREAM
+"
+1748612227332,"[INFO]	2025-05-30T13:37:07.332Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Name=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612227861,'"-center"">
+"
+1748612227861,"<div className=""space-y-2"">
+"
+1748612227861,"<h1 className=""text-3xl font-bold
+"
+1748612227861,"NOIFYING THE STREAM
+"
+1748612227861,"[INFO]	2025-05-30T13:37:07.861Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-center"">
+              <div className=""space-y-2"">
+                <h1 className=""text-3xl font-bold', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612229336,"tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+"
+1748612229336,"Empower Your Finances
+"
+1748612229336,"NOIFYING THE STREAM
+"
+1748612229336,"[INFO]	2025-05-30T13:37:09.336Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+                  Empower Your Finances', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612229973,"with DeFi
+"
+1748612229973,"</h1>
+"
+1748612229973,"<p className=""mx-auto max-w-[700px] text-gray-500 md
+"
+1748612229973,"NOIFYING THE STREAM
+"
+1748612229974,"[INFO]	2025-05-30T13:37:09.973Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' with DeFi
+                </h1>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612230297,":text-xl dark:text-gray-400"">
+"
+1748612230297,"Discover our range of decentralized finance products
+"
+1748612230297,"NOIFYING THE STREAM
+"
+1748612230298,"[INFO]	2025-05-30T13:37:10.298Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ':text-xl dark:text-gray-400"">
+                  Discover our range of decentralized finance products', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612230587,"designed to maximize your returns and minimize risk.
+"
+1748612230587,"</p>
+"
+1748612230587,"</div>
+"
+1748612230587,"NOIFYING THE STREAM
+"
+1748612230587,"[INFO]	2025-05-30T13:37:10.587Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' designed to maximize your returns and minimize risk.
+                </p>
+              </div>
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612230965,"<div className=""space-x-4"">
+"
+1748612230965,"<Button>
+"
+1748612230965,"Explore Products
+"
+1748612230965,"NOIFYING THE STREAM
+"
+1748612230967,"[INFO]	2025-05-30T13:37:10.965Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <div className=""space-x-4"">
+                <Button>
+                  Explore Products
+                 ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612231389,"<ArrowRight className=""ml-2 h-4 w-4"" />
+"
+1748612231389,"</Button>
+"
+1748612231389,"</div>
+"
+1748612231389,"</
+"
+1748612231389,"NOIFYING THE STREAM
+"
+1748612231390,"[INFO]	2025-05-30T13:37:11.389Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612232012,"div>
+"
+1748612232012,"</div>
+"
+1748612232012,"</section>
+"
+1748612232012,"<section className=""w-full py-12 md:py-24 lg:py-32 bg
+"
+1748612232012,"NOIFYING THE STREAM
+"
+1748612232012,"[INFO]	2025-05-30T13:37:12.012Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612232373,'"-gray-100 dark:bg-gray-800"">
+"
+1748612232373,"<div className=""container px-4 md:px-6"">
+"
+1748612232373,"<h2 class
+"
+1748612232373,"NOIFYING THE STREAM
+"
+1748612232373,"[INFO]	2025-05-30T13:37:12.373Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <h2 class', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612232778,"Name=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+"
+1748612232778,"Our
+"
+1748612232778,"NOIFYING THE STREAM
+"
+1748612232779,"[INFO]	2025-05-30T13:37:12.778Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Name=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Our', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612233228,"Products
+"
+1748612233228,"</h2>
+"
+1748612233228,"<div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+"
+1748612233228,"NOIFYING THE STREAM
+"
+1748612233228,"[INFO]	2025-05-30T13:37:13.228Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' Products
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612233537,"<Card>
+"
+1748612233537,"<CardHeader>
+"
+1748612233537,"<img src=""/placeholder.svg?height=100&width=100
+"
+1748612233537,"NOIFYING THE STREAM
+"
+1748612233537,"[INFO]	2025-05-30T13:37:13.537Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <Card>
+                <CardHeader>
+                  <img src=""/placeholder.svg?height=100&width=100', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612234054,""" alt=""Yield Farming"" className=""w-24 h-24 mb-4"" />
+"
+1748612234054,"<CardTitle>Yield Farming</Card
+"
+1748612234054,"NOIFYING THE STREAM
+"
+1748612234054,"[INFO]	2025-05-30T13:37:14.054Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '"" alt=""Yield Farming"" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Yield Farming</Card', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612234269,"Title>
+"
+1748612234269,"</CardHeader>
+"
+1748612234269,"<CardContent>
+"
+1748612234269,"Maximize your crypto
+"
+1748612234269,"NOIFYING THE STREAM
+"
+1748612234269,"[INFO]	2025-05-30T13:37:14.269Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Title>
+                </CardHeader>
+                <CardContent>
+                  Maximize your crypto', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612234471,"returns by providing liquidity to decentralized exchanges.
+"
+1748612234471,"</CardContent>
+"
+1748612234471,"NOIFYING THE STREAM
+"
+1748612234471,"[INFO]	2025-05-30T13:37:14.471Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' returns by providing liquidity to decentralized exchanges.
+                </CardContent>
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612234720,"</Card>
+"
+1748612234720,"<Card>
+"
+1748612234720,"<CardHeader>
+"
+1748612234720,"<img src=""/placeholder.svg
+"
+1748612234720,"NOIFYING THE STREAM
+"
+1748612234720,"[INFO]	2025-05-30T13:37:14.720Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""/placeholder.svg', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612235157,"?height=100&width=100"" alt=""Staking"" className=""w-24 h-24 mb-4"" />
+"
+1748612235157,"<CardTitle>Staking
+"
+1748612235157,"NOIFYING THE STREAM
+"
+1748612235157,"[INFO]	2025-05-30T13:37:15.157Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '?height=100&width=100"" alt=""Staking"" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Staking', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612235385,"</CardTitle>
+"
+1748612235385,"</CardHeader>
+"
+1748612235385,"<CardContent>
+"
+1748612235385,"Earn passive
+"
+1748612235385,"NOIFYING THE STREAM
+"
+1748612235385,"[INFO]	2025-05-30T13:37:15.385Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Earn passive', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612235616,"income by locking up your assets in proof-of-stake networks.
+"
+1748612235616,"</CardContent>
+"
+1748612235616,"NOIFYING THE STREAM
+"
+1748612235616,"[INFO]	2025-05-30T13:37:15.616Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' income by locking up your assets in proof-of-stake networks.
+                </CardContent>
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612235867,"</Card>
+"
+1748612235867,"<Card>
+"
+1748612235867,"<CardHeader>
+"
+1748612235867,"<img src=""/placeholder.svg
+"
+1748612235867,"NOIFYING THE STREAM
+"
+1748612235867,"[INFO]	2025-05-30T13:37:15.867Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""/placeholder.svg', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612236299,"?height=100&width=100"" alt=""Lending"" className=""w-24 h-24 mb-4"" />
+"
+1748612236299,"<CardTitle>Lending
+"
+1748612236299,"NOIFYING THE STREAM
+"
+1748612236299,"[INFO]	2025-05-30T13:37:16.299Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '?height=100&width=100"" alt=""Lending"" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Lending', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612236478,"</CardTitle>
+"
+1748612236478,"</CardHeader>
+"
+1748612236478,"<CardContent>
+"
+1748612236478,"Borrow or
+"
+1748612236478,"NOIFYING THE STREAM
+"
+1748612236478,"[INFO]	2025-05-30T13:37:16.478Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Borrow or', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612236681,"lend crypto assets with competitive interest rates on our platform.
+"
+1748612236681,"</CardContent>
+"
+1748612236681,"NOIFYING THE STREAM
+"
+1748612236681,"[INFO]	2025-05-30T13:37:16.681Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' lend crypto assets with competitive interest rates on our platform.
+                </CardContent>
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612237022,"</Card>
+"
+1748612237022,"</div>
+"
+1748612237022,"</div>
+"
+1748612237022,"</section>
+"
+1748612237022,"<section className
+"
+1748612237022,"NOIFYING THE STREAM
+"
+1748612237022,"[INFO]	2025-05-30T13:37:17.022Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '              </Card>
+            </div>
+          </div>
+        </section>
+        <section className', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612237509,'"=""w-full py-12 md:py-24 lg:py-32"">
+"
+1748612237509,"<div className=""container px-4 md:px-6"">
+"
+1748612237509,"<h
+"
+1748612237509,"NOIFYING THE STREAM
+"
+1748612237509,"[INFO]	2025-05-30T13:37:17.509Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '=""w-full py-12 md:py-24 lg:py-32"">
+          <div className=""container px-4 md:px-6"">
+            <h', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612238037,"2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+"
+1748612238037,"NOIFYING THE STREAM
+"
+1748612238038,"[INFO]	2025-05-30T13:37:18.038Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612238446,"Why Choose Us?
+"
+1748612238446,"</h2>
+"
+1748612238446,"<div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+"
+1748612238446,"NOIFYING THE STREAM
+"
+1748612238446,"[INFO]	2025-05-30T13:37:18.446Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' Why Choose Us?
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612238751,"<div className=""flex flex-col items-center text-center"">
+"
+1748612238751,"<Shield class
+"
+1748612238751,"NOIFYING THE STREAM
+"
+1748612238751,"[INFO]	2025-05-30T13:37:18.751Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '              <div className=""flex flex-col items-center text-center"">
+                <Shield class', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612239224,"Name=""h-12 w-12 mb-4"" />
+"
+1748612239224,"<h3 className=""text-xl font-bold mb-2"">Security First</h3>
+"
+1748612239224,"NOIFYING THE STREAM
+"
+1748612239224,"[INFO]	2025-05-30T13:37:19.224Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Name=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Security First</h3>
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612239620,"<p className=""text-gray-500 dark:text-gray-400"">
+"
+1748612239620,"Our top priority is
+"
+1748612239620,"NOIFYING THE STREAM
+"
+1748612239620,"[INFO]	2025-05-30T13:37:19.620Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '                <p className=""text-gray-500 dark:text-gray-400"">
+                  Our top priority is', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612239898,"the security of your assets and personal information.
+"
+1748612239898,"</p>
+"
+1748612239898,"</div>
+"
+1748612239898,"NOIFYING THE STREAM
+"
+1748612239899,"[INFO]	2025-05-30T13:37:19.898Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' the security of your assets and personal information.
+                </p>
+              </div>
+             ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612240250,"<div className=""flex flex-col items-center text-center"">
+"
+1748612240250,"<Zap className=""h-12 w-12 mb
+"
+1748612240250,"NOIFYING THE STREAM
+"
+1748612240250,"[INFO]	2025-05-30T13:37:20.250Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <div className=""flex flex-col items-center text-center"">
+                <Zap className=""h-12 w-12 mb', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612240914,'"-4"" />
+"
+1748612240914,"<h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+"
+1748612240914,"<p
+"
+1748612240914,"NOIFYING THE STREAM
+"
+1748612240914,"[INFO]	2025-05-30T13:37:20.914Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+                <p', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612241162,"className=""text-gray-500 dark:text-gray-400"">
+"
+1748612241162,"Experience quick transactions and real
+"
+1748612241162,"NOIFYING THE STREAM
+"
+1748612241162,"[INFO]	2025-05-30T13:37:21.162Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' className=""text-gray-500 dark:text-gray-400"">
+                  Experience quick transactions and real', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612241448,'"-time updates on your portfolio.
+"
+1748612241448,"</p>
+"
+1748612241448,"</div>
+"
+1748612241448,"<div className
+"
+1748612241448,"NOIFYING THE STREAM
+"
+1748612241448,"[INFO]	2025-05-30T13:37:21.448Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-time updates on your portfolio.
+                </p>
+              </div>
+              <div className', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612241814,'"=""flex flex-col items-center text-center"">
+"
+1748612241814,"<BarChart3 className=""h-12 w-12 mb-4"" />
+"
+1748612241814,"NOIFYING THE STREAM
+"
+1748612241815,"[INFO]	2025-05-30T13:37:21.814Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '=""flex flex-col items-center text-center"">
+                <BarChart3 className=""h-12 w-12 mb-4"" />
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612242183,"<h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+"
+1748612242183,"<p className
+"
+1748612242183,"NOIFYING THE STREAM
+"
+1748612242183,"[INFO]	2025-05-30T13:37:22.183Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '                <h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+                <p className', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612242444,'"=""text-gray-500 dark:text-gray-400"">
+"
+1748612242444,"Access advanced analytics and insights to make
+"
+1748612242444,"NOIFYING THE STREAM
+"
+1748612242444,"[INFO]	2025-05-30T13:37:22.444Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '=""text-gray-500 dark:text-gray-400"">
+                  Access advanced analytics and insights to make', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612242824,"informed decisions.
+"
+1748612242824,"</p>
+"
+1748612242824,"</div>
+"
+1748612242824,"</div>
+"
+1748612242824,"</div>
+"
+1748612242824,"NOIFYING THE STREAM
+"
+1748612242825,"[INFO]	2025-05-30T13:37:22.824Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' informed decisions.
+                </p>
+              </div>
+            </div>
+          </div>
+       ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612243204,"</section>
+"
+1748612243204,"<section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+"
+1748612243204,"NOIFYING THE STREAM
+"
+1748612243204,"[INFO]	2025-05-30T13:37:23.204Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612243576,"<div className=""container px-4 md:px-6"">
+"
+1748612243576,"<div className=""flex flex-col items-center
+"
+1748612243576,"NOIFYING THE STREAM
+"
+1748612243576,"[INFO]	2025-05-30T13:37:23.576Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612243897,"space-y-4 text-center"">
+"
+1748612243897,"<div className=""space-y-2"">
+"
+1748612243897,"<h2 className=""text
+"
+1748612243897,"NOIFYING THE STREAM
+"
+1748612243897,"[INFO]	2025-05-30T13:37:23.897Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h2 className=""text', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612244242,'"-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+"
+1748612244242,"Ready to Dive into DeFi?
+"
+1748612244242,"NOIFYING THE STREAM
+"
+1748612244242,"[INFO]	2025-05-30T13:37:24.242Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+                  Ready to Dive into DeFi?
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612244571,"</h2>
+"
+1748612244571,"<p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark
+"
+1748612244571,"NOIFYING THE STREAM
+"
+1748612244571,"[INFO]	2025-05-30T13:37:24.571Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '                </h2>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612244788,":text-gray-400"">
+"
+1748612244788,"Join thousands of users already benefiting from our innovative De
+"
+1748612244788,"NOIFYING THE STREAM
+"
+1748612244788,"[INFO]	2025-05-30T13:37:24.788Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ':text-gray-400"">
+                  Join thousands of users already benefiting from our innovative De', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612245192,"Fi solutions.
+"
+1748612245192,"</p>
+"
+1748612245192,"</div>
+"
+1748612245192,"<div className=""space-x-4"">
+"
+1748612245192,"NOIFYING THE STREAM
+"
+1748612245192,"[INFO]	2025-05-30T13:37:25.192Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'Fi solutions.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+               ', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612245537,"<Button size=""lg"">
+"
+1748612245537,"Get Started
+"
+1748612245537,"<ArrowRight className=""ml-2 h-4 w
+"
+1748612245537,"NOIFYING THE STREAM
+"
+1748612245537,"[INFO]	2025-05-30T13:37:25.537Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' <Button size=""lg"">
+                  Get Started
+                  <ArrowRight className=""ml-2 h-4 w', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612245812,'"-4"" />
+"
+1748612245812,"</Button>
+"
+1748612245812,"</div>
+"
+1748612245812,"</div>
+"
+1748612245812,"</div>
+"
+1748612245812,"</
+"
+1748612245812,"NOIFYING THE STREAM
+"
+1748612245812,"[INFO]	2025-05-30T13:37:25.812Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612246377,"section>
+"
+1748612246377,"</main>
+"
+1748612246377,"<footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0
+"
+1748612246377,"NOIFYING THE STREAM
+"
+1748612246377,"[INFO]	2025-05-30T13:37:26.377Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': 'section>
+      </main>
+      <footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612246795,"items-center px-4 md:px-6 border-t"">
+"
+1748612246795,"<p className=""text-xs text-gray-500 dark:text-gray-400
+"
+1748612246795,"NOIFYING THE STREAM
+"
+1748612246795,"[INFO]	2025-05-30T13:37:26.795Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' items-center px-4 md:px-6 border-t"">
+        <p className=""text-xs text-gray-500 dark:text-gray-400', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612247211,""">© 2024 DeFi Solutions. All rights reserved.</p>
+"
+1748612247211,"<nav className=""sm:ml-auto flex gap-4 sm:gap
+"
+1748612247211,"NOIFYING THE STREAM
+"
+1748612247211,"[INFO]	2025-05-30T13:37:27.211Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '"">© 2024 DeFi Solutions. All rights reserved.</p>
+        <nav className=""sm:ml-auto flex gap-4 sm:gap', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612248436,'"-6"">
+"
+1748612248436,"<a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+"
+1748612248436,"Terms
+"
+1748612248436,"NOIFYING THE STREAM
+"
+1748612248436,"[INFO]	2025-05-30T13:37:28.436Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '-6"">
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Terms', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612248925,"of Service
+"
+1748612248925,"</a>
+"
+1748612248925,"<a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+"
+1748612248925,"NOIFYING THE STREAM
+"
+1748612248926,"[INFO]	2025-05-30T13:37:28.926Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': ' of Service
+          </a>
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612249711,"Privacy
+"
+1748612249711,"</a>
+"
+1748612249711,"</nav>
+"
+1748612249711,"</footer>
+"
+1748612249711,"</div>
+"
+1748612249711,")
+"
+1748612249711,"}
+"
+1748612249711,"</code>
+"
+1748612249711,"NOIFYING THE STREAM
+"
+1748612249711,"[INFO]	2025-05-30T13:37:29.711Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant stream: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'stream_data': {'content': '            Privacy
+          </a>
+        </nav>
+      </footer>
+    </div>
+  )
+}
+</code>', 'imports': []}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'GENERATING_VARIANT_DATA'}
+"
+1748612249733,"[INFO]	2025-05-30T13:37:29.732Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Response already has formatting tags, skipping formatter
+"
+1748612249733,"[INFO]	2025-05-30T13:37:29.733Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Raw content starting 100 chars: <text>Here's a responsive landing page for a DeFi product offering website. It features sections for
+"
+1748612249733,"<IMG_DEBUG> Trying to grab image nodes
+"
+1748612249733,"<IMG_DEBUG> inside try block for grab_image_nodes, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_jsx_fix.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748612249734,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748612249734,"import React from 'react';
+"
+1748612249734,"import { Button } from ""@/components/ui/button""
+"
+1748612249734,"import { Card, CardConte
+"
+1748612250786,"<IMG_DEBUG> Enhanced babel parser found 3 raw nodes
+"
+1748612250786,"<IMG_DEBUG> Processed 3 nodes (0 loop images)
+"
+1748612250786,"<IMG_DEBUG> Found some image nodes
+"
+1748612250787,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/placeholder.svg?height=100&width=100\"" alt=\""Yield Farming\"" className=\""w-24 h-24 mb-4\"" />""
+"
+1748612250787,"[INFO]	2025-05-30T13:37:30.787Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748612250841,"<image_description_generator_agent> Generating image descriptions...
+"
+1748612253827,"<IMG_DEBUG> Generated description for node:  The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card.
+"
+1748612253827,"[INFO]	2025-05-30T13:37:33.827Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748612253863,"[INFO]	2025-05-30T13:37:33.862Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748612253868,"[INFO]	2025-05-30T13:37:33.868Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748612253868,"[INFO]	2025-05-30T13:37:33.868Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Using collection: ui_descriptions
+"
+1748612253923,"[INFO]	2025-05-30T13:37:33.923Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Searching for: The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card.
+"
+1748612254313,"[INFO]	2025-05-30T13:37:34.313Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Generated query embedding
+"
+1748612254323,"<qdrant logs> Search results: [ScoredPoint(id='32e216f1-cb2f-416b-b2fd-083d5ee2df03', version=26, score=0.6715228, payload={'variant_id': 'a6b527ac-486e-459a-9400-5c0e16960b36', 'query_text': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'full_prompt': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'alt_text': 'The image titled ', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/bd5c14e4-83cc-440b-8d2c-3cfd0ea2500c/e30d74a6d29749f68365b9a41543098b.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='a16902a4-c917-414b-840f-b03aff47e6f8', version=25, score=0.67149717, payload={'variant_id': 'c000468a-38ee-449c-9c76-2c4fbdad8f4b', 'query_text': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'full_prompt': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'alt_text': 'The image titled ', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/bd5c14e4-83cc-440b-8d2c-3cfd0ea2500c/88d24f1161e84e1798130785b6db2d00.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='ea6b0c5a-f90e-4192-97b1-4fbae2adeb77', version=25, score=0.6714412, payload={'variant_id': 'c000468a-38ee-449c-9c76-2c4fbdad8f4b', 'query_text': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'full_prompt': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'alt_text': 'The image titled ', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/bd5c14e4-83cc-440b-8d2c-3cfd0ea2500c/aa976f6a79e145078fddb374c185f598.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748612254323,"[INFO]	2025-05-30T13:37:34.323Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Found 3 results
+"
+1748612254323,"[INFO]	2025-05-30T13:37:34.323Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Filtered 0 results above threshold 0.7
+"
+1748612254324,"[INFO]	2025-05-30T13:37:34.323Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<vector search debug> IMAGE NOT FOUND IN VECTOR DATABASE... OPTING to GENERATE IMAGE .....
+"
+1748612254324,"[INFO]	2025-05-30T13:37:34.324Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<vector search debug> GENERATING IMAGE WITH GEMINI FLASH
+"
+1748612254324,"[INFO]	2025-05-30T13:37:34.324Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	AFC is enabled with max remote calls: 10.
+"
+1748612257019,"[INFO]	2025-05-30T13:37:37.019Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	AFC remote call 1 is done.
+"
+1748612257019,"[INFO]	2025-05-30T13:37:37.019Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Received image data from Gemini
+"
+1748612257019,"[INFO]	2025-05-30T13:37:37.019Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Image bytes length: 65876
+"
+1748612257065,"[WARNING]	2025-05-30T13:37:37.065Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Strategy 1 (Direct bytes) failed: cannot identify image file <_io.BytesIO object at 0x7fa4705afe20>
+"
+1748612257065,"[INFO]	2025-05-30T13:37:37.065Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Strategy 2 (Base64 decode) successful - size: (1024, 1024), format: PNG, mode: RGB
+"
+1748612257073,"[ERROR]	2025-05-30T13:37:37.072Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<s3 upload> No bucket name found in environment variables
+"
+1748612257073,"[ERROR]	2025-05-30T13:37:37.073Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> S3Handler fallback failed: 'S3Handler' object has no attribute 'upload_image', will trigger backup models
+"
+1748612257073,"[INFO]	2025-05-30T13:37:37.073Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Gemini Flash failed, attempting Google Imagen 3.0 backup...
+"
+1748612257073,"[INFO]	2025-05-30T13:37:37.073Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<imagen logs> Using Google Imagen 3.0 as backup model
+"
+1748612260248,"[ERROR]	2025-05-30T13:37:40.247Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<imagen logs> Error processing Imagen image: cannot identify image file <_io.BytesIO object at 0x7fa4705afe20>
+"
+1748612260248,"[ERROR]	2025-05-30T13:37:40.248Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<imagen logs> No valid images generated by Imagen backup
+"
+1748612260248,"[ERROR]	2025-05-30T13:37:40.248Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<gemini logs> Google Imagen 3.0 backup also failed
+"
+1748612260248,"[INFO]	2025-05-30T13:37:40.248Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<fallback logs> Both Google models failed, attempting DALL-E fallback...
+"
+1748612280411,"[INFO]	2025-05-30T13:38:00.411Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<dalle logs> Generated image (took 20.16s)
+"
+1748612280412,"[INFO]	2025-05-30T13:38:00.411Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<fallback logs> DALL-E fallback succeeded!
+"
+1748612280617,"Indexing documents:   0%|          | 0/1 [00:00<?, ?it/s][INFO]	2025-05-30T13:38:00.617Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Indexed 1 documents
+"
+1748612280617,"Indexing documents: 100%|██████████| 1/1 [00:00<00:00, 99.40it/s]
+"
+1748612280617,"[INFO]	2025-05-30T13:38:00.617Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Stored new image in vector database: ccd27bdb-d450-4a37-98bc-b3b3fd0644e3 (took 0.21s)
+"
+1748612280618,"<IMG_DEBUG> Generated image URL for node:  https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6
+"
+1748612280618,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/placeholder.svg?height=100&width=100\"" alt=\""Staking\"" className=\""w-24 h-24 mb-4\"" />""
+"
+1748612280618,"[INFO]	2025-05-30T13:38:00.618Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748612280656,"<image_description_generator_agent> Generating image descriptions...
+"
+1748612283205,"<IMG_DEBUG> Generated description for node:  The image is a placeholder graphic representing the concept of 'Staking' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income.
+"
+1748612283205,"[INFO]	2025-05-30T13:38:03.205Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748612283241,"[INFO]	2025-05-30T13:38:03.241Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748612283244,"[INFO]	2025-05-30T13:38:03.244Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748612283244,"[INFO]	2025-05-30T13:38:03.244Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Using collection: ui_descriptions
+"
+1748612283251,"[INFO]	2025-05-30T13:38:03.250Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Searching for: The image is a placeholder graphic representing the concept of 'Staking' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income.
+"
+1748612283425,"[INFO]	2025-05-30T13:38:03.425Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Generated query embedding
+"
+1748612283431,"<qdrant logs> Search results: [ScoredPoint(id='e56ec5dd-4d90-4371-b1a7-8ea8f063da60', version=47, score=0.70696926, payload={'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'query_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'full_prompt': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'source': 'generated', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='a20b85ec-e02a-4c78-a1a8-e149a248700a', version=25, score=0.5990078, payload={'variant_id': 'c000468a-38ee-449c-9c76-2c4fbdad8f4b', 'query_text': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'full_prompt': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'alt_text': 'The image features a circular, rounded profile picture of a user, likely a woman, given the context. The user has a casual hairstyle and a friendly expression, contributing to an approachable appearance. The image is small, measuring 10 units in height and 10 units in width, which allows it to fit seamlessly within a user testimonial layout. The rounded shape emphasizes a personal touch, making it suitable for representing individual testimonials or user feedback on a platform.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/bd5c14e4-83cc-440b-8d2c-3cfd0ea2500c/2eb184253a344cf0b927ea14222583d8.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='52dc8ce8-5a27-4226-aaa3-73fb543622af', version=25, score=0.5960258, payload={'variant_id': 'c000468a-38ee-449c-9c76-2c4fbdad8f4b', 'query_text': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'full_prompt': 'Design a DeFi platform page for ""YieldMax,"" focusing on staking and yield farming features, with Uniswap as the competitor.', 'alt_text': 'The image is a circular profile picture of ', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/bd5c14e4-83cc-440b-8d2c-3cfd0ea2500c/50e1bafddaca42da9087f44c19e4e6d3.jpg'}, vector=None, shard_key=None, order_value=None)]
+"
+1748612283431,"[INFO]	2025-05-30T13:38:03.431Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Found 3 results
+"
+1748612283431,"[INFO]	2025-05-30T13:38:03.431Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Filtered 1 results above threshold 0.7
+"
+1748612283431,"<vector search debug> matches   [{'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D', 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'score': 0.70696926}] matches length   {'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D', 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'score': 0.70696926}
+"
+1748612283431,"[INFO]	2025-05-30T13:38:03.431Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.18s)
+"
+1748612283431,"<IMG_DEBUG> Generated image URL for node:  https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6
+"
+1748612283431,"<IMG_DEBUG> Processing single node, node:  ""<img src=\""/placeholder.svg?height=100&width=100\"" alt=\""Lending\"" className=\""w-24 h-24 mb-4\"" />""
+"
+1748612283432,"[INFO]	2025-05-30T13:38:03.432Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE_DESCRIPTION'}
+"
+1748612283471,"<image_description_generator_agent> Generating image descriptions...
+"
+1748612286109,"<IMG_DEBUG> Generated description for node:  The image is a placeholder graphic intended to represent the concept of 'Lending' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain.
+"
+1748612286110,"[INFO]	2025-05-30T13:38:06.109Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying agent status: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_type': 'one', 'agent_status': 'GENERATING_IMAGE'}
+"
+1748612286145,"[INFO]	2025-05-30T13:38:06.145Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Connected to Qdrant at http://52.12.20.4:6333
+"
+1748612286148,"[INFO]	2025-05-30T13:38:06.148Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Available collections: ['ui_descriptions']
+"
+1748612286148,"[INFO]	2025-05-30T13:38:06.148Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Using collection: ui_descriptions
+"
+1748612286161,"[INFO]	2025-05-30T13:38:06.161Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Searching for: The image is a placeholder graphic intended to represent the concept of 'Lending' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain.
+"
+1748612286342,"[INFO]	2025-05-30T13:38:06.342Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Generated query embedding
+"
+1748612286348,"<qdrant logs> Search results: [ScoredPoint(id='e56ec5dd-4d90-4371-b1a7-8ea8f063da60', version=47, score=0.73284197, payload={'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'query_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'full_prompt': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'source': 'generated', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='82bd82a4-2218-40fe-8b91-bedb4d8fc5e1', version=6, score=0.6076081, payload={'variant_id': 'b7d5c846-839e-40ff-a804-bef123bda2dd', 'query_text': 'create a banking landing page', 'full_prompt': 'create a banking landing page', 'alt_text': 'The image depicts a user, represented as a circular profile picture with a height and width of 16 units. The image has a rounded full shape, giving it a soft, friendly appearance. It is placed above a quote, suggesting that this individual has shared a testimonial about their experience with the service. The user is likely smiling or looking approachable, contributing to a positive and inviting atmosphere on the banking landing page. The image is styled to fit within a well-defined layout, ensuring that it enhances the overall design without drawing too much attention away from the text content.', 'source': 'tsx_props', 'image_url': 'https://akira-ui-generator.s3.us-west-2.amazonaws.com/b8eebcd6-67ee-4c5a-9082-978573425d92/4ab0ecc1e0a449cd86460985bcf25174.jpg'}, vector=None, shard_key=None, order_value=None), ScoredPoint(id='d8e2359f-0a8f-42b7-924d-7987813fdae2', version=2, score=0.6064595, payload={'variant_id': '64512683-3f27-43e5-800d-24364690e41d', 'query_text': 'image and text in section', 'full_prompt': 'image and text in section', 'alt_text': 'The image is a placeholder graphic represented by a simple SVG file, likely designed to visually indicate where an image will be placed in the layout. It is displayed within a card component, taking up the entire width and height allocated to it, thereby ensuring that it covers the designated area completely. The image features rounded corners, with the top corners rounded for mobile views and the left corner rounded for medium and larger screens, contributing to a modern and polished appearance. The overall design emphasizes a clean and minimal aesthetic, aligning with the card', 'source': 'tsx_props', 'image_url': 'https://bfldeliverysc.blob.core.windows.net/results/4dad81be3bb848899bf58fadf84af6fc/sample.jpeg?se=2024-11-11T08%3A33%3A07Z&sp=r&sv=2024-11-04&sr=b&rsct=image/jpeg&sig=LFbGaSXDa3V6QBH0h5h3gWUQ0pD%2BoThcFK3GO%2BcerQg%3D'}, vector=None, shard_key=None, order_value=None)]
+"
+1748612286348,"[INFO]	2025-05-30T13:38:06.348Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Found 3 results
+"
+1748612286348,"[INFO]	2025-05-30T13:38:06.348Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<qdrant logs> Filtered 1 results above threshold 0.7
+"
+1748612286348,"<vector search debug> matches   [{'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D', 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'score': 0.73284197}] matches length   {'variant_id': 'ccd27bdb-d450-4a37-98bc-b3b3fd0644e3', 'image_url': 'https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6gmQ5rGGlWkzX0wB8/img-pgenQXKY61xy7fxr6Xcbbuv0.png?st=2025-05-30T12%3A38%3A00Z&se=2025-05-30T14%3A38%3A00Z&sp=r&sv=2024-08-04&sr=b&rscd=inline&rsct=image/png&skoid=475fd488-6c59-44a5-9aa9-31c4db451bea&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-05-30T11%3A58%3A10Z&ske=2025-05-31T11%3A58%3A10Z&sks=b&skv=2024-08-04&sig=QBbXRnmPpSoYo6buUt4D/B%2B%2BuRYqVC0k84Tyu9ZQy6g%3D', 'alt_text': ""The image is a placeholder graphic representing 'Yield Farming,' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text 'Yield Farming' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."", 'score': 0.73284197}
+"
+1748612286348,"[INFO]	2025-05-30T13:38:06.348Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	<vector search debug> IMAGE FOUND IN VECTOR DATABASE... (took 0.19s)
+"
+1748612286349,"<IMG_DEBUG> Generated image URL for node:  https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6
+"
+1748612286352,"<IMG_DEBUG> Generated descriptions and image URLs
+"
+1748612286352,"<IMG_DEBUG> Processing 3 valid image nodes
+"
+1748612286361,"<IMG_DEBUG> Attempting S3 upload for URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612287572,"<S3_DEBUG> Successfully downloaded 1909950 bytes from https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612287671,"<IMG_DEBUG> Successfully uploaded image to S3
+"
+1748612287671,"<IMG_DEBUG> Attempting S3 upload for URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612288501,"<S3_DEBUG> Successfully downloaded 1909950 bytes from https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612288593,"<IMG_DEBUG> Successfully uploaded image to S3
+"
+1748612288593,"<IMG_DEBUG> Attempting S3 upload for URL: https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612289425,"<S3_DEBUG> Successfully downloaded 1909950 bytes from https://oaidalleapiprodscus.blob.core.windows.net/private/org-F5GX4Ze49y5DJhHiDRSCaoAS/user-AHWcciA6...
+"
+1748612289518,"<IMG_DEBUG> Successfully uploaded image to S3
+"
+1748612289518,"<IMG_DEBUG> S3 upload summary: 3/3 successful
+"
+1748612289520,"<IMG_DEBUG> Uploaded images to S3 and replaced URLs with S3 URLs
+"
+1748612289520,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): 
+"
+1748612289520,"import React from 'react';
+"
+1748612289520,"import { Button } from ""@/components/ui/button""
+"
+1748612289520,"import { Card, CardConte
+"
+1748612289821,"<IMG_DEBUG> Enhanced code update completed successfully
+"
+1748612289821,"<IMG_DEBUG> Updated code with generated images
+"
+1748612289821,"<IMPORT_DEBUG> Using Node.js import extraction, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_jsx_fix.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748612289822,"<IMPORT_DEBUG> No <code> tags found, cleaned response and removed <text> tags.
+"
+1748612290031,"<IMPORT_DEBUG> Primary import extraction failed: Command '['node', './ai/functions/babel-import-util.js', 'import React from \'react\';
+import { Button } from ""@/components/ui/button"";
+import { Card, CardContent, CardHeader, CardTitle } from ""@/components/ui/card"";
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react"";
+export default function DefiLandingPage() {
+  return 
+      
+        
+          
+          DeFi Solutions
+        
+        
+          
+            Products
+          
+          
+            About
+          
+          
+            Contact
+          
+        
+      
+      
+        
+          
+            
+              
+                
+                  Empower Your Finances with DeFi
+                
+                
+                  Discover our range of decentralized finance products designed to maximize your returns and minimize risk.
+                
+              
+              
+                
+                  Explore Products
+                  
+                
+              
+            
+          
+        
+        
+          
+            
+              Our Products
+            
+            
+              
+                
+                  
+                  Yield Farming
+                
+                
+                  Maximize your crypto returns by providing liquidity to decentralized exchanges.
+                
+              
+              
+                
+                  
+                  Staking
+                
+                
+                  Earn passive income by locking up your assets in proof-of-stake networks.
+                
+              
+              
+                
+                  
+                  Lending
+                
+                
+                  Borrow or lend crypto assets with competitive interest rates on our platform.
+                
+              
+            
+          
+        
+        
+          
+            
+              Why Choose Us?
+            
+            
+              
+                
+                Security First
+                
+                  Our top priority is the security of your assets and personal information.
+                
+              
+              
+                
+                Lightning Fast
+                
+                  Experience quick transactions and real-time updates on your portfolio.
+                
+              
+              
+                
+                Data Driven
+                
+                  Access advanced analytics and insights to make informed decisions.
+                
+              
+            
+          
+        
+        
+          
+            
+              
+                
+                  Ready to Dive into DeFi?
+                
+                
+                  Join thousands of users already benefiting from our innovative DeFi solutions.
+                
+              
+              
+                
+                  Get Started
+                  
+                
+              
+            
+          
+        
+      
+      
+        © 2024 DeFi Solutions. All rights reserved.
+        
+          
+            Terms of Service
+          
+          
+            Privacy
+          
+        
+      
+    ;
+}']' returned non-zero exit status 1., trying fallback
+"
+1748612290031,"<IMPORT_DEBUG> Using fallback import extraction
+"
+1748612290031,"<IMPORT_DEBUG> No <code> tags found, cleaned response and removed <text> tags.
+"
+1748612290032,"<IMPORT_DEBUG> Fallback extraction found 10 imports
+"
+1748612290278,"<IMPORT_DEBUG> No <code> tags found, cleaned response and removed <text> tags.
+"
+1748612290279,"<IMPORT_DEBUG> No <code> tags found, cleaned response and removed <text> tags.
+"
+1748612290279,"<VALIDATION> Code validated successfully on attempt 1
+"
+1748612290279,"<IMPORT_DEBUG> Using Node.js import extraction, current files in directory:  ['package.json', 'requirements.txt', 'node_modules', 'package-lock.json', '.env.sample', 'Dockerfile', 'Dockerfile.image-cache', '__init__.py', 'ai', 'akira_ui_generator.egg-info', 'api', 'babel-import-util.js', 'data.json', 'dataset', 'docker-compose.yml', 'fe', 'frontend_dependencies.json', 'js_testing', 'lambda_trigger.py', 'log.log', 'placeholder.svg', 'professional_placeholder.jpg', 'projects', 'scripts', 'shared', 'target.jpg', 'temp.py', 'test-agent.py', 'test-db.py', 'test-page.tsx', 'test-pydantic.py', 'test-skeleton-generation-api.py', 'test-skeleton-generation-func.py', 'test_gen_images.py', 'test_jsx_fix.py', 'test_qdrant.py', 'updated-test-page.tsx']
+"
+1748612290279,"<IMPORT_DEBUG> Extracted code for Node import extraction (first 100 chars): import React from 'react';
+"
+1748612290279,"import { Button } from ""@/components/ui/button"";
+"
+1748612290279,"import { Card, CardConte
+"
+1748612290520,"<IMPORT_DEBUG> Node.js extracted 10 imports: ['React', 'Button', 'Card', 'CardContent', 'CardHeader']...
+"
+1748612290520,"<generate_variant_lambda> imports {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}
+"
+1748612290520,"imports: {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}
+"
+1748612290521,"[INFO]	2025-05-30T13:38:10.520Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	imports: {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}
+"
+1748612290521,"[INFO]	2025-05-30T13:38:10.521Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Updating variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c to VARIANT_DATA_GENERATED
+"
+1748612290527,"[INFO]	2025-05-30T13:38:10.527Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c updated successfully.
+"
+1748612290527,"[INFO]	2025-05-30T13:38:10.527Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_data': {}, 'query_text': 'create a website to offcer defi products with images', 'variant_type': 'one', 'status': 'in_progress', 'variant_creation_status': 'VARIANT_DATA_GENERATED'}
+"
+1748612290547,"[INFO]	2025-05-30T13:38:10.547Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Updating variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c to UPDATING_VARIANT_DATA
+"
+1748612290553,"[INFO]	2025-05-30T13:38:10.553Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Variant creation status for variant ID: e948e524-5128-44a2-a47c-027d9b89b49c updated successfully.
+"
+1748612290553,"[INFO]	2025-05-30T13:38:10.553Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_data': {'tsx': '<code>import React from \'react\';
+import { Button } from ""@/components/ui/button"";
+import { Card, CardContent, CardHeader, CardTitle } from ""@/components/ui/card"";
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react"";
+export default function DefiLandingPage() {
+  return <div className=""flex flex-col min-h-screen"">
+      <header className=""px-4 lg:px-6 h-14 flex items-center"">
+        <a className=""flex items-center justify-center"" href=""#"">
+          <Shield className=""h-6 w-6"" />
+          <span className=""ml-2 text-2xl font-bold"">DeFi Solutions</span>
+        </a>
+        <nav className=""ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Products
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            About
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Contact
+          </a>
+        </nav>
+      </header>
+      <main className=""flex-1"">
+        <section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h1 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+                  Empower Your Finances with DeFi
+                </h1>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Discover our range of decentralized finance products designed to maximize your returns and minimize risk.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button>
+                  Explore Products
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Our Products
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/b963a7356489476cbeeca2de8067bdce.jpg"" alt=""The image is a placeholder graphic representing \'Yield Farming,\' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text \'Yield Farming\' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Yield Farming</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Maximize your crypto returns by providing liquidity to decentralized exchanges.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/e5e2f9237ad44cc992ecfb5d0371e153.jpg"" alt=""The image is a placeholder graphic representing the concept of \'Staking\' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Staking</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Earn passive income by locking up your assets in proof-of-stake networks.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/18ffea7f197644b1b816c81b302a9760.jpg"" alt=""The image is a placeholder graphic intended to represent the concept of \'Lending\' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Lending</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Borrow or lend crypto assets with competitive interest rates on our platform.
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Why Choose Us?
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <div className=""flex flex-col items-center text-center"">
+                <Shield className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Security First</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Our top priority is the security of your assets and personal information.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <Zap className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Experience quick transactions and real-time updates on your portfolio.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <BarChart3 className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Access advanced analytics and insights to make informed decisions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+                  Ready to Dive into DeFi?
+                </h2>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Join thousands of users already benefiting from our innovative DeFi solutions.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button size=""lg"">
+                  Get Started
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t"">
+        <p className=""text-xs text-gray-500 dark:text-gray-400"">© 2024 DeFi Solutions. All rights reserved.</p>
+        <nav className=""sm:ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Terms of Service
+          </a>
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Privacy
+          </a>
+        </nav>
+      </footer>
+    </div>;
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}}, 'query_text': 'create a website to offcer defi products with images', 'variant_type': 'one', 'status': 'in_progress', 'variant_creation_status': 'UPDATING_VARIANT_DATA'}
+"
+1748612290573,"[INFO]	2025-05-30T13:38:10.573Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Updating variant ID: e948e524-5128-44a2-a47c-027d9b89b49c with data: {'tsx': '<code>import React from \'react\';
+import { Button } from ""@/components/ui/button"";
+import { Card, CardContent, CardHeader, CardTitle } from ""@/components/ui/card"";
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react"";
+export default function DefiLandingPage() {
+  return <div className=""flex flex-col min-h-screen"">
+      <header className=""px-4 lg:px-6 h-14 flex items-center"">
+        <a className=""flex items-center justify-center"" href=""#"">
+          <Shield className=""h-6 w-6"" />
+          <span className=""ml-2 text-2xl font-bold"">DeFi Solutions</span>
+        </a>
+        <nav className=""ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Products
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            About
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Contact
+          </a>
+        </nav>
+      </header>
+      <main className=""flex-1"">
+        <section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h1 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+                  Empower Your Finances with DeFi
+                </h1>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Discover our range of decentralized finance products designed to maximize your returns and minimize risk.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button>
+                  Explore Products
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Our Products
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/b963a7356489476cbeeca2de8067bdce.jpg"" alt=""The image is a placeholder graphic representing \'Yield Farming,\' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text \'Yield Farming\' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Yield Farming</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Maximize your crypto returns by providing liquidity to decentralized exchanges.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/e5e2f9237ad44cc992ecfb5d0371e153.jpg"" alt=""The image is a placeholder graphic representing the concept of \'Staking\' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Staking</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Earn passive income by locking up your assets in proof-of-stake networks.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/18ffea7f197644b1b816c81b302a9760.jpg"" alt=""The image is a placeholder graphic intended to represent the concept of \'Lending\' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Lending</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Borrow or lend crypto assets with competitive interest rates on our platform.
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Why Choose Us?
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <div className=""flex flex-col items-center text-center"">
+                <Shield className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Security First</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Our top priority is the security of your assets and personal information.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <Zap className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Experience quick transactions and real-time updates on your portfolio.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <BarChart3 className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Access advanced analytics and insights to make informed decisions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+                  Ready to Dive into DeFi?
+                </h2>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Join thousands of users already benefiting from our innovative DeFi solutions.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button size=""lg"">
+                  Get Started
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t"">
+        <p className=""text-xs text-gray-500 dark:text-gray-400"">© 2024 DeFi Solutions. All rights reserved.</p>
+        <nav className=""sm:ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Terms of Service
+          </a>
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Privacy
+          </a>
+        </nav>
+      </footer>
+    </div>;
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}} and status: completed
+"
+1748612290580,"[INFO]	2025-05-30T13:38:10.580Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Variant ID: e948e524-5128-44a2-a47c-027d9b89b49c updated successfully.
+"
+1748612290580,"[INFO]	2025-05-30T13:38:10.580Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching project with ID: 940e4107-b27a-4544-8145-4208c1303238 for user: 0x4631594484679F60a49F159a35A859c7efaAeA20, include_deleted: False
+"
+1748612290586,"[INFO]	2025-05-30T13:38:10.586Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Updating chat history for project ID: 940e4107-b27a-4544-8145-4208c1303238 with variant ID: e948e524-5128-44a2-a47c-027d9b89b49c, variant type: one, and query: create a website to offcer defi products with images
+"
+1748612290599,"[INFO]	2025-05-30T13:38:10.599Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Chat history updated successfully for project ID: 940e4107-b27a-4544-8145-4208c1303238.
+"
+1748612290599,"[INFO]	2025-05-30T13:38:10.599Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Checking and updating project status for project ID: 940e4107-b27a-4544-8145-4208c1303238
+"
+1748612290599,"[INFO]	2025-05-30T13:38:10.599Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching variants for project ID: 940e4107-b27a-4544-8145-4208c1303238, include_deleted: False
+"
+1748612290599,"[INFO]	2025-05-30T13:38:10.599Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Getting latest variant by project ID: 940e4107-b27a-4544-8145-4208c1303238 and variant type: one
+"
+1748612290599,"[INFO]	2025-05-30T13:38:10.599Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching latest variant for project ID: 940e4107-b27a-4544-8145-4208c1303238, variant type: one, include_deleted: False, include_failed: False
+"
+1748612290606,"[INFO]	2025-05-30T13:38:10.606Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Returning variant: {'variant_type': 'one', 'updated_at': '2025-05-30T13:38:10.573397+00:00', 'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'created_at': '2025-05-30T13:36:35.636108+00:00', 'status': 'completed', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_data': {'tsx': '<code>import React from \'react\';
+import { Button } from ""@/components/ui/button"";
+import { Card, CardContent, CardHeader, CardTitle } from ""@/components/ui/card"";
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react"";
+export default function DefiLandingPage() {
+  return <div className=""flex flex-col min-h-screen"">
+      <header className=""px-4 lg:px-6 h-14 flex items-center"">
+        <a className=""flex items-center justify-center"" href=""#"">
+          <Shield className=""h-6 w-6"" />
+          <span className=""ml-2 text-2xl font-bold"">DeFi Solutions</span>
+        </a>
+        <nav className=""ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Products
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            About
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Contact
+          </a>
+        </nav>
+      </header>
+      <main className=""flex-1"">
+        <section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h1 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+                  Empower Your Finances with DeFi
+                </h1>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Discover our range of decentralized finance products designed to maximize your returns and minimize risk.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button>
+                  Explore Products
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Our Products
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/b963a7356489476cbeeca2de8067bdce.jpg"" alt=""The image is a placeholder graphic representing \'Yield Farming,\' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text \'Yield Farming\' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Yield Farming</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Maximize your crypto returns by providing liquidity to decentralized exchanges.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/e5e2f9237ad44cc992ecfb5d0371e153.jpg"" alt=""The image is a placeholder graphic representing the concept of \'Staking\' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Staking</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Earn passive income by locking up your assets in proof-of-stake networks.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/18ffea7f197644b1b816c81b302a9760.jpg"" alt=""The image is a placeholder graphic intended to represent the concept of \'Lending\' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Lending</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Borrow or lend crypto assets with competitive interest rates on our platform.
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Why Choose Us?
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <div className=""flex flex-col items-center text-center"">
+                <Shield className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Security First</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Our top priority is the security of your assets and personal information.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <Zap className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Experience quick transactions and real-time updates on your portfolio.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <BarChart3 className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Access advanced analytics and insights to make informed decisions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+                  Ready to Dive into DeFi?
+                </h2>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Join thousands of users already benefiting from our innovative DeFi solutions.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button size=""lg"">
+                  Get Started
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t"">
+        <p className=""text-xs text-gray-500 dark:text-gray-400"">© 2024 DeFi Solutions. All rights reserved.</p>
+        <nav className=""sm:ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Terms of Service
+          </a>
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Privacy
+          </a>
+        </nav>
+      </footer>
+    </div>;
+}
+</code>', 'imports': {'BarChart3': 'lucide-react', 'CardContent': '@/components/ui/card', 'Shield': 'lucide-react', 'Button': '@/components/ui/button', 'CardHeader': '@/components/ui/card', 'Zap': 'lucide-react', 'React': 'react', 'ArrowRight': 'lucide-react', 'Card': '@/components/ui/card', 'CardTitle': '@/components/ui/card'}}, 'query_text': 'create a website to offcer defi products with images', 'variant_creation_status': 'DONE', 'previous_variant_id': None, 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c'}
+"
+1748612290607,"[INFO]	2025-05-30T13:38:10.607Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Getting latest variant by project ID: 940e4107-b27a-4544-8145-4208c1303238 and variant type: two
+"
+1748612290607,"[INFO]	2025-05-30T13:38:10.607Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching latest variant for project ID: 940e4107-b27a-4544-8145-4208c1303238, variant type: two, include_deleted: False, include_failed: False
+"
+1748612290613,"[INFO]	2025-05-30T13:38:10.612Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Returning variant: {'variant_type': 'two', 'updated_at': '2025-05-30T13:36:58.465338+00:00', 'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'created_at': '2025-05-30T13:36:35.636108+00:00', 'status': 'in_progress', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'query_text': 'create a website to offcer defi products with images', 'variant_data': {}, 'variant_creation_status': 'GENERATING_VARIANT_DATA', 'previous_variant_id': None, 'variant_id': '3330872a-3106-44a6-8c06-f831c598efd9'}
+"
+1748612290613,"[INFO]	2025-05-30T13:38:10.613Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Getting latest variant by project ID: 940e4107-b27a-4544-8145-4208c1303238 and variant type: three
+"
+1748612290613,"[INFO]	2025-05-30T13:38:10.613Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetching latest variant for project ID: 940e4107-b27a-4544-8145-4208c1303238, variant type: three, include_deleted: False, include_failed: False
+"
+1748612290617,"[INFO]	2025-05-30T13:38:10.617Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Returning variant: {'variant_type': 'three', 'updated_at': '2025-05-30T13:36:58.468326+00:00', 'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'created_at': '2025-05-30T13:36:35.636108+00:00', 'status': 'in_progress', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'query_text': 'create a website to offcer defi products with images', 'variant_data': {}, 'variant_creation_status': 'GENERATING_VARIANT_DATA', 'previous_variant_id': None, 'variant_id': '6491c183-9829-45a4-9778-ee6173cd098c'}
+"
+1748612290617,"[INFO]	2025-05-30T13:38:10.617Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Fetched non-failed variants for project ID: 940e4107-b27a-4544-8145-4208c1303238
+"
+1748612290622,"[INFO]	2025-05-30T13:38:10.622Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Notifying variant: {'user_id': '0x4631594484679F60a49F159a35A859c7efaAeA20', 'project_id': '940e4107-b27a-4544-8145-4208c1303238', 'variant_id': 'e948e524-5128-44a2-a47c-027d9b89b49c', 'variant_data': {'tsx': '<code>import React from \'react\';
+import { Button } from ""@/components/ui/button"";
+import { Card, CardContent, CardHeader, CardTitle } from ""@/components/ui/card"";
+import { ArrowRight, Shield, Zap, BarChart3 } from ""lucide-react"";
+export default function DefiLandingPage() {
+  return <div className=""flex flex-col min-h-screen"">
+      <header className=""px-4 lg:px-6 h-14 flex items-center"">
+        <a className=""flex items-center justify-center"" href=""#"">
+          <Shield className=""h-6 w-6"" />
+          <span className=""ml-2 text-2xl font-bold"">DeFi Solutions</span>
+        </a>
+        <nav className=""ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Products
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            About
+          </a>
+          <a className=""text-sm font-medium hover:underline underline-offset-4"" href=""#"">
+            Contact
+          </a>
+        </nav>
+      </header>
+      <main className=""flex-1"">
+        <section className=""w-full py-12 md:py-24 lg:py-32 xl:py-48"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h1 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl lg:text-6xl/none"">
+                  Empower Your Finances with DeFi
+                </h1>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Discover our range of decentralized finance products designed to maximize your returns and minimize risk.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button>
+                  Explore Products
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Our Products
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/b963a7356489476cbeeca2de8067bdce.jpg"" alt=""The image is a placeholder graphic representing \'Yield Farming,\' a concept in decentralized finance (DeFi). It is designed in a simple and generic style, intended to be replaced with a more specific and visually appealing graphic related to yield farming. The placeholder is square-shaped with a height and width of 100 pixels, and it is displayed prominently above the text \'Yield Farming\' in the layout. The image is visually separated from the title by a margin at the bottom, indicating its role as an illustrative element in the product card."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Yield Farming</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Maximize your crypto returns by providing liquidity to decentralized exchanges.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/e5e2f9237ad44cc992ecfb5d0371e153.jpg"" alt=""The image is a placeholder graphic representing the concept of \'Staking\' in the context of decentralized finance (DeFi). It is designed to be a square image, measuring 100 pixels in height and 100 pixels in width, with a styling class that sets it to a width of 24 pixels and a height of 24 pixels, along with a margin-bottom of 4 pixels. The actual content of the image is not specified, but it is intended to visually represent staking, which involves locking up assets in proof-of-stake networks to earn passive income."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Staking</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Earn passive income by locking up your assets in proof-of-stake networks.
+                </CardContent>
+              </Card>
+              <Card>
+                <CardHeader>
+                  <img src=""https://akira-ui-generator.s3.us-west-2.amazonaws.com/940e4107-b27a-4544-8145-4208c1303238/18ffea7f197644b1b816c81b302a9760.jpg"" alt=""The image is a placeholder graphic intended to represent the concept of \'Lending\' in a decentralized finance context. It is displayed within a circular frame, measuring 100x100 pixels, and is styled to fit a width of 24 pixels and a height of 24 pixels. The image is positioned at the top of a card, with a margin below it, indicating its role as a visual element to attract attention to the lending product being described. The placeholder is generic and lacks specific imagery, suggesting that it should be replaced with a relevant graphic that visually conveys the idea of lending in the financial domain."" className=""w-24 h-24 mb-4"" />
+                  <CardTitle>Lending</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  Borrow or lend crypto assets with competitive interest rates on our platform.
+                </CardContent>
+              </Card>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32"">
+          <div className=""container px-4 md:px-6"">
+            <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl text-center mb-12"">
+              Why Choose Us?
+            </h2>
+            <div className=""grid gap-6 lg:grid-cols-3 lg:gap-12"">
+              <div className=""flex flex-col items-center text-center"">
+                <Shield className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Security First</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Our top priority is the security of your assets and personal information.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <Zap className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Lightning Fast</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Experience quick transactions and real-time updates on your portfolio.
+                </p>
+              </div>
+              <div className=""flex flex-col items-center text-center"">
+                <BarChart3 className=""h-12 w-12 mb-4"" />
+                <h3 className=""text-xl font-bold mb-2"">Data Driven</h3>
+                <p className=""text-gray-500 dark:text-gray-400"">
+                  Access advanced analytics and insights to make informed decisions.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section className=""w-full py-12 md:py-24 lg:py-32 bg-gray-100 dark:bg-gray-800"">
+          <div className=""container px-4 md:px-6"">
+            <div className=""flex flex-col items-center space-y-4 text-center"">
+              <div className=""space-y-2"">
+                <h2 className=""text-3xl font-bold tracking-tighter sm:text-4xl md:text-5xl"">
+                  Ready to Dive into DeFi?
+                </h2>
+                <p className=""mx-auto max-w-[700px] text-gray-500 md:text-xl dark:text-gray-400"">
+                  Join thousands of users already benefiting from our innovative DeFi solutions.
+                </p>
+              </div>
+              <div className=""space-x-4"">
+                <Button size=""lg"">
+                  Get Started
+                  <ArrowRight className=""ml-2 h-4 w-4"" />
+                </Button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+      <footer className=""flex flex-col gap-2 sm:flex-row py-6 w-full shrink-0 items-center px-4 md:px-6 border-t"">
+        <p className=""text-xs text-gray-500 dark:text-gray-400"">© 2024 DeFi Solutions. All rights reserved.</p>
+        <nav className=""sm:ml-auto flex gap-4 sm:gap-6"">
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Terms of Service
+          </a>
+          <a className=""text-xs hover:underline underline-offset-4"" href=""#"">
+            Privacy
+          </a>
+        </nav>
+      </footer>
+    </div>;
+}
+</code>', 'imports': {'React': 'react', 'Button': '@/components/ui/button', 'Card': '@/components/ui/card', 'CardContent': '@/components/ui/card', 'CardHeader': '@/components/ui/card', 'CardTitle': '@/components/ui/card', 'ArrowRight': 'lucide-react', 'Shield': 'lucide-react', 'Zap': 'lucide-react', 'BarChart3': 'lucide-react'}}, 'query_text': 'create a website to offcer defi products with images', 'variant_type': 'one', 'status': 'completed', 'variant_creation_status': 'DONE'}
+"
+1748612290647,"[INFO]	2025-05-30T13:38:10.646Z	5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Variant e948e524-5128-44a2-a47c-027d9b89b49c updated and notified successfully
+"
+1748612290648,"END RequestId: 5ddaa18c-3b4b-47a5-bf43-b26a182c89bb
+"
+1748612290648,"REPORT RequestId: 5ddaa18c-3b4b-47a5-bf43-b26a182c89bb	Duration: 83002.21 ms	Billed Duration: 83003 ms	Memory Size: 4096 MB	Max Memory Used: 348 MB	
+"

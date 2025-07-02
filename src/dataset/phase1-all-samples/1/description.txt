@@ -1,0 +1,1 @@
+Create a blog page layout for a personal tech blog called "TechSage," featuring the latest posts at the top.
